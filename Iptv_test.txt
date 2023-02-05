@@ -6,14 +6,3 @@ EXTINF:-1 logo="" group-title="" ,東森新聞台
 https://p.ggiptv.com/play.php?token=NPcVr9iDv7tjIRWgCAzYPZxI&tid=gt&id=55
 EXTINF:-1 logo="" group-title="" ,台視新聞台
 https://p.ggiptv.com/play.php?token=6Jqb0LS%2B2ATlBWIf9piv16%2Fy&tid=gt&id=56
-EXTINF:-1 logo="" group-title="" ,
-
-EXTINF:-1 logo="" group-title="" ,
-
-EXTINF:-1 logo="" group-title="" ,
-
-EXTINF:-1 logo="" group-title="" ,
-
-EXTINF:-1 logo="" group-title="" ,
-
-EXTINF:-1 logo="" group-title="" ,
