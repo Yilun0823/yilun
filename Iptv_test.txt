@@ -40,7 +40,6 @@
 20亞洲旅遊,http://www.336699.live:1935/blocksix/litv-longturn17.stream/playlist.m3u8
 20亞洲旅遊,http://220.134.196.147:9568/http/116.50.42.18:8081/hls/76/818/ch61.m3u8
 21TLC旅遊生活,http://220.134.196.147:9502/http/116.50.42.19:8081/hls/70/812/ch38.m3u8?token=7375646f0018ec77aceebbf3924e73d31e06ebef
-21TLC旅遊生活,http://www.yshmzmc.top/gtjm.php?id=live1005
 22動物星球,http://60.251.59.180:8512/http/116.50.42.18:8088/hls/70/812/ch37.m3u8?token=7375646f37d6b4749c6736c4160c9b3011e5cfda
 22動物星球,http://220.134.196.147:9503/http/116.50.42.18:8088/hls/70/812/ch37.m3u8?token=7375646f37d6b4749c6736c4160c9b3011e5cfda
 24MOMO親子,http://220.134.196.147:9502/http/116.50.42.18:8088/hls/70/812/ch40.m3u8
@@ -107,17 +106,7 @@
 57東森財經股市,https://raw.githubusercontent.com/killme1206/YTM/main/23.m3u8
 58非凡新聞,http://220.134.196.147:9502/http/116.50.42.18:8081/hls/75/817/ch57.m3u8
 61衛視電影,http://220.134.196.147:9549/http/116.50.42.18:8081/hls/62/804/ch07.m3u8
-62東森電影,http://27.47.71.49:8811/hls/58/index.m3u8
-62東森電影,http://27.47.71.203:8811/hls/58/index.m3u8
-62東森電影,https://pull-l3-cny.douyincdn.com/live/9bee4686cabb5b561af689d10cd47372.m3u8
 65HBO,http://220.134.196.147:9539/http/116.50.42.18:8081/hls/71/813/ch41.m3u8
-65HBO,http://epg.iptveros.com:80/play/live.php?mac=00:1a:79:4c:83:c2&extension=ts&stream=941648
-65HBO強檔,http://epg.iptveros.com:80/play/live.php?mac=00:1a:79:4c:83:c2&extension=ts&stream=941647
-65HBO家庭,http://epg.iptveros.com:80/play/live.php?mac=00:1a:79:4c:83:c2&extension=ts&stream=941646
-65HBO原創,http://epg.iptveros.com:80/play/live.php?mac=00:1a:79:4c:83:c2&extension=ts&stream=941645
-66東森洋片,http://27.47.71.49:8811/hls/59/index.m3u8
-66東森洋片,http://27.47.71.203:8811/hls/59/index.m3u8
-66東森洋片,https://pull-l3-cny.douyincdn.com/live/2d4b9d41de09845d514a18183298792f.m3u8
 67AXN,http://220.134.196.147:9503/http/116.50.42.18:8081/hls/71/813/ch43.m3u8
 68好萊塢電影,http://220.134.196.147:9502/http/116.50.42.18:8081/hls/74/816/ch55.m3u8
 69CINEMAX,http://220.134.196.147:9533/http/116.50.42.19:8081/hls/71/813/ch42.m3u8
@@ -137,7 +126,6 @@
 76緯來日本,rtmp://219.80.97.77/sat/tv771
 76緯來日本,rtmp://219.80.97.15/sat/tv771
 76緯來日本,rtmp://119.81.124.89/sat/tv771
-76緯來日本,http://50.7.220.74:8278/videolandjapan/playlist.m3u8?tid=MBEB7017910870179108&ct=19346&tsum=f7186077b9ae7cdb1970969bd90a4d0a
 89緯來電影,http://220.134.196.147:9538/http/116.50.42.19:8081/hls/69/811/ch35.m3u8
 91Animax動漫,http://220.134.196.147:9516/http/60.251.39.91:8081/hls/70/812/ch39.m3u8
 123非凡商業,http://59.125.101.187:8535/http/60.251.39.91:8081/hls/74/816/ch56.m3u8
