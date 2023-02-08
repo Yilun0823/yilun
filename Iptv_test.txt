@@ -1,8 +1,13 @@
-#EXTINF:-1 logo="" group-title="" ,中天新聞台
-https://p.ggiptv.com/play.php?token=gBwfe5A246bi1drYwJdNXDDL&tid=gt&id=53
-#EXTINF:-1 logo="" group-title="" ,TVBS新聞台
-https://p.ggiptv.com/play.php?token=vt5Ec3iCLn3ohmbrAXSvTLDu&tid=gt&id=54
-EXTINF:-1 logo="" group-title="" ,東森新聞台
-https://p.ggiptv.com/play.php?token=NPcVr9iDv7tjIRWgCAzYPZxI&tid=gt&id=55
-EXTINF:-1 logo="" group-title="" ,台視新聞台
-https://p.ggiptv.com/play.php?token=6Jqb0LS%2B2ATlBWIf9piv16%2Fy&tid=gt&id=56
+5CNN,https://cnn-cnninternational-1-eu.rakuten.wurl.tv/206849c7acd1570962df1ad525fa8688.m3u8?blog.ntnas.top
+6民視,http://www.336699.live:1935/blockfour/4gtv-4gtv002.stream/playlist.m3u8
+rtmp://119.81.124.89/sat/tv051
+rtmp://219.80.97.77/sat/tv051
+rtmp://219.80.97.15/sat/tv051
+7人間衛視,http://218.32.47.179:8506/http/116.50.42.18:8081/hls/69/811/ch36.m3u8
+7人間衛視,http://123.51.229.65:18561/http/116.50.42.18:8081/hls/69/811/ch36.m3u8
+7人間衛視,http://www.336699.live:1935/blocksix/4gtv-live008.stream/playlist.m3u8
+7人間衛視,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
+8台視,http://60.251.33.252:18543/http/192.168.1.9:8081/hls/72/814/ch46.m3u8
+8台視,rtmp://119.81.124.89/sat/tv071
+8台視,rtmp://219.80.97.77/sat/tv071
+8台視,rtmp://219.80.97.15/sat/tv071
