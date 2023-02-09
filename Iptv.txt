@@ -3,14 +3,12 @@
 6民視,http://www.336699.live:1935/blockfour/4gtv-4gtv002.stream/playlist.m3u8
 6民視,rtmp://119.81.124.89/sat/tv051
 6民視,rtmp://219.80.97.77/sat/tv051
-6民視,rtmp://219.80.97.15/sat/tv051
 7人間衛視,http://218.32.47.179:8506/http/116.50.42.18:8081/hls/69/811/ch36.m3u8
 7人間衛視,http://www.336699.live:1935/blocksix/4gtv-live008.stream/playlist.m3u8
 7人間衛視,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
 8台視,http://60.251.33.252:18543/http/192.168.1.9:8081/hls/72/814/ch46.m3u8
 8台視,rtmp://119.81.124.89/sat/tv071
 8台視,rtmp://219.80.97.77/sat/tv071
-8台視,rtmp://219.80.97.15/sat/tv071
 9大愛,https://raw.githubusercontent.com/killme1206/YTM/main/33.m3u8
 9大愛,http://www.336699.live:1935/blocksix/4gtv-live007.stream/playlist.m3u8
 9大愛,http://218.32.47.179:8507/http/116.50.42.18:8081/hls/73/815/ch52.m3u8
@@ -19,15 +17,12 @@
 9大愛2,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
 10中視,rtmp://119.81.124.89/sat/tv091
 10中視,rtmp://219.80.97.77/sat/tv091
-10中視,rtmp://219.80.97.15/sat/tv091
 10中視,http://www.336699.live:1935/blockfour/4gtv-4gtv040.stream/playlist.m3u8
 10中視經典綜藝,https://raw.githubusercontent.com/killme1206/YTM/main/46.m3u8
 10中視新聞,https://raw.githubusercontent.com/killme1206/YTM/main/44.m3u8
 10中視新聞,http://www.336699.live:1935/blockfour/4gtv-4gtv074.stream/playlist.m3u8
-12華視,http://218.32.47.179:18503/http/192.168.1.9:8081/hls/72/814/ch48.m3u8
 12華視,rtmp://119.81.124.89/sat/tv111
 12華視,rtmp://219.80.97.77/sat/tv111
-12華視,rtmp://219.80.97.15/sat/tv111
 12華視,http://www.336699.live:1935/blockfour/4gtv-4gtv041.stream/playlist.m3u8
 12華視新聞資訊,http://www.336699.live:1935/blockfour/4gtv-4gtv052.stream/playlist.m3u8
 12華視新聞資訊,http://220.134.196.147:9538/http/60.251.39.91:8081/hls/61/803/ch03.m3u8
@@ -37,7 +32,6 @@
 16原住民頻道,http://streamipcf.akamaized.net/live/_definst_/live_720/key_b1500.m3u8
 17客家電視台,http://www.336699.live:1935/blockfour/4gtv-4gtv043.stream/playlist.m3u8
 18國家地理頻道,http://60.251.59.180:8526/http/116.50.42.18:8081/hls/61/803/ch01.m3u8
-18國家地理頻道,http://218.32.47.179:18509/http/116.50.42.18:8081/hls/61/803/ch01.m3u8
 20亞洲旅遊,http://www.336699.live:1935/blocksix/litv-longturn17.stream/playlist.m3u8
 20亞洲旅遊,http://220.134.196.147:9568/http/116.50.42.18:8081/hls/76/818/ch61.m3u8
 21TLC旅遊生活,http://220.134.196.147:9502/http/116.50.42.19:8081/hls/70/812/ch38.m3u8?token=7375646f0018ec77aceebbf3924e73d31e06ebef
@@ -71,7 +65,6 @@
 41八大戲劇,http://220.134.196.147:9531/http/60.251.39.91:8081/hls/66/808/ch23.m3u8
 42TVBS歡樂,http://www.336699.live:1935/blockfour/4gtv-4gtv068.stream/playlist.m3u8
 42TVBS歡樂,rtmp://219.80.97.77/sat/tv421
-42TVBS歡樂,rtmp://219.80.97.15/sat/tv421
 42TVBS歡樂,rtmp://119.81.124.89/sat/tv421
 43緯來戲劇,http://220.134.196.147:9519/http/60.251.39.91:8081/hls/69/811/ch33.m3u8
 47東森購物1,http://www.336699.live:1935/blocksix/4gtv-live047.stream/playlist.m3u8
@@ -95,7 +88,6 @@
 54三立新聞,http://138.2.63.32:9500/live.m3u8?c=1
 55TVBS新聞,http://www.336699.live:1935/blocksix/4gtv-live072.stream/chunklist.m3u8
 55TVBS新聞,rtmp://219.80.97.77/sat/tv551
-55TVBS新聞,rtmp://219.80.97.15/sat/tv551
 55TVBS新聞,rtmp://119.81.124.89/sat/tv551
 55TVBS新聞,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
 55TVBS新聞,http://38.64.72.148/hls/modn/list/4006/chunklist0.m3u8
@@ -114,66 +106,17 @@
 72緯來體育,http://60.251.33.252:18509/http/192.168.1.9:8081/hls/67/809/ch28.m3u8
 72緯來體育,rtmp://119.81.124.89/sat/tv721
 72緯來體育,rtmp://219.80.97.77/sat/tv721
-72緯來體育,rtmp://219.80.97.15/sat/tv721
 72緯來體育,http://220.134.196.147:9563/http/59.120.8.187:8081/hls/67/809/ch28.m3u8
 73緯來育樂,http://123.51.229.65:18541/http/59.120.8.187:8081/hls/68/810/ch30.m3u8
 73緯來育樂,http://60.251.33.252:18541/http/59.120.8.187:8081/hls/68/810/ch30.m3u8
 73緯來育樂,rtmp://219.80.97.77/sat/tv701
-73緯來育樂,rtmp://219.80.97.15/sat/tv701
 73緯來育樂,rtmp://119.81.124.89/sat/tv701
 74東森超視,http://220.134.196.147:9502/http/116.50.42.18:8081/hls/64/806/ch14.m3u8
 75國興衛視,http://220.134.196.147:9546/http/116.50.42.19:8081/hls/64/806/ch15.m3u8
 76緯來日本,http://60.251.59.180:8513/http/116.50.42.18:8081/hls/69/811/ch34.m3u8
 76緯來日本,rtmp://219.80.97.77/sat/tv771
-76緯來日本,rtmp://219.80.97.15/sat/tv771
 76緯來日本,rtmp://119.81.124.89/sat/tv771
 89緯來電影,http://220.134.196.147:9538/http/116.50.42.19:8081/hls/69/811/ch35.m3u8
 91Animax動漫,http://220.134.196.147:9516/http/60.251.39.91:8081/hls/70/812/ch39.m3u8
 123非凡商業,http://59.125.101.187:8535/http/60.251.39.91:8081/hls/74/816/ch56.m3u8
 125MTV Live,http://www.336699.live:1935/blocksix/4gtv-live025.stream/playlist.m3u8
-🇯🇵日本,#genre#
-MTV,http://123.30.146.172:21585/501/mpegts
-kids station,http://123.30.146.172:21585/502/mpegts
-neco channel,http://123.30.146.172:21585/504/mpegts
-movie plus,http://123.30.146.172:21585/505/mpegts
-Green channel,http://123.30.146.172:21585/507/mpegts
-animax,http://123.30.146.172:21585/508/mpegts
-テレビ大阪,http://123.30.146.172:21585/512/mpegts
-Kansai TV,http://123.30.146.172:21585/518/mpegts
-日本映画専門チャンネル,http://123.30.146.172:21585/520/mpegts
-TOKYO MX 1,http://123.30.146.172:21585/521/mpegts
-MBS,http://123.30.146.172:21585/522/mpegts
-ytv,http://123.30.146.172:21585/523/mpegts
-music japan,http://123.30.146.172:21585/525/mpegts
-National Geographic,http://123.30.146.172:21585/529/mpegts
-discovery,http://123.30.146.172:21585/531/mpegts
-ホームドラマ!,http://123.30.146.172:21585/532/mpegts
-時代劇専門チャンネル,http://123.30.146.172:21585/533/mpegts
-G+,http://123.30.146.172:21585/534/mpegts
-BSJapanext,http://123.30.146.172:21585/535/mpegts
-朝日放送テレビ 6,http://123.30.146.172:21585/550/mpegts
-BSfuji,http://123.30.146.172:21585/551/mpegts
-BS11,http://123.30.146.172:21585/600/mpegts
-BS12,http://123.30.146.172:21585/601/mpegts
-TBS1,http://123.30.146.172:21585/603/mpegts
-东映频道,http://123.30.146.172:21585/604/mpegts
-卫星剧场,http://123.30.146.172:21585/605/mpegts
-TAKARAZUKA SKY STAGE,http://123.30.146.172:21585/606/mpegts
-family剧场,http://123.30.146.172:21585/607/mpegts
-MONDO TV,http://123.30.146.172:21585/609/mpegts
-TBSチャンネル 2,http://123.30.146.172:21585/610/mpegts
-We NiziU! TV2,http://123.30.146.172:21585/611/mpegts
-银河剧场,http://123.30.146.172:21585/612/mpegts
-スーパー！ドラマTV,http://123.30.146.172:21585/613/mpegts
-FOX,http://123.30.146.172:21585/614/mpegts
-LaLaTV,http://123.30.146.172:21585/615/mpegts
-AT-X,http://123.30.146.172:21585/616/mpegts
-釣りビジョン,http://123.30.146.172:21585/617/mpegts
-写真ビデオ,http://123.30.146.172:21585/620/mpegts
-フジテレビＯＮＥ,http://123.30.146.172:21585/621/mpegts
-フジテレビＴＷＯ,http://123.30.146.172:21585/622/mpegts
-フジテレビＮＥＸＴ,http://123.30.146.172:21585/623/mpegts
-テレ朝チャンネル１,http://123.30.146.172:21585/624/mpegts
-テレ朝チャンネル２,http://123.30.146.172:21585/625/mpegts
-AXN,http://123.30.146.172:21585/626/mpegts
-スポーツライブ＋HD,http://123.30.146.172:21585/627/mpegts
