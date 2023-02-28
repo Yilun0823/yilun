@@ -63,15 +63,12 @@
 52中天新聞,http://220.134.196.147:9503/http/116.50.42.18:8081/hls/78/80/ch63max.m3u8
 52中天新聞,https://raw.githubusercontent.com/killme1206/TVBoxDIY/main/32.m3u8
 53民視新聞,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
-53民視新聞,
 54三立iNews,https://raw.githubusercontent.com/killme1206/TVBoxDIY/main/29.m3u8
 54三立Live新聞,https://raw.githubusercontent.com/killme1206/TVBoxDIY/main/28.m3u8
 54三立新聞,http://60.251.59.180:8506/http/60.251.39.91:8081/hls/65/807/ch18.m3u8
 54三立新聞,http://220.134.196.147:9502/http/60.251.39.91:8081/hls/65/807/ch18.m3u8
-55TVBS新聞,
 55TVBS新聞,rtmp://119.81.124.89/sat/tv551
 55TVBS新聞,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
-55TVBS新聞,
 56TVBS歡樂,rtmp://119.81.124.89/sat/tv421
 56TVBS歡樂,rtmp://219.80.97.77/sat/tv421
 57東森財經,https://raw.githubusercontent.com/killme1206/TVBoxDIY/main/50.m3u8
@@ -90,7 +87,11 @@
 73緯來育樂,rtmp://119.81.124.89/sat/tv701
 74東森超視,http://220.134.196.147:9502/http/116.50.42.18:8081/hls/64/806/ch14.m3u8
 75國興衛視,http://220.134.196.147:9546/http/116.50.42.19:8081/hls/64/806/ch15.m3u8
+76緯來日本,http://60.251.59.180:8513/http/116.50.42.18:8081/hls/69/811/ch34.m3u8
+76緯來日本,http://220.134.196.147:9579/http/116.50.42.18:8081/hls/69/811/ch34.m3u8
+76緯來日本,http://baidu.douyincdn.freetvtv.com/wlrb/m2.m3u8
 76緯來日本,rtmp://119.81.124.89/sat/tv771
+76緯來日本,rtmp://219.80.97.77/sat/tv771
 89緯來電影,http://220.134.196.147:9538/http/116.50.42.19:8081/hls/69/811/ch35.m3u8
 91Animax動漫,http://220.134.196.147:9516/http/60.251.39.91:8081/hls/70/812/ch39.m3u8
 123非凡商業,http://59.125.101.187:8535/http/60.251.39.91:8081/hls/74/816/ch56.m3u8
