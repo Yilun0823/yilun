@@ -13,6 +13,7 @@
 10中視(新),http://www.ubvip1688.com/ublive/bb26a65561ff636a.m3u8
 10中視,rtmp://119.81.124.89/sat/tv091
 10中視,rtmp://219.80.97.77/sat/tv091
+10中視經典(新),http://www.ubvip1688.com/ublive/7eef247c768e330d.m3u8
 10中視經典綜藝,https://raw.githubusercontent.com/killme1206/TVBoxDIY/main/46.m3u8
 10中視新聞,https://raw.githubusercontent.com/killme1206/TVBoxDIY/main/44.m3u8
 12華視,http://218.32.47.179:18503/http/192.168.1.9:8081/hls/72/814/ch48.m3u8
@@ -26,6 +27,7 @@
 20亞洲旅遊,http://www.336699.live:1935/blocksix/litv-longturn17.stream/playlist.m3u8
 20亞洲旅遊,http://220.134.196.147:9568/http/116.50.42.18:8081/hls/76/818/ch61.m3u8
 21TLC旅遊生活,http://220.134.196.147:9502/http/116.50.42.19:8081/hls/70/812/ch38.m3u8?token=7375646f0018ec77aceebbf3924e73d31e06ebef
+21TLC旅遊生活(新),https://cdn016.tv6868.com/com.ubdata.hdtv/c60c8382a9f1f6489f94fd9b4d09f591/index.m3u8
 22動物星球,http://60.251.59.180:8512/http/116.50.42.18:8088/hls/70/812/ch37.m3u8?token=7375646f37d6b4749c6736c4160c9b3011e5cfda
 22動物星球,http://220.134.196.147:9503/http/116.50.42.18:8088/hls/70/812/ch37.m3u8?token=7375646f37d6b4749c6736c4160c9b3011e5cfda
 24MOMO親子,http://220.134.196.147:9502/http/116.50.42.18:8088/hls/70/812/ch40.m3u8
