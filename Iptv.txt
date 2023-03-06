@@ -10,11 +10,8 @@
 8台視,rtmp://119.81.124.89/sat/tv071
 9大愛,http://218.32.47.179:8507/http/116.50.42.18:8081/hls/73/815/ch52.m3u8
 9大愛2,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
-10中視(新),http://www.ubvip1688.com/ublive/bb26a65561ff636a.m3u8
 10中視,rtmp://119.81.124.89/sat/tv091
 10中視,rtmp://219.80.97.77/sat/tv091
-10中視經典(新),http://www.ubvip1688.com/ublive/7eef247c768e330d.m3u8
-10中視菁采,http://www.ubvip1688.com/ublive/740d756e0e9544ce.m3u8
 10中視新聞,https://raw.githubusercontent.com/killme1206/TVBoxDIY/main/44.m3u8
 12華視,http://218.32.47.179:18503/http/192.168.1.9:8081/hls/72/814/ch48.m3u8
 12華視,rtmp://119.81.124.89/sat/tv111
@@ -57,7 +54,6 @@
 47東森購物1,http://www.336699.live:1935/blocksix/4gtv-live047.stream/playlist.m3u8
 48東森購物2,http://www.336699.live:1935/blocksix/4gtv-live046.stream/playlist.m3u8
 50年代新聞,http://220.134.196.147:9517/http/60.251.39.91:8081/hls/67/809/ch27.m3u8
-51東森新聞(新),https://lss.line-scdn.net/cc_tw/p/live/hOWdHzGFmEXkIXA9pMUkMTmI1GRt3BF96ZFMMTHQ0ShxwCAB-NgNdSS44TEl3VQIvYlANGS42Tkl3RFcuZ1deHHsxUEh1HlctZkhfHnwuTk5_AVYvbFY/720/chunklist.m3u8
 51東森新聞,http://60.251.59.180:8503/http/60.251.39.91:8081/hls/63/805/4_2213132.m3u8
 51東森新聞,http://60.251.59.180:8503/http/60.251.39.91:8081/hls/63/805/ch10.m3u8
 51東森新聞,http://220.134.196.147:9514/http/60.251.39.91:8081/hls/63/805/ch10.m3u8
