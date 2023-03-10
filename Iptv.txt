@@ -1,4 +1,6 @@
 🇹🇼台灣,#genre#
+愛爾達體育1台,https://elta.irtblztjwzxz000041.xyz/elta/download/11/index.m3u8
+愛爾達體育2台,https://elta.irtblztjwzxz000041.xyz/elta/download/22/index.m3u8
 5CNN,https://cnn-cnninternational-1-eu.rakuten.wurl.tv/206849c7acd1570962df1ad525fa8688.m3u8?blog.ntnas.top
 6民視,rtmp://119.81.124.89/sat/tv051
 6民視,http://23.237.10.66:16334
@@ -13,18 +15,14 @@
 10中視,rtmp://119.81.124.89/sat/tv091
 10中視,rtmp://219.80.97.77/sat/tv091
 10中視新聞,https://raw.githubusercontent.com/killme1206/TVBoxDIY/main/44.m3u8
-12華視,http://218.32.47.179:18503/http/192.168.1.9:8081/hls/72/814/ch48.m3u8
 12華視,rtmp://119.81.124.89/sat/tv111
 12華視,rtmp://219.80.97.77/sat/tv111
 12華視新聞資訊,http://220.134.196.147:9538/http/60.251.39.91:8081/hls/61/803/ch03.m3u8
-13公視,http://218.32.47.179:18505/http/116.50.42.18:8081/hls/73/815/ch50.m3u8
 13公視,http://220.134.196.147:9572/http/116.50.42.18:8081/hls/73/815/ch50.m3u8
 16原住民頻道,http://streamipcf.akamaized.net/live/_definst_/live_720/key_b1500.m3u8
-18國家地理頻道,http://60.251.59.180:8526/http/116.50.42.18:8081/hls/61/803/ch01.m3u8
 20亞洲旅遊,http://www.336699.live:1935/blocksix/litv-longturn17.stream/playlist.m3u8
 20亞洲旅遊,http://220.134.196.147:9568/http/116.50.42.18:8081/hls/76/818/ch61.m3u8
 21TLC旅遊生活,http://220.134.196.147:9502/http/116.50.42.19:8081/hls/70/812/ch38.m3u8?token=7375646f0018ec77aceebbf3924e73d31e06ebef
-22動物星球,http://60.251.59.180:8512/http/116.50.42.18:8088/hls/70/812/ch37.m3u8?token=7375646f37d6b4749c6736c4160c9b3011e5cfda
 22動物星球,http://220.134.196.147:9503/http/116.50.42.18:8088/hls/70/812/ch37.m3u8?token=7375646f37d6b4749c6736c4160c9b3011e5cfda
 24MOMO親子,http://220.134.196.147:9502/http/116.50.42.18:8088/hls/70/812/ch40.m3u8
 25東森幼幼,http://220.134.196.147:9503/http/116.50.42.18:8081/hls/63/805/ch09.m3u8
@@ -54,16 +52,12 @@
 47東森購物1,http://www.336699.live:1935/blocksix/4gtv-live047.stream/playlist.m3u8
 48東森購物2,http://www.336699.live:1935/blocksix/4gtv-live046.stream/playlist.m3u8
 50年代新聞,http://220.134.196.147:9517/http/60.251.39.91:8081/hls/67/809/ch27.m3u8
-51東森新聞,http://60.251.59.180:8503/http/60.251.39.91:8081/hls/63/805/4_2213132.m3u8
-51東森新聞,http://60.251.59.180:8503/http/60.251.39.91:8081/hls/63/805/ch10.m3u8
 51東森新聞,http://220.134.196.147:9514/http/60.251.39.91:8081/hls/63/805/ch10.m3u8
 52中天新聞,https://raw.githubusercontent.com/killme1206/TVBoxDIY/main/24.m3u8
 52中天新聞,http://220.134.196.147:9503/http/116.50.42.18:8081/hls/78/80/ch63max.m3u8
 52中天新聞,https://raw.githubusercontent.com/killme1206/TVBoxDIY/main/32.m3u8
 53民視新聞,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
-54三立iNews,https://raw.githubusercontent.com/killme1206/TVBoxDIY/main/29.m3u8
 54三立Live新聞,https://raw.githubusercontent.com/killme1206/TVBoxDIY/main/28.m3u8
-54三立新聞,http://60.251.59.180:8506/http/60.251.39.91:8081/hls/65/807/ch18.m3u8
 54三立新聞,http://220.134.196.147:9502/http/60.251.39.91:8081/hls/65/807/ch18.m3u8
 55TVBS新聞,rtmp://119.81.124.89/sat/tv551
 55TVBS新聞,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
@@ -85,15 +79,9 @@
 73緯來育樂,rtmp://119.81.124.89/sat/tv701
 74東森超視,http://220.134.196.147:9502/http/116.50.42.18:8081/hls/64/806/ch14.m3u8
 75國興衛視,http://220.134.196.147:9546/http/116.50.42.19:8081/hls/64/806/ch15.m3u8
-76緯來日本,http://60.251.59.180:8513/http/116.50.42.18:8081/hls/69/811/ch34.m3u8
 76緯來日本,http://220.134.196.147:9579/http/116.50.42.18:8081/hls/69/811/ch34.m3u8
-76緯來日本,http://baidu.douyincdn.freetvtv.com/wlrb/m2.m3u8
 76緯來日本,rtmp://119.81.124.89/sat/tv771
 76緯來日本,rtmp://219.80.97.77/sat/tv771
 89緯來電影,http://220.134.196.147:9538/http/116.50.42.19:8081/hls/69/811/ch35.m3u8
 91Animax動漫,http://220.134.196.147:9516/http/60.251.39.91:8081/hls/70/812/ch39.m3u8
 123非凡商業,http://59.125.101.187:8535/http/60.251.39.91:8081/hls/74/816/ch56.m3u8
-愛爾達體育1台,https://elta.irtblztjwzxz000041.xyz/elta/download/11/index.m3u8
-愛爾達體育2台,https://elta.irtblztjwzxz000041.xyz/elta/download/22/index.m3u8
-愛爾達體育1台,mitv://generationnexxxt.com:19806/ab5627232c1f4a6ab8919dbf8c54e137
-愛爾達體育3台,mitv://generationnexxxt.com:19806/fa354f5e612d44489d06c887bd3c4712
