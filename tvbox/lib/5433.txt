@@ -225,12 +225,12 @@ AXN,P2p://135.148.104.228:19806/a61594ab252e4daea32355a520d2bca4
 好萊塢電影,http://50.7.238.114:8278/hollywoodmovies_twn/playlist.m3u8?tid=m39bfcd99239617992917&ct=17874&tsum=774ffa7546c934dc27e743c5bbb454d3
 好萊塢電影,http://211.23.114.106:8505/http/61.221.81.94:8088/hls/74/816/ch54.m3u8?token=
 好萊塢電影,http://211.23.114.106:8505/http/61.221.81.94:8088/hls/74/816/ch55.m3u8?token=
-星衛電影台,http://198.16.100.90:8278/xingwei_movie/playlist.m3u8?tid=MBAB2096754620967546&ct=18392&tsum=2c800c1f0b6cc98d2404608c294dcbc2
-星衛電影台,http://198.16.100.90:8278/xingwei_movie/playlist.m3u8?tid=ME6E2875344228753442&ct=18392&tsum=c21fc395d9e540e48d429400b2fb0b05
-星衛電影台,http://198.16.100.90:8278/xingwei_movie/playlist.m3u8?tid=ma80888ed462f18082236&ct=17874&tsum=2824e7b9d4ec19ce7b4f8f69d23d7ceb
-星衛電影台,http://198.16.100.90:8278/xingwei_movie/playlist.m3u8?tid=MBDB4578128345781283&ct=19225&tsum=f2041ec954c95b4a5fe29d7ccbfe5b60
-星衛電影台,http://50.7.238.114:8278/xingwei_movie/playlist.m3u8?tid=ma80888ed462f18082236&ct=17874&tsum=2824e7b9d4ec19ce7b4f8f69d23d7ceb
-星衛電影台,http://23.237.10.66:16359
+星衛HD電影,http://198.16.100.90:8278/xingwei_movie/playlist.m3u8?tid=MBAB2096754620967546&ct=18392&tsum=2c800c1f0b6cc98d2404608c294dcbc2
+星衛HD電影,http://198.16.100.90:8278/xingwei_movie/playlist.m3u8?tid=ME6E2875344228753442&ct=18392&tsum=c21fc395d9e540e48d429400b2fb0b05
+星衛HD電影,http://198.16.100.90:8278/xingwei_movie/playlist.m3u8?tid=ma80888ed462f18082236&ct=17874&tsum=2824e7b9d4ec19ce7b4f8f69d23d7ceb
+星衛HD電影,http://198.16.100.90:8278/xingwei_movie/playlist.m3u8?tid=MBDB4578128345781283&ct=19225&tsum=f2041ec954c95b4a5fe29d7ccbfe5b60
+星衛HD電影,http://50.7.238.114:8278/xingwei_movie/playlist.m3u8?tid=ma80888ed462f18082236&ct=17874&tsum=2824e7b9d4ec19ce7b4f8f69d23d7ceb
+星衛HD電影,http://23.237.10.66:16359
 緯來育樂台, rtmp://219.80.97.77/sat/tv701
 緯來育樂台, rtmp://119.81.124.89/sat/tv701
 緯來育樂台,rtmp://119.81.124.89:1935/sat/tv701
