@@ -105,7 +105,8 @@ MOMO親子台,P2p://135.148.104.228:19806/907144e34cfe44629881f993618ab652
 超視,http://211.23.114.106:8520/http/61.221.81.94:8088/hls/64/806/ch14.m3u8?token=
 超視,P2p://135.148.104.228:19806/0a1d8edcc02348b3918422f6a0f78715
 東森購物2台,P2p://135.148.104.228:19806/36b73761bad9455c88c53c842ae4e404
-35~~~~~
+momo購物2台,
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1689383954/ei/sp-xZO39HNLY4QTrrpTwBg/ip/122.116.119.235/id/xbNWkUyxQGM.4/source/yt_live_broadcast/requiressl/yes/tx/24698586/txs/24698582%2C24698583%2C24698584%2C24698585%2C24698586%2C24698587%2C24698588/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/Ul2Sqy5dX1aqgTO_6Bsx2vj9G2erQ04CiMIOfEwbZg/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246%2C24362685%2C24363393/beids/24350018/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAPKPjn31sORjpdMaMRCAKbeqdecCYKvhbfXjiKR6YL5BAiAlivpbaU2oDOMeKiL8a2BA0xRB0BIzUxPcmjQe3mDpBA%3D%3D/file/index.m3u8
 中天綜合台,P2p://135.148.104.228:19806/a2710ce85e43422e951233f8b51880ea
 37頻道待定,http://1.m3u8
 38頻道待定,http://1.m3u8
@@ -122,11 +123,12 @@ TVBS歡樂台,P2p://135.148.104.228:19806/6972f045bcf341a2a7913e56616f0e4c
 44頻道待定,http://1.m3u8
 45頻道待定,http://1.m3u8
 東森購物1台,P2p://135.148.104.228:19806/74869fed4efd4b0684ec1e0a6dd9f3ee
-47~~~~
+momo購物1台,
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1689383781/ei/BZ-xZIqeD8-2kAPDyaywBw/ip/122.116.119.235/id/_pZQ1Lk0xMA.7/source/yt_live_broadcast/requiressl/yes/tx/24698582/txs/24698582%2C24698583%2C24698584%2C24698585%2C24698586%2C24698587%2C24698588/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/Ul2SqzTTtFBAs79uoIr7bHmQjZSj1wqjyAjTPzeIWA/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246%2C24362688%2C51000022/beids/24350018/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAKBlUwTwiRdqORadZ-9iXXkTzo34pYcTFymH71z9MCRPAiEAmo4ydteWhuxPGfZXWt7hk05ybcfvKQVJRCN5N4F3mhE%3D/file/index.m3u8
 三立iNEWS,https://ytm2.yuanhsing.cf/SETLIVE.m3u8
 三立iNEWS,http://jiandjh.51vip.biz:35455/youtube/CKjSm5ZeehE?quality=1080
 三立iNEWS,http://tv.redrainl.site:9500/live.m3u8?c=51
-三立inews,http://seb.sason.top/sc/slinews_fhd.m3u8
+三立iNEWS,http://seb.sason.top/sc/slinews_fhd.m3u8
 三立iNEWS,P2p://135.148.104.228:19806/8ad88e1601684711bca7066a36b95f9c
 壹電視新聞台,P2p://135.148.104.228:19806/f17f02c60650410fbecf35ee817228aa
 年代新聞,http://211.23.114.106:8517/http/60.251.39.91:8081/hls/67/809/ch27.m3u8
