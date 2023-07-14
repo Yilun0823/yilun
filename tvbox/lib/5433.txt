@@ -1,4 +1,46 @@
 🇹🇼台灣,#genre#
+5CNN, https://cnn-cnninternational-1-eu.rakuten.wurl.tv/206849c7acd1570962df1ad525fa8688.m3u8?blog.ntnas.top
+6民視, rtmp://119.81.124.89/sat/tv051
+6民視, rtmp://219.80.97.77/sat/tv051
+7人間衛視, http://218.32.47.179:8506/http/116.50.42.18:8081/hls/69/811/ch36.m3u8
+7人間衛視, http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
+8台視, rtmp://119.81.124.89/sat/tv071
+8台視, rtmp://219.80.97.77/sat/tv071
+9大愛, http://218.32.47.179:8507/http/116.50.42.18:8081/hls/73/815/ch52.m3u8
+9大愛2, https://pulltv2.wanfudaluye.com/live/tv2.m3u8
+10中視, rtmp://119.81.124.89/sat/tv091
+10中視, rtmp://219.80.97.77/sat/tv091
+12華視, http://218.32.47.179:18503/http/192.168.1.9:8081/hls/72/814/ch48.m3u8
+12華視, rtmp://119.81.124.89/sat/tv111
+12華視, rtmp://219.80.97.77/sat/tv111
+13公視, http://218.32.47.179:18505/http/116.50.42.18:8081/hls/73/815/ch50.m3u8
+18國家地理頻道, http://60.251.59.180:8526/http/116.50.42.18:8081/hls/61/803/ch01.m3u8
+22動物星球, http://60.251.59.180:8512/http/116.50.42.18:8088/hls/70/812/ch37.m3u8?token=7375646f37d6b4749c6736c4160c9b3011e5cfda
+29三立台灣, https://sanlihalive1-a.akamaihd.net/5ffd3a166f7241d9b489b7d7241db96f/ap-northeast-1/4338955585001/profile_0/chunklist.m3u8?hdnea=st=1664678506~exp=9007200919419497~acl=/5ffd3a166f7241d9b489b7d7241db96f/*/profile_0/chunklist.m3u8*~hmac=cfd432e7da8eece68fe4a4da3a3bc08ab1bbc50b147a84c95ae3d4a569e932b1
+29三立台灣, https://sanlihalive1-a.akamaihd.net/5ffd3a166f7241d9b489b7d7241db96f/ap-northeast-1/4338955585001/profile_1/chunklist.m3u8?hdnea=st=1664678506~exp=9007200919419497~acl=/5ffd3a166f7241d9b489b7d7241db96f/*/profile_1/chunklist.m3u8*~hmac=91a79f89ab6475a9ebdb69c9ff188cae5c1ae81d1afde64daecd53e989c9bfc3
+29三立台灣, https://sanlihalive1-a.akamaihd.net/5ffd3a166f7241d9b489b7d7241db96f/ap-northeast-1/4338955585001/profile_2/chunklist.m3u8?hdnea=st=1664678506~exp=9007200919419497~acl=/5ffd3a166f7241d9b489b7d7241db96f/*/profile_2/chunklist.m3u8*~hmac=34c6c254e7df415612fbc4534d54b5e7ccb6d1174b17a27d2a639798d9765173
+30三立都會, https://sanlihalive1-a.akamaihd.net/4c3bb0ccad574d0e9b507c2dcd2dfabc/ap-northeast-1/4338955585001/profile_0/chunklist.m3u8?hdnea=st=1664678487~exp=9007200919419478~acl=/4c3bb0ccad574d0e9b507c2dcd2dfabc/*/profile_0/chunklist.m3u8*~hmac=1a3986bd8fb660eacbcc9954c67fb674fa810779ddc2fab5fa77188868ca3686
+30三立都會, https://sanlihalive1-a.akamaihd.net/4c3bb0ccad574d0e9b507c2dcd2dfabc/ap-northeast-1/4338955585001/profile_1/chunklist.m3u8?hdnea=st=1664678487~exp=9007200919419478~acl=/4c3bb0ccad574d0e9b507c2dcd2dfabc/*/profile_1/chunklist.m3u8*~hmac=89f79f6442fed7c3b4bc9388123ebb72802d3aa1a6129f24d1a6d59f4fad72dd
+30三立都會, https://sanlihalive1-a.akamaihd.net/4c3bb0ccad574d0e9b507c2dcd2dfabc/ap-northeast-1/4338955585001/profile_2/chunklist.m3u8?hdnea=st=1664678487~exp=9007200919419478~acl=/4c3bb0ccad574d0e9b507c2dcd2dfabc/*/profile_2/chunklist.m3u8*~hmac=4d5a5a64d3a2099102a144761bc8c65b0f79b9b0421e984cbba7dde5dec1ccd3
+32東森綜合, http://220.134.196.147:9553/http/116.50.42.18:8081/hls/63/805/ch12.m3u8
+41八大戲劇, http://220.134.196.147:9531/http/60.251.39.91:8081/hls/66/808/ch23.m3u8
+42TVBS歡樂, rtmp://219.80.97.77/sat/tv421
+42TVBS歡樂, rtmp://119.81.124.89/sat/tv421
+51東森新聞, http://60.251.59.180:8503/http/60.251.39.91:8081/hls/63/805/4_2213132.m3u8
+51東森新聞, http://60.251.59.180:8503/http/60.251.39.91:8081/hls/63/805/ch10.m3u8
+53民視新聞, http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
+53民視新聞, http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
+55TVBS新聞, rtmp://219.80.97.77/sat/tv551
+55TVBS新聞, rtmp://119.81.124.89/sat/tv551
+55TVBS新聞, http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
+55TVBS新聞, http://38.64.72.148/hls/modn/list/4006/chunklist0.m3u8
+72緯來體育, rtmp://119.81.124.89/sat/tv721
+72緯來體育, rtmp://219.80.97.77/sat/tv721
+73緯來育樂, rtmp://219.80.97.77/sat/tv701
+73緯來育樂, rtmp://119.81.124.89/sat/tv701
+76緯來日本, http://60.251.59.180:8513/http/116.50.42.18:8081/hls/69/811/ch34.m3u8
+76緯來日本, rtmp://219.80.97.77/sat/tv771
+76緯來日本, rtmp://119.81.124.89/sat/tv771
 
 東森新聞,http://61.221.81.93:8078/hls/33/80/ebcnews.m3u8
 東森新聞,https://reurl.cc/N00djp
@@ -778,19 +820,3 @@ Channel 8,P2p://135.148.104.228:19806/119678a4b6e54d1bac8b215c21d5ad13
 Mono 29,P2p://135.148.104.228:19806/01a45cae5b314975b90bb3cfba296f17
 MCOT,P2p://135.148.104.228:19806/73b0a7b586af42f39db7fcdb646e89d8
 ONE,P2p://135.148.104.228:19806/46709f19c5a2466f9ae889037f66615a
-
-    
-大人台_299,#genre#
-彩虹e台,P2p://135.148.104.228:19806/2061b87b342c4060879467426ec343f6
-彩虹电影台,P2p://135.148.104.228:19806/80f6c5a52dc14d82bd6751bae9a7bd2d
-LOOK TV,P2p://135.148.104.228:19806/92bcfe5249e74ea5952e0789ad1ca434
-潘朵啦玩美台,P2p://135.148.104.228:19806/95508bd377be4e57b98e82771b1def03
-惊艳成人电影台,P2p://135.148.104.228:19806/87c67ddb3fe542209fad31646df0ab1e
-松视1台,P2p://135.148.104.228:19806/f4f8edef1bc84e3f96f0ef2f1aca7462
-松视2台,P2p://135.148.104.228:19806/214a310f878442028c2bea560e9518c6
-PLAYBOY,P2p://135.148.104.228:19806/a1bdd4044b1241498c615ee02ab4e868
-香蕉台,P2p://135.148.104.228:19806/2755dbf54022456bb1def228cda54ba1
-松视3台,P2p://135.148.104.228:19806/4f855e073cb74c4ba33494f3c5feab03
-JStar极限台,P2p://135.148.104.228:19806/dcf99b2bda44417a96ec205123929881
-HAPPY,P2p://135.148.104.228:19806/3d1df484dbe649a3b509dbe60dca4bfa
-K,P2p://135.148.104.228:19806/5e51b7ff2fa34cb6a667e3d3c217da88
