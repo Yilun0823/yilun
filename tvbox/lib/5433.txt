@@ -125,6 +125,7 @@ TVBS歡樂台,P2p://135.148.104.228:19806/6972f045bcf341a2a7913e56616f0e4c
 45頻道待定,http://1.m3u8
 東森購物1台,P2p://135.148.104.228:19806/74869fed4efd4b0684ec1e0a6dd9f3ee
 momo購物1台,https://www.youtube.com/live/_pZQ1Lk0xMA
+momo購物1台,http://139.180.210.242/php/youtube.php?id=pZQ1Lk0xMA
 三立iNEWS,https://ytm2.yuanhsing.cf/SETLIVE.m3u8
 三立iNEWS,http://jiandjh.51vip.biz:35455/youtube/CKjSm5ZeehE?quality=1080
 三立iNEWS,http://tv.redrainl.site:9500/live.m3u8?c=51
