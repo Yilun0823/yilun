@@ -126,6 +126,7 @@ TVBS歡樂台,P2p://135.148.104.228:19806/6972f045bcf341a2a7913e56616f0e4c
 東森購物1台,P2p://135.148.104.228:19806/74869fed4efd4b0684ec1e0a6dd9f3ee
 momo購物1台,https://www.youtube.com/live/_pZQ1Lk0xMA
 momo購物1台,http://139.180.210.242/php/youtube.php?id=pZQ1Lk0xMA
+
 三立iNEWS,https://ytm2.yuanhsing.cf/SETLIVE.m3u8
 三立iNEWS,http://jiandjh.51vip.biz:35455/youtube/CKjSm5ZeehE?quality=1080
 三立iNEWS,http://tv.redrainl.site:9500/live.m3u8?c=51
@@ -145,9 +146,10 @@ momo購物1台,http://139.180.210.242/php/youtube.php?id=pZQ1Lk0xMA
 東森新聞台,http://211.23.114.106:8520/http/61.221.81.94:8088/hls/63/805/ch10.m3u8?token=
 東森新聞台,P2p://135.148.104.228:19806/f9a85e8e15c4455db657b542433fdd73
 東森新聞台,P2p://135.148.104.228:19806/d5512d0b33214f15b8e2e0a0307d4460
-華視新聞,http://seb.sason.top/sc/hsxw_fhd.m3u8
-華視新聞,http://139.180.210.242/php/youtube.php?id=wM0g8EoUZ_E
-華視新聞,P2p://135.148.104.228:19806/010e5852399b4cd3b2d81cc41642ca2b
+中天新聞台,http://tv.redrainl.site:9500/live.m3u8?c=03
+中天新聞台,http://139.180.210.242/php/youtube.php?id=oIgbl7t0S_w
+中天新聞台,P2p://135.148.104.228:19806/91ccadc82fbf468bbc4a566ded05854e
+中天新聞台,http://139.180.210.242/php/youtube.php?id=WPfPjbOLNfE
 民視新聞台, http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
 民視新聞台, http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
 民視新聞台,http://139.180.210.242/php/youtube.php?id=ylYJSBUgaMA
@@ -257,7 +259,7 @@ ELEVEN體育2台,P2p://135.148.104.228:19806/ce3f17a872da4096a41e45f1773d2572
 STAR World,P2p://135.148.104.228:19806/e8cba7e768be46e4b259ca2c05d24585
 80頻道待定,http://1.m3u8
 Animax,P2p://135.148.104.228:19806/6160b2115a0e4edb81ae6d1518335ca4
-82頻道待定,http://1.m3u8
+新唐人,http://139.180.210.242/php/youtube.php?id=WIhgU_mc05A
 JET綜合,P2p://135.148.104.228:19806/366e7db9d45a4f9181754b4859ee5a37
 中台灣生活網,http://58.99.33.16:1935/liveedge17/live_852_3.stream/chunklist.m3u8
 中台灣生活網,http://58.99.33.16:1935/liveedge17/live_020_3.stream/chunklist.m3u8
@@ -266,6 +268,7 @@ JET綜合,P2p://135.148.104.228:19806/366e7db9d45a4f9181754b4859ee5a37
 寰宇新聞台,P2p://135.148.104.228:19806/61bd2b78579a497eb8031bd9936aefd8
 Z頻道,P2p://135.148.104.228:19806/47e4d8bcd487437ea30654e8ae99dbfd
 鏡新聞,P2p://135.148.104.228:19806/bf64f32bc62b443387be87fc95dd5e50
+鏡新聞,http://139.180.210.242/php/youtube.php?id=5n0y6b0Q25o
 八大娛樂台,P2p://135.148.104.228:19806/d8b9defa90bc40c69560ce5ea291d656
 ETtoday綜合台,P2p://135.148.104.228:19806/b444a90a92a1466cb09f4d6621386720
 非凡商業台,http://211.23.114.106:8505/http/61.221.81.94:8088/hls/74/816/ch56.m3u8?token=
@@ -280,12 +283,16 @@ Nick Jr.,P2p://135.148.104.228:19806/ea098f61e18044b2937609a676372ce6
 123 國會頻道1,P2p://135.148.104.228:19806/1d24d4b506aa401ca9c29d585cef29c4
 124 國會頻道2,P2p://135.148.104.228:19806/29166c52af854fa98a7c79206981026d
 126 高點綜合台,P2p://135.148.104.228:19806/1d82ed001f424ae6bf3e683c3faf2f91
+127 華視新聞,http://seb.sason.top/sc/hsxw_fhd.m3u8
+127 華視新聞,http://139.180.210.242/php/youtube.php?id=wM0g8EoUZ_E
+127 華視新聞,P2p://135.148.104.228:19806/010e5852399b4cd3b2d81cc41642ca2b
 151 民視第一台,http://seb.sason.top/ptv/ftv.php?id=dy
 152 民視台灣台,http://seb.sason.top/ptv/ftv.php?id=tw
 153 中視菁采台,P2p://135.148.104.228:19806/0f7054731cfe44628f72221763a9c732
 154 中視新聞台,https://ytm2.yuanhsing.cf/twctvnews.m3u8
 154 中視新聞台,http://www.terrykang.xyz:35455/youtube/TaIE_SAtM
 154 中視新聞台,https://ytm2.yuanhsing.cf/twctvnews.m3u8
+154 中視新聞台,http://139.180.210.242/php/youtube.php?id=TaIE_SAtM
 155 台視新聞台,https://ytm2.yuanhsing.cf/ttvnewsview.m3u8
 155 台視新聞台,http://www.terrykang.xyz:35455/youtube/xL0ch83RAK8
 156 台視新聞台,http://139.180.210.242/php/youtube.php?id=xL0ch83RAK8
@@ -312,13 +319,6 @@ Nick Jr.,P2p://135.148.104.228:19806/ea098f61e18044b2937609a676372ce6
 TVBS-Asia,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
 TVBS-Asia,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 
-中天新聞,http://tv.redrainl.site:9500/live.m3u8?c=03
-中天新聞,http://139.180.210.242/php/youtube.php?id=oIgbl7t0S_w
-中天新聞,P2p://135.148.104.228:19806/91ccadc82fbf468bbc4a566ded05854e
-中天新聞2台,http://139.180.210.242/php/youtube.php?id=WPfPjbOLNfE
-
-
-
 
 
 東森LIVE,http://139.180.210.242/php/youtube.php?id=R2iMq5LKXco
@@ -326,12 +326,11 @@ TVBS-Asia,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 三立海外直播,http://139.180.210.242/php/youtube.php?id=FoBfXvlOR6I
 
 公視新聞,http://139.180.210.242/php/youtube.php?id=quwqlazU-c8
-鏡新聞,http://139.180.210.242/php/youtube.php?id=5n0y6b0Q25o
+
 東京都-新宿,http://139.180.210.242/php/youtube.php?id=DjdUEyjx8GM
 台灣地震監視,http://139.180.210.242/php/youtube.php?id=Owke6Quk7T0
-新唐人LIVE,http://139.180.210.242/php/youtube.php?id=WIhgU_mc05A
+
 信大電視台,http://139.180.210.242/php/youtube.php?id=AQymzwl3uSk
-中視新聞,http://139.180.210.242/php/youtube.php?id=TaIE_SAtM
 
 ELTA體育1,rtmp://219.80.97.77/sat/md051
 ELTA體育1,rtmp://219.80.97.77/sat/md041
