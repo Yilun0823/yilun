@@ -2,7 +2,8 @@
 1頻道待定,http://1.m3u8
 2頻道待定,http://1.m3u8
 3頻道待定,http://1.m3u8
-4頻道待定,http://1.m3u8
+南投新聞,http://58.99.33.16:1935/liveedge17/live_853_3.stream/chunklist.m3u8
+南投新聞,http://58.99.33.16:1935/liveedge17/live_854_3.stream/chunklist.m3u8
 CNN,https://cnn-cnninternational-1-eu.rakuten.wurl.tv/206849c7acd1570962df1ad525fa8688.m3u8?blog.ntnas.top
 CNN,P2p://135.148.104.228:19806/1b1d8846c6a24bd5bef1f0264abffe34
 CNN,P2p://135.148.104.228:19806/564e581a7f674269a396e75c0f7070f7
@@ -123,12 +124,13 @@ TVBS歡樂台,P2p://135.148.104.228:19806/6972f045bcf341a2a7913e56616f0e4c
 44頻道待定,http://1.m3u8
 45頻道待定,http://1.m3u8
 東森購物1台,P2p://135.148.104.228:19806/74869fed4efd4b0684ec1e0a6dd9f3ee
-momo購物1台,https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1689383781/ei/BZ-xZIqeD8-2kAPDyaywBw/ip/122.116.119.235/id/_pZQ1Lk0xMA.7/source/yt_live_broadcast/requiressl/yes/tx/24698582/txs/24698582%2C24698583%2C24698584%2C24698585%2C24698586%2C24698587%2C24698588/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/Ul2SqzTTtFBAs79uoIr7bHmQjZSj1wqjyAjTPzeIWA/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246%2C24362688%2C51000022/beids/24350018/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAKBlUwTwiRdqORadZ-9iXXkTzo34pYcTFymH71z9MCRPAiEAmo4ydteWhuxPGfZXWt7hk05ybcfvKQVJRCN5N4F3mhE%3D/file/index.m3u8
+momo購物1台,https://www.youtube.com/live/_pZQ1Lk0xMA
 三立iNEWS,https://ytm2.yuanhsing.cf/SETLIVE.m3u8
 三立iNEWS,http://jiandjh.51vip.biz:35455/youtube/CKjSm5ZeehE?quality=1080
 三立iNEWS,http://tv.redrainl.site:9500/live.m3u8?c=51
 三立iNEWS,http://seb.sason.top/sc/slinews_fhd.m3u8
 三立iNEWS,P2p://135.148.104.228:19806/8ad88e1601684711bca7066a36b95f9c
+三立iNEWS,http://139.180.210.242/php/youtube.php?id=CKjSm5ZeehE
 壹電視新聞,P2p://135.148.104.228:19806/f17f02c60650410fbecf35ee817228aa
 年代新聞,http://211.23.114.106:8517/http/60.251.39.91:8081/hls/67/809/ch27.m3u8
 年代新聞,http://211.23.114.106:8517/http/60.251.39.91:8081/hls/67/809/ch27.m3u8
@@ -225,12 +227,6 @@ AXN,P2p://135.148.104.228:19806/a61594ab252e4daea32355a520d2bca4
 好萊塢電影,http://50.7.238.114:8278/hollywoodmovies_twn/playlist.m3u8?tid=m39bfcd99239617992917&ct=17874&tsum=774ffa7546c934dc27e743c5bbb454d3
 好萊塢電影,http://211.23.114.106:8505/http/61.221.81.94:8088/hls/74/816/ch54.m3u8?token=
 好萊塢電影,http://211.23.114.106:8505/http/61.221.81.94:8088/hls/74/816/ch55.m3u8?token=
-星衛HD電影,http://198.16.100.90:8278/xingwei_movie/playlist.m3u8?tid=MBAB2096754620967546&ct=18392&tsum=2c800c1f0b6cc98d2404608c294dcbc2
-星衛HD電影,http://198.16.100.90:8278/xingwei_movie/playlist.m3u8?tid=ME6E2875344228753442&ct=18392&tsum=c21fc395d9e540e48d429400b2fb0b05
-星衛HD電影,http://198.16.100.90:8278/xingwei_movie/playlist.m3u8?tid=ma80888ed462f18082236&ct=17874&tsum=2824e7b9d4ec19ce7b4f8f69d23d7ceb
-星衛HD電影,http://198.16.100.90:8278/xingwei_movie/playlist.m3u8?tid=MBDB4578128345781283&ct=19225&tsum=f2041ec954c95b4a5fe29d7ccbfe5b60
-星衛HD電影,http://50.7.238.114:8278/xingwei_movie/playlist.m3u8?tid=ma80888ed462f18082236&ct=17874&tsum=2824e7b9d4ec19ce7b4f8f69d23d7ceb
-星衛HD電影,http://23.237.10.66:16359
 緯來育樂台, rtmp://219.80.97.77/sat/tv701
 緯來育樂台, rtmp://119.81.124.89/sat/tv701
 緯來育樂台,rtmp://119.81.124.89:1935/sat/tv701
@@ -259,11 +255,10 @@ STAR World,P2p://135.148.104.228:19806/e8cba7e768be46e4b259ca2c05d24585
 80頻道待定,http://1.m3u8
 Animax,P2p://135.148.104.228:19806/6160b2115a0e4edb81ae6d1518335ca4
 82頻道待定,http://1.m3u8
-JET綜合台,P2p://135.148.104.228:19806/366e7db9d45a4f9181754b4859ee5a37
-中台灣生活網頻道,http://58.99.33.16:1935/liveedge17/live_852_3.stream/chunklist.m3u8
-中台灣生活網頻道,http://58.99.33.16:1935/liveedge17/live_020_3.stream/chunklist.m3u8
-中台灣生活網頻道,http://58.99.33.16:1935/liveedge17/live_853_3.stream/chunklist.m3u8
-中台灣生活網頻道,http://58.99.33.16:1935/liveedge17/live_854_3.stream/chunklist.m3u8
+JET綜合,P2p://135.148.104.228:19806/366e7db9d45a4f9181754b4859ee5a37
+中台灣生活網,http://58.99.33.16:1935/liveedge17/live_852_3.stream/chunklist.m3u8
+中台灣生活網,http://58.99.33.16:1935/liveedge17/live_020_3.stream/chunklist.m3u8
+
 寰宇新聞台,http://139.180.210.242/php/youtube.php?id=B7Zp3d6xXWw
 寰宇新聞台,http://211.23.114.106:8507/http/61.221.81.94:8088/hls/76/818/ch62.m3u8?token=
 寰宇新聞台,P2p://135.148.104.228:19806/61bd2b78579a497eb8031bd9936aefd8
@@ -274,9 +269,10 @@ ETtoday綜合台,P2p://135.148.104.228:19806/b444a90a92a1466cb09f4d6621386720
 非凡商業台,http://211.23.114.106:8505/http/61.221.81.94:8088/hls/74/816/ch56.m3u8?token=
 非凡商業台,P2p://135.148.104.228:19806/b909b5cfc9414e94933152eeee515bd3
 
-以下頻道未按照頻道編號,http://1.m3u8
+以下頻道未照編號,http://1.m3u8
 
 98 海豚綜合台,http://58.99.33.16:1935/liveedge17/live_077_3.stream/chunklist.m3u8
+Nick Jr.,P2p://135.148.104.228:19806/ea098f61e18044b2937609a676372ce6
 111 台灣番薯台,http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
 122 NHK,P2p://135.148.104.228:19806/c166b27a227c4a60aeeec3853f0dd019
 123 國會頻道1,P2p://135.148.104.228:19806/1d24d4b506aa401ca9c29d585cef29c4
@@ -295,6 +291,12 @@ ETtoday綜合台,P2p://135.148.104.228:19806/b444a90a92a1466cb09f4d6621386720
 200 公視3台,P2p://135.148.104.228:19806/29d79ecfd8c74b739ba9bbb96c6523b1
 222 寰宇新聞台灣台,P2p://135.148.104.228:19806/11bfa49d6ec94cf9922daf33888c089b
 222 寰宇新聞台灣台,http://139.180.210.242/php/youtube.php?id=UcTIv4ZaE5Y
+星衛HD電影,http://198.16.100.90:8278/xingwei_movie/playlist.m3u8?tid=MBAB2096754620967546&ct=18392&tsum=2c800c1f0b6cc98d2404608c294dcbc2
+星衛HD電影,http://198.16.100.90:8278/xingwei_movie/playlist.m3u8?tid=ME6E2875344228753442&ct=18392&tsum=c21fc395d9e540e48d429400b2fb0b05
+星衛HD電影,http://198.16.100.90:8278/xingwei_movie/playlist.m3u8?tid=ma80888ed462f18082236&ct=17874&tsum=2824e7b9d4ec19ce7b4f8f69d23d7ceb
+星衛HD電影,http://198.16.100.90:8278/xingwei_movie/playlist.m3u8?tid=MBDB4578128345781283&ct=19225&tsum=f2041ec954c95b4a5fe29d7ccbfe5b60
+星衛HD電影,http://50.7.238.114:8278/xingwei_movie/playlist.m3u8?tid=ma80888ed462f18082236&ct=17874&tsum=2824e7b9d4ec19ce7b4f8f69d23d7ceb
+239 星衛HD電影,http://23.237.10.66:16359
 297 大愛2台,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
 298 好消息2台,http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch2-1.m3u8
 309 TaiwanPlus,http://139.180.210.242/php/youtube.php?id=dZp87qnWelE
@@ -305,7 +307,7 @@ ETtoday綜合台,P2p://135.148.104.228:19806/b444a90a92a1466cb09f4d6621386720
 
 🇹🇼台灣,#genre#
 
-Nick Jr.,P2p://135.148.104.228:19806/ea098f61e18044b2937609a676372ce6
+
 
 TVBS-Asia,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
 TVBS-Asia,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
@@ -320,7 +322,7 @@ TVBS-Asia,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 
 
 東森LIVE,http://139.180.210.242/php/youtube.php?id=R2iMq5LKXco
-三立 iNEWS 新聞,http://139.180.210.242/php/youtube.php?id=CKjSm5ZeehE
+
 三立海外直播,http://139.180.210.242/php/youtube.php?id=FoBfXvlOR6I
 
 公視新聞,http://139.180.210.242/php/youtube.php?id=quwqlazU-c8
