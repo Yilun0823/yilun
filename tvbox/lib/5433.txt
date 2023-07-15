@@ -1,4 +1,4 @@
-預設,#genre#
+🇹🇼台灣,#genre#
 1頻道待定,http://1.m3u8
 2頻道待定,http://1.m3u8
 3頻道待定,http://1.m3u8
@@ -315,7 +315,7 @@ Nick Jr.,P2p://135.148.104.228:19806/ea098f61e18044b2937609a676372ce6
 313 Arirang,P2p://135.148.104.228:19806/645d0a5a00075deb6d454fee5aa940d7
 314 德國之聲,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live071&nid=226
 
-🇹🇼台灣,#genre#
+待整理,#genre#
 
 TVBS-Asia,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
 TVBS-Asia,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
@@ -419,7 +419,6 @@ GoodTV 愛旅行台,https://live-350k.streamingfast.net/hls-live/goodtv/_definst
 
 TVBS歡樂,http://211.23.114.106:8520/http/61.221.81.94:8088/hls/65/807/ch17.m3u8?token=
 
-晴天,#genre#
 
 
 
