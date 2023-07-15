@@ -848,7 +848,7 @@ Sky Sports Main Event,P2p://135.148.104.228:19806/0528a09ca7a94319943518d174920e
 Sky Sports Cricket,P2p://135.148.104.228:19806/e02a880a9d1d47748681866ff8e667af
 Sky Sports Action,P2p://135.148.104.228:19806/4351a6ede18d4a659d42f753f212d8a5
 
-晴天台湾🇹🇼,#genre#
+晴天TV☀️,#genre#
 CNN,mitv://generationnexxxt.com:19806/1b1d8846c6a24bd5bef1f0264abffe34
 民视,mitv://generationnexxxt.com:19806/656d6e5a09064068a68e037d3a1a6af8
 人间卫视,mitv://generationnexxxt.com:19806/a20c7e1a571341af9a8068f4db0db82a
