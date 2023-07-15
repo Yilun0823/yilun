@@ -122,9 +122,9 @@ TVBS歡樂台,rtmp://219.80.97.77/sat/tv421
 TVBS歡樂台,P2p://135.148.104.228:19806/6972f045bcf341a2a7913e56616f0e4c
 緯來戲劇台,P2p://135.148.104.228:19806/8bf6b92bd45d4f749747950b386a1c03
 44頻道待定,http://1.m3u8
-45頻道待定,http://1.m3u8
+東森購物1台,https://www.youtube.com/live/ViJ3XiN6Q3M
 東森購物1台,P2p://135.148.104.228:19806/74869fed4efd4b0684ec1e0a6dd9f3ee
-東森購物1台,https://www.youtube.com/live/Z50JFuNgvB0
+東森購物3台,https://www.youtube.com/live/Z50JFuNgvB0
 momo購物1台,https://www.youtube.com/live/_pZQ1Lk0xMA
 momo購物1台,http://139.180.210.242/php/youtube.php?id=pZQ1Lk0xMA
 三立iNEWS,https://ytm2.yuanhsing.cf/SETLIVE.m3u8
