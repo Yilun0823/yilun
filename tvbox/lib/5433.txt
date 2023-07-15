@@ -106,6 +106,7 @@ MOMO親子台,P2p://135.148.104.228:19806/907144e34cfe44629881f993618ab652
 東森超視,http://211.23.114.106:8520/http/61.221.81.94:8088/hls/64/806/ch14.m3u8?token=
 東森超視,P2p://135.148.104.228:19806/0a1d8edcc02348b3918422f6a0f78715
 東森購物2台,P2p://135.148.104.228:19806/36b73761bad9455c88c53c842ae4e404
+東森購物2台,https://www.youtube.com/live/u0NYyH3ZesE
 momo購物2台,https://www.youtube.com/live/xbNWkUyxQGM
 中天綜合台,P2p://135.148.104.228:19806/a2710ce85e43422e951233f8b51880ea
 37頻道待定,http://1.m3u8
@@ -123,9 +124,9 @@ TVBS歡樂台,P2p://135.148.104.228:19806/6972f045bcf341a2a7913e56616f0e4c
 44頻道待定,http://1.m3u8
 45頻道待定,http://1.m3u8
 東森購物1台,P2p://135.148.104.228:19806/74869fed4efd4b0684ec1e0a6dd9f3ee
+東森購物1台,https://www.youtube.com/live/Z50JFuNgvB0
 momo購物1台,https://www.youtube.com/live/_pZQ1Lk0xMA
 momo購物1台,http://139.180.210.242/php/youtube.php?id=pZQ1Lk0xMA
-
 三立iNEWS,https://ytm2.yuanhsing.cf/SETLIVE.m3u8
 三立iNEWS,http://jiandjh.51vip.biz:35455/youtube/CKjSm5ZeehE?quality=1080
 三立iNEWS,http://tv.redrainl.site:9500/live.m3u8?c=51
@@ -187,7 +188,7 @@ TVBS,P2p://135.148.104.228:19806/323a98aa30f845d0acc574b160cf90ef
 東森財經新聞台,P2p://135.148.104.228:19806/660c0c8a7edb4befb9e23f3203747de1
 非凡新聞台,P2p://135.148.104.228:19806/13b84b10435d457f9f0e1166854074b1
 59頻道待定,http://1.m3u8
-60頻道待定,http://1.m3u8
+東森購物5台,https://www.youtube.com/live/u0NYyH3ZesE
 衛視電影台,http://23.237.10.66:16010Star%20Movies%20Gold
 衛視電影台,http://211.23.114.106:8520/http/61.221.81.94:8088/hls/62/804/ch07.m3u8?token=
 衛視電影台,P2p://135.148.104.228:19806/643a27c466e840dba25fcad9e8608b78
