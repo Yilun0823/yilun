@@ -2,8 +2,7 @@
 1頻道待定,http://1.m3u8
 2頻道待定,http://1.m3u8
 3頻道待定,http://1.m3u8
-南投新聞,http://58.99.33.16:1935/liveedge17/live_853_3.stream/chunklist.m3u8
-南投新聞,http://58.99.33.16:1935/liveedge17/live_854_3.stream/chunklist.m3u8
+4頻道待定,http://1.m3u8
 CNN,https://cnn-cnninternational-1-eu.rakuten.wurl.tv/206849c7acd1570962df1ad525fa8688.m3u8?blog.ntnas.top
 CNN,P2p://135.148.104.228:19806/1b1d8846c6a24bd5bef1f0264abffe34
 CNN,P2p://135.148.104.228:19806/564e581a7f674269a396e75c0f7070f7
@@ -263,6 +262,8 @@ Animax,P2p://135.148.104.228:19806/6160b2115a0e4edb81ae6d1518335ca4
 JET綜合,P2p://135.148.104.228:19806/366e7db9d45a4f9181754b4859ee5a37
 中台灣生活網,http://58.99.33.16:1935/liveedge17/live_852_3.stream/chunklist.m3u8
 中台灣生活網,http://58.99.33.16:1935/liveedge17/live_020_3.stream/chunklist.m3u8
+中台灣生活網,http://58.99.33.16:1935/liveedge17/live_853_3.stream/chunklist.m3u8
+中台灣生活網,http://58.99.33.16:1935/liveedge17/live_854_3.stream/chunklist.m3u8
 寰宇新聞台,http://139.180.210.242/php/youtube.php?id=B7Zp3d6xXWw
 寰宇新聞台,http://211.23.114.106:8507/http/61.221.81.94:8088/hls/76/818/ch62.m3u8?token=
 寰宇新聞台,P2p://135.148.104.228:19806/61bd2b78579a497eb8031bd9936aefd8
