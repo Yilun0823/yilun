@@ -369,8 +369,6 @@ HBO溫馨家庭,http://50.7.238.114:8278/fyi_twn/playlist.m3u8?tid=MFCF731272857
 HBO溫馨家庭,http://50.7.238.114:8278/fyi_twn/playlist.m3u8?tid=m99b80124e3b4&ct=18337&tsum=73f6f540497de9a5615b9bd55bec8853
 
 
-
-
 美麗人生購物台,http://58.99.33.16:1935/liveedge17/live_070_3.stream/chunklist.m3u8
 智林體育,http://58.99.33.16:1935/liveedge17/live_122_3.stream/chunklist.m3u8
 台視新聞台,http://seb.sason.top/sc/tsxw_fhd.m3u8
