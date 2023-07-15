@@ -228,6 +228,8 @@ AXN,P2p://135.148.104.228:19806/a61594ab252e4daea32355a520d2bca4
 好萊塢電影,http://50.7.238.114:8278/hollywoodmovies_twn/playlist.m3u8?tid=m39bfcd99239617992917&ct=17874&tsum=774ffa7546c934dc27e743c5bbb454d3
 好萊塢電影,http://211.23.114.106:8505/http/61.221.81.94:8088/hls/74/816/ch54.m3u8?token=
 好萊塢電影,http://211.23.114.106:8505/http/61.221.81.94:8088/hls/74/816/ch55.m3u8?token=
+CINEMAX,http://198.16.100.90:8278/cinemax_twn/playlist.m3u8?tid=MCEC1614519816145198&ct=19193&tsum=e635ddeeb683b5cbcda1319d0cc18f84
+CINEMAX,http://50.7.238.114:8278/cinemax_twn/playlist.m3u8?tid=MCEC1614519816145198&ct=19193&tsum=e635ddeeb683b5cbcda1319d0cc18f84
 緯來育樂台, rtmp://219.80.97.77/sat/tv701
 緯來育樂台, rtmp://119.81.124.89/sat/tv701
 緯來育樂台,rtmp://119.81.124.89:1935/sat/tv701
@@ -259,12 +261,11 @@ Animax,P2p://135.148.104.228:19806/6160b2115a0e4edb81ae6d1518335ca4
 JET綜合,P2p://135.148.104.228:19806/366e7db9d45a4f9181754b4859ee5a37
 中台灣生活網,http://58.99.33.16:1935/liveedge17/live_852_3.stream/chunklist.m3u8
 中台灣生活網,http://58.99.33.16:1935/liveedge17/live_020_3.stream/chunklist.m3u8
-
 寰宇新聞台,http://139.180.210.242/php/youtube.php?id=B7Zp3d6xXWw
 寰宇新聞台,http://211.23.114.106:8507/http/61.221.81.94:8088/hls/76/818/ch62.m3u8?token=
 寰宇新聞台,P2p://135.148.104.228:19806/61bd2b78579a497eb8031bd9936aefd8
 Z頻道,P2p://135.148.104.228:19806/47e4d8bcd487437ea30654e8ae99dbfd
-87頻道待定,http://1.m3u8
+鏡新聞,P2p://135.148.104.228:19806/bf64f32bc62b443387be87fc95dd5e50
 八大娛樂台,P2p://135.148.104.228:19806/d8b9defa90bc40c69560ce5ea291d656
 ETtoday綜合台,P2p://135.148.104.228:19806/b444a90a92a1466cb09f4d6621386720
 非凡商業台,http://211.23.114.106:8505/http/61.221.81.94:8088/hls/74/816/ch56.m3u8?token=
@@ -307,8 +308,6 @@ Nick Jr.,P2p://135.148.104.228:19806/ea098f61e18044b2937609a676372ce6
 314 德國之聲,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live071&nid=226
 
 🇹🇼台灣,#genre#
-
-
 
 TVBS-Asia,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
 TVBS-Asia,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
@@ -368,8 +367,7 @@ HBO溫馨家庭,http://50.7.238.114:8278/fyi_twn/playlist.m3u8?tid=18186902&ct=1
 HBO溫馨家庭,http://50.7.238.114:8278/fyi_twn/playlist.m3u8?tid=MFCF7312728573127285&ct=18393&tsum=bc4d3db9ca83c3765cc75512a1bbbbe3
 HBO溫馨家庭,http://50.7.238.114:8278/fyi_twn/playlist.m3u8?tid=m99b80124e3b4&ct=18337&tsum=73f6f540497de9a5615b9bd55bec8853
 
-CINEMAX,http://198.16.100.90:8278/cinemax_twn/playlist.m3u8?tid=MCEC1614519816145198&ct=19193&tsum=e635ddeeb683b5cbcda1319d0cc18f84
-CINEMAX,http://50.7.238.114:8278/cinemax_twn/playlist.m3u8?tid=MCEC1614519816145198&ct=19193&tsum=e635ddeeb683b5cbcda1319d0cc18f84
+
 
 
 美麗人生購物台,http://58.99.33.16:1935/liveedge17/live_070_3.stream/chunklist.m3u8
@@ -554,7 +552,7 @@ Travel Channel,P2p://135.148.104.228:19806/7fa24c1035c74a01a705cfb24d89bfa6
 
 
 
-鏡新聞,P2p://135.148.104.228:19806/bf64f32bc62b443387be87fc95dd5e50
+
 Taiwan+,P2p://135.148.104.228:19806/5b6ee93571324f81959ee26532b3e6d9
 CCTV1,P2p://135.148.104.228:19806/b73841924dc44de9b99238a64c6d4469
 CCTV2,P2p://135.148.104.228:19806/45d684dbefd543f29494ad8c36be3387
