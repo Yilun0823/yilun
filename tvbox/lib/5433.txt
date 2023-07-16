@@ -912,6 +912,11 @@ Taiwan+,mitv://generationnexxxt.com:19806/5b6ee93571324f81959ee26532b3e6d9
 東森購物1台,mitv://generationnexxxt.com:19806/74869fed4efd4b0684ec1e0a6dd9f3ee
 
 待整理,#genre#
+東森新聞,https://www.youtube.com/live/R2iMq5LKXco
+三立新聞,https://www.youtube.com/live/FoBfXvlOR6I
+TVBS新聞,https://www.youtube.com/live/2mCSYvcfhtc
+TVBS56,https://www.youtube.com/live/2mCSYvcfhtc
+
 ELTA體育1,http://50.7.238.114:8278/eltasport_twn/playlist.m3u8?tid=md3567b35401611916221&ct=17874&tsum=be2a069324faa7f0737ca0d396d43745
 ELTA體育1,rtmp://219.80.97.77/sat/md051
 ELTA體育1,rtmp://219.80.97.77/sat/md041
