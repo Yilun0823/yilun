@@ -269,10 +269,10 @@ TVBS新聞台,P2p://135.148.104.228:19806/c7c90c4ae22d4b40bb11245d092a91a6
 TVBS新聞台,http://139.180.210.242/php/youtube.php?id=m_dhMSvUCIc
 TVBS新聞台,mitv://generationnexxxt.com:19806/c7c90c4ae22d4b40bb11245d092a91a6
 56
-TVBS,http://139.180.210.242/php/youtube.php?id=YvdcZ_jpLXE
-TVBS,http://211.23.114.106:8520/http/61.221.81.94:8088/hls/64/806/ch15.m3u8?token=
 TVBS,P2p://135.148.104.228:19806/323a98aa30f845d0acc574b160cf90ef
 TVBS,mitv://generationnexxxt.com:19806/323a98aa30f845d0acc574b160cf90ef
+TVBS,http://139.180.210.242/php/youtube.php?id=YvdcZ_jpLXE
+TVBS,http://211.23.114.106:8520/http/61.221.81.94:8088/hls/64/806/ch15.m3u8?token=
 57
 東森財經新聞台,https://ytm2.yuanhsing.cf/EBCFinancial.m3u8
 東森財經新聞台,rtmp://219.80.97.77/sat/tv571
