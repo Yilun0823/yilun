@@ -399,8 +399,6 @@ JET綜合,mitv://generationnexxxt.com:19806/366e7db9d45a4f9181754b4859ee5a37
 84
 中台灣生活網,http://58.99.33.16:1935/liveedge17/live_852_3.stream/chunklist.m3u8
 中台灣生活網,http://58.99.33.16:1935/liveedge17/live_020_3.stream/chunklist.m3u8
-中台灣生活網,http://58.99.33.16:1935/liveedge17/live_853_3.stream/chunklist.m3u8
-中台灣生活網,http://58.99.33.16:1935/liveedge17/live_854_3.stream/chunklist.m3u8
 85
 寰宇新聞台,http://139.180.210.242/php/youtube.php?id=B7Zp3d6xXWw
 寰宇新聞台,http://211.23.114.106:8507/http/61.221.81.94:8088/hls/76/818/ch62.m3u8?token=
@@ -421,13 +419,44 @@ ETtoday綜合台,P2p://135.148.104.228:19806/b444a90a92a1466cb09f4d6621386720
 非凡商業台,http://211.23.114.106:8505/http/61.221.81.94:8088/hls/74/816/ch56.m3u8?token=
 非凡商業台,P2p://135.148.104.228:19806/b909b5cfc9414e94933152eeee515bd3
 非凡商業台,mitv://generationnexxxt.com:19806/b909b5cfc9414e94933152eeee515bd3
-
+91
+幸福空間居家台,https://www.youtube.com/live/_jbDwrcm0Xw
+92
+運通財經台,https://www.youtube.com/live/bqxeU38_25Y
+93
+全球財經台,https://www.youtube.com/live/3aDnRkAOhqc
+94
+誠心電視台,https://www.youtube.com/live/OGoEtCERK4c
+95
+南投電視台,http://58.99.33.16:1935/liveedge17/live_853_3.stream/chunklist.m3u8
+南投電視台,http://58.99.33.16:1935/liveedge17/live_854_3.stream/chunklist.m3u8
+96頻道待定,http://1.m3u8
+97頻道待定,http://1.m3u8
+98
+海豚綜合台,http://58.99.33.16:1935/liveedge17/live_077_3.stream/chunklist.m3u8
+99頻道待定,http://1.m3u8
+100頻道待定,http://1.m3u8
+101頻道待定,http://1.m3u8
+102
+華藏電視台,https://www.youtube.com/live/ypmrwYeLAaQ?feature=share
+103
+十方法界電視台,https://www.youtube.com/live/_goGsf37UpU?feature=share
+104頻道待定,http://1.m3u8
+105
+世界電視台,https://www.youtube.com/live/t_NV7dJow1g
+106
+信大電視台,https://www.youtube.com/live/AQymzwl3uSk
+107頻道待定,http://1.m3u8
+108
+美麗人生購物台,http://58.99.33.16:1935/liveedge17/live_070_3.stream/chunklist.m3u8
+109
+正德電視台,https://www.youtube.com/live/CHDb5D0DCkw
+110頻道待定,http://1.m3u8
+台灣番薯台,http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
 以下頻道未照編號,http://1.m3u8
-98 海豚綜合台,http://58.99.33.16:1935/liveedge17/live_077_3.stream/chunklist.m3u8
-Nick Jr.,P2p://135.148.104.228:19806/ea098f61e18044b2937609a676372ce6
-106 信大電視台,https://www.youtube.com/live/AQymzwl3uSk
-108 美麗人生購物台,http://58.99.33.16:1935/liveedge17/live_070_3.stream/chunklist.m3u8
-111 台灣番薯台,http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
+116 三聖電視台,https://www.youtube.com/live/txzNUKmuaA0
+雙子衛視,https://www.youtube.com/live/jTS3A4D4x6Q
+122 NHK,https://www.youtube.com/live/f0lYkdA-Gtw
 122 NHK,P2p://135.148.104.228:19806/c166b27a227c4a60aeeec3853f0dd019
 123 國會頻道1,P2p://135.148.104.228:19806/1d24d4b506aa401ca9c29d585cef29c4
 124 國會頻道2,P2p://135.148.104.228:19806/29166c52af854fa98a7c79206981026d
@@ -474,6 +503,7 @@ Nick Jr.,P2p://135.148.104.228:19806/ea098f61e18044b2937609a676372ce6
 314 德國之聲,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live071&nid=226
 
 待整理,#genre#
+溫網,https://today.line.me/tw/v2/article/rmnxrNj
 ELTA體育1,rtmp://219.80.97.77/sat/md051
 ELTA體育1,rtmp://219.80.97.77/sat/md041
 ELTA體育1,rtmp://219.80.97.77/sat/md031
@@ -495,8 +525,11 @@ HBO溫馨家庭,http://198.16.100.90:8278/fyi_twn/playlist.m3u8?tid=m99b80124e3b
 HBO溫馨家庭,http://50.7.238.114:8278/fyi_twn/playlist.m3u8?tid=18186902&ct=17988&&tsum=7a21abab0a5912afb0ebc01db111e59f
 HBO溫馨家庭,http://50.7.238.114:8278/fyi_twn/playlist.m3u8?tid=MFCF7312728573127285&ct=18393&tsum=bc4d3db9ca83c3765cc75512a1bbbbe3
 HBO溫馨家庭,http://50.7.238.114:8278/fyi_twn/playlist.m3u8?tid=m99b80124e3b4&ct=18337&tsum=73f6f540497de9a5615b9bd55bec8853
+
 TVBS-Asia,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
 TVBS-Asia,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
+
+Nick Jr.,P2p://135.148.104.228:19806/ea098f61e18044b2937609a676372ce6
 
 龍華洋片,http://198.16.100.90:8278/lunghuawestern_twn/playlist.m3u8?tid=MF2F4784718547847185&ct=19249&tsum=55fdf18d765f2692c0553d316b671326
 龍華洋片,http://50.7.238.114:8278/lunghuawestern_twn/playlist.m3u8?tid=MF2F4784718547847185&ct=19249&tsum=55fdf18d765f2692c0553d316b671326
@@ -532,21 +565,7 @@ GoodTV 愛旅行台,https://live-350k.streamingfast.net/hls-live/goodtv/_definst
 環球地理,http://211.23.114.106:8520/http/61.221.81.94:8088/hls/61/803/ch01.m3u8?token=
 
 
-
-
 TVBS歡樂,http://211.23.114.106:8520/http/61.221.81.94:8088/hls/65/807/ch17.m3u8?token=
-
-
-
-
-
-
-
-
-
-
-
-
 
 Al Jazeera English,P2p://135.148.104.228:19806/1bd9840bd91540d682d5e94d2da57f55
 
