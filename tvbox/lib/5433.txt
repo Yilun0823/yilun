@@ -17,11 +17,11 @@ CNN,https://cnn-cnninternational-1-eu.rakuten.wurl.tv/206849c7acd1570962df1ad525
 民視,rtmp://219.80.97.77/sat/tv051
 民視,http://seb.sason.top/ptv/ftv.php?id=ms
 7
-人間衛視,mitv://generationnexxxt.com:19806/a20c7e1a571341af9a8068f4db0db82a
 人間衛視,http://218.32.47.179:8506/http/116.50.42.18:8081/hls/69/811/ch36.m3u8
+人間衛視,http://211.23.114.106:8506/http/61.221.81.94:8088/hls/69/811/ch36.m3u8
+人間衛視,mitv://generationnexxxt.com:19806/a20c7e1a571341af9a8068f4db0db82a
 人間衛視,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
 人間衛視,https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w511254805.m3u8
-人間衛視,http://211.23.114.106:8506/http/61.221.81.94:8088/hls/69/811/ch36.m3u8
 人間衛視,P2p://135.148.104.228:19806/a20c7e1a571341af9a8068f4db0db82a
 8
 台視,mitv://generationnexxxt.com:19806/3629146b07e34dab9806cdb08a9390f1
