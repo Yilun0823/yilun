@@ -506,309 +506,6 @@ ETtoday綜合台,P2p://135.148.104.228:19806/b444a90a92a1466cb09f4d6621386720
 313 Arirang,P2p://135.148.104.228:19806/645d0a5a00075deb6d454fee5aa940d7
 314 德國之聲,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live071&nid=226
 
-待整理,#genre#
-ELTA體育1,http://50.7.238.114:8278/eltasport_twn/playlist.m3u8?tid=md3567b35401611916221&ct=17874&tsum=be2a069324faa7f0737ca0d396d43745
-ELTA體育1,rtmp://219.80.97.77/sat/md051
-ELTA體育1,rtmp://219.80.97.77/sat/md041
-ELTA體育1,rtmp://219.80.97.77/sat/md031
-ELTA體育2,rtmp://219.80.97.77/sat/md041
-ELTA體育2,rtmp://219.80.97.77/sat/md051
-ELTA體育3,rtmp://219.80.97.77/sat/md031
-
-HBO強檔鉅獻,http://50.7.238.114:8278/hbohead_twn/playlist.m3u8?tid=MCDC6663932966639329&ct=19193&tsum=6999a99699b097f3af2ef550e5c81f93
-HBO原創鉅獻,http://198.16.100.90:8278/hbosignature_twn/playlist.m3u8?tid=m48ee99a5dacb15948906&ct=17874&tsum=3d127801d49fa098b4118400117b4fbb
-HBO原創鉅獻,http://198.16.100.90:8278/hbosignature_twn/playlist.m3u8?tid=MD6D5767423357674233&ct=18392&tsum=995709f1100cf1b07964790160bfb4ee
-HBO原創鉅獻,http://198.16.100.90:8278/hbosignature_twn/playlist.m3u8?tid=MC5C5754321157543211&ct=19225&tsum=2b86077147813534b4cae6dd85bb3c4a
-HBO原創鉅獻,http://50.7.238.114:8278/hbosignature_twn/playlist.m3u8?tid=m48ee99a5dacb15948906&ct=17874&tsum=3d127801d49fa098b4118400117b4fbb
-HBO原創鉅獻,http://50.7.238.114:8278/hbosignature_twn/playlist.m3u8?tid=MD6D5767423357674233&ct=18392&tsum=995709f1100cf1b07964790160bfb4ee
-HBO原創鉅獻,http://50.7.238.114:8278/hbosignature_twn/playlist.m3u8?tid=MC5C5754321157543211&ct=19225&tsum=2b86077147813534b4cae6dd85bb3c4a
-HBO溫馨家庭,http://198.16.100.90:8278/fyi_twn/playlist.m3u8?tid=18186902&ct=17988&&tsum=7a21abab0a5912afb0ebc01db111e59f
-HBO溫馨家庭,http://198.16.100.90:8278/fyi_twn/playlist.m3u8?tid=MFCF7312728573127285&ct=18393&tsum=bc4d3db9ca83c3765cc75512a1bbbbe3
-HBO溫馨家庭,http://198.16.100.90:8278/fyi_twn/playlist.m3u8?tid=m99b80124e3b4&ct=18337&tsum=73f6f540497de9a5615b9bd55bec8853
-HBO溫馨家庭,http://50.7.238.114:8278/fyi_twn/playlist.m3u8?tid=18186902&ct=17988&&tsum=7a21abab0a5912afb0ebc01db111e59f
-HBO溫馨家庭,http://50.7.238.114:8278/fyi_twn/playlist.m3u8?tid=MFCF7312728573127285&ct=18393&tsum=bc4d3db9ca83c3765cc75512a1bbbbe3
-HBO溫馨家庭,http://50.7.238.114:8278/fyi_twn/playlist.m3u8?tid=m99b80124e3b4&ct=18337&tsum=73f6f540497de9a5615b9bd55bec8853
-
-TVBS-Asia,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
-TVBS-Asia,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
-
-Nick Jr.,P2p://135.148.104.228:19806/ea098f61e18044b2937609a676372ce6
-
-龍華洋片,http://198.16.100.90:8278/lunghuawestern_twn/playlist.m3u8?tid=MF2F4784718547847185&ct=19249&tsum=55fdf18d765f2692c0553d316b671326
-龍華洋片,http://50.7.238.114:8278/lunghuawestern_twn/playlist.m3u8?tid=MF2F4784718547847185&ct=19249&tsum=55fdf18d765f2692c0553d316b671326
-
-美亞電影,http://198.16.100.90:8278/meiyamovie_twn/playlist.m3u8?tid=ME9E6301165163011651&ct=19249&tsum=c2c246af848b424b68e94e4b35cfa337
-美亞電影,http://198.16.100.90:8278/meiyamovie_twn/playlist.m3u8?tid=mcfe3e109029013892155&ct=17874&tsum=164baeda6ab6c4160f2775128cfc6f4e
-美亞電影,http://198.16.100.90:8278/meiyamovie_twn/playlist.m3u8?tid=MD3D6323299363232993&ct=18392&tsum=3f73f541d33abe71140d28ada99a071b
-美亞電影,http://50.7.238.114:8278/meiyamovie_twn/playlist.m3u8?tid=MD3D6323299363232993&ct=18392&tsum=3f73f541d33abe71140d28ada99a071b
-美亞電影,http://50.7.238.114:8278/meiyamovie_twn/playlist.m3u8?tid=mcfe3e109029013892155&ct=17874&tsum=164baeda6ab6c4160f2775128cfc6f4e
-美亞電影,http://50.7.238.114:8278/meiyamovie_twn/playlist.m3u8?tid=ME9E6301165163011651&ct=19249&tsum=c2c246af848b424b68e94e4b35cfa337
-天映經典,http://120.84.96.87:808/hls/85/index.m3u8
-天映經典[854*480],http://198.16.100.90:8278/Celestialindo/playlist.m3u8?tid=MA5A2795215627952156&ct=19254&tsum=5af1cfa380a0d40379beb469d60702ab
-
-
-民視影劇台,http://seb.sason.top/ptv/ftv.php?id=yj
-民視旅遊台,http://seb.sason.top/ptv/ftv.php?id=ly
-民視綜藝台,http://seb.sason.top/ptv/ftv.php?id=zy
-
-龍翔時代,http://120.84.96.115:808/hls/35/index.m3u8
-
-GoodTV 真情部落,https://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch3-2.m3u8
-GoodTV 經典音樂,https://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch6-2.m3u8
-GoodTV 愛旅行台,https://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch11-2.m3u8
-東森美洲衛視,http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
-台視新聞,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
-
-
-東森美洲,http://38.64.72.148:80/hls/modn/list/2015/chunklist1.m3u8
-
-
-亞洲旅遊,http://211.23.114.106:8507/http/61.221.81.94:8088/hls/76/818/ch61.m3u8?token=
-
-環球地理,http://211.23.114.106:8520/http/61.221.81.94:8088/hls/61/803/ch01.m3u8?token=
-
-
-TVBS歡樂,http://211.23.114.106:8520/http/61.221.81.94:8088/hls/65/807/ch17.m3u8?token=
-
-Al Jazeera English,P2p://135.148.104.228:19806/1bd9840bd91540d682d5e94d2da57f55
-
-BC,P2p://135.148.104.228:19806/7c858e8249604ace88dc07ec5411bb5b
-Bloomberg TV,P2p://135.148.104.228:19806/eb00b74578e34430ba1e3482285c1d02
-HITS,P2p://135.148.104.228:19806/afa7df13dc6e49cdbbecacc7c2d3e19c
-中天新聞台,P2p://135.148.104.228:19806/91ccadc82fbf468bbc4a566ded05854e
-好萊塢電影台,P2p://135.148.104.228:19806/05cb694ba11848af8f7084217ddeb9cb
-
-MTV,P2p://135.148.104.228:19806/15683e7c18794b389ca5f5e6df4059bf
-龍華偶像,P2p://135.148.104.228:19806/91eeeca8bc114cd8a3f8e5e6de7ae401
-tvN,P2p://135.148.104.228:19806/645fb9b800079c5f77c2572e6a78418d
-DW,P2p://135.148.104.228:19806/236ba136b30942dc963815730ec88fb9
-France24,P2p://135.148.104.228:19806/f7646941a7574725a19b7111006528eb
-
-ELTV生活英語台,P2p://135.148.104.228:19806/f8150395f48842caaf9c44cc4d5f0702
-靖洋卡通Nice Bingo,P2p://135.148.104.228:19806/57fac4cc4f7746fa8e7aed9aea2e4ac3
-靖天卡通台,P2p://135.148.104.228:19806/b78a2d5eb184420397507fc2784fa07d
-達文西頻道,P2p://135.148.104.228:19806/a02121e6a0a9415ab023ef9d59a03b39
-Nick Jr.,P2p://135.148.104.228:19806/ea098f61e18044b2937609a676372ce6
-
-Mezzo Live,P2p://135.148.104.228:19806/96296c5aed6d415fbe251b2d5fe370d2
-CLASSICA 古典樂,P2p://135.148.104.228:19806/c6b481ccfb6848c188560c36db161459
-CMusic,P2p://135.148.104.228:19806/0ccbd0856dc9424482006936e2f4c9ee
-愛爾達體育1台(備),P2p://135.148.104.228:19806/5ad4198386b34e83b6db62c0a8287d23
-愛爾達體育2台,P2p://135.148.104.228:19806/c3b7b20e52f34205bc8be96f6ec3316f
-TRACE Sport Stars,P2p://135.148.104.228:19806/7e2a39192fb948aabae9d91cbef76e8f
-博斯高球,P2p://135.148.104.228:19806/84dd19d1e22941558b5141dc6877df7b
-博斯高球二台,P2p://135.148.104.228:19806/72a66f6fbf454d9f8f62370a7de1ca5a
-博斯網球台,P2p://135.148.104.228:19806/f465787c1c7a4a4f941eeb51e403158d
-博斯魅力網,P2p://135.148.104.228:19806/41d2a93b79ad40e5acd0529d09507f2e
-博斯無限台,P2p://135.148.104.228:19806/b45d5fc75e4d47acbe5cf29069ecb009
-博斯無限二台,P2p://135.148.104.228:19806/e24b92e7de4e4c449a4203cfcf0769a8
-
-智林體育台,P2p://135.148.104.228:19806/664ce6990ba74ffa91184c64be00ee3e
-博斯運動二台,P2p://135.148.104.228:19806/f8e393c4348a45c7a4c641e2c637c54f
-OUTDOOR,P2p://135.148.104.228:19806/a9057d3e926c44ef91b5b75884c73e70
-HBO強檔巨獻,P2p://135.148.104.228:19806/1bb473a5fe3c4feda0eb06c69eed600d
-HBO原創巨獻,P2p://135.148.104.228:19806/204ee05399b54af1bdd27f54ee46d5b9
-
-BBC Earth,P2p://135.148.104.228:19806/be61544499f94e32b3052b523a3c0b3e
-Discovery Asia,P2p://135.148.104.228:19806/0a60bdafa66643b5a1693da50c79cd53
-Discovery科學頻道,P2p://135.148.104.228:19806/3c3a7e1cf1f24a97bcbe79da20432832
-DMAX,P2p://135.148.104.228:19806/749facbf28b04e099be04bbd7bf1b80c
-EVE,P2p://135.148.104.228:19806/628211263c7544b99a48ed7d3ae397cf
-滾動力rollor,P2p://135.148.104.228:19806/a8852f53102e46a68a3cc03a5484884d
-歷史頻道,P2p://135.148.104.228:19806/4777ed86fd274b21915cc1d9c8229768
-罪案偵緝頻道,P2p://135.148.104.228:19806/29ea5b6d68e2471bbf0226fec27fbc05
-BBC Lifestyle,P2p://135.148.104.228:19806/973d4ba08d4a413f98e23fdc7f6bd2d6
-LUXE TV,P2p://135.148.104.228:19806/8875b6eeac9041068c2b5f5de569e15c
-Lifetime,P2p://135.148.104.228:19806/97c15c6e7e0c47ffacd00baf47d3e149
-KLT-靖天國際台,P2p://135.148.104.228:19806/7978930f97864b1491bcb0ea2b5cfd9a
-HGTV居家樂活頻道,P2p://135.148.104.228:19806/d5dbff4cecc84a6f909fa8aae713ed0a
-Love Nature,P2p://135.148.104.228:19806/5760ad42761742608f77a8020865de23
-美食星球,P2p://135.148.104.228:19806/ad1f3f1d51ee49e59abe423d8866128d
-亞洲美食頻道,P2p://135.148.104.228:19806/d4f6a15a97564eb68d060e3643289e9f
-亞洲旅遊台,P2p://135.148.104.228:19806/c3393337eb67420790a26e98cc94285a
-EYE TV旅遊台,P2p://135.148.104.228:19806/e5e48850b34b4582ae053896b6981b5a
-時尚頻道,P2p://135.148.104.228:19806/825e634c5ed74b1a9ea3a696ac222448
-
-三立綜合台,P2p://135.148.104.228:19806/0b983265d9f44f46a546651e5128eb0e
-靖天資訊台,P2p://135.148.104.228:19806/46aeb6aa957b48f38632fedc3cb8362b
-靖天綜合台,P2p://135.148.104.228:19806/faaed82c64ed487fbdb77f3385cbbcd4
-靖天育樂台,P2p://135.148.104.228:19806/120914924a77484c837e277b8fe9e5a8
-中視經典台,P2p://135.148.104.228:19806/12b3fc27ddbc4d018a05cde0d94c8df5
-TVBS精采台,P2p://135.148.104.228:19806/b19a6e53c8c24714a0047fd82b4d1cd4
-壹電視綜合,P2p://135.148.104.228:19806/0d99f87e87b44d5cb99bbafa5c6a44b3
-緯來精采,P2p://135.148.104.228:19806/2dc1db7be6974fa1b9eb567265aff2ef
-民視第一台,P2p://135.148.104.228:19806/c5a28104048744eca9019b6f0464a77d
-民視台灣台,P2p://135.148.104.228:19806/dfbfafe7d7164f6fbb4234ac46f02138
-Nice TV靖天歡樂台,P2p://135.148.104.228:19806/5c5b6ec64d3b40c69f8cb895c32d617b
-八大優頻道,P2p://135.148.104.228:19806/cd389c8cd32a43a7aed97ddb5ec52318
-三立戲劇台,P2p://135.148.104.228:19806/c3d511e039594042a40dc3b27543bdb2
-龍華戲劇,P2p://135.148.104.228:19806/9c9df54f618340b68cc0a6859400a3e8
-靖天戲劇台,P2p://135.148.104.228:19806/58b85b035785444880827f90bfb34738
-靖洋戲劇台,P2p://135.148.104.228:19806/c262dd7ce8864c33bcbb74a196ad4383
-靖天日本台,P2p://135.148.104.228:19806/0971e01083e346bc86e3820cd7bb8d27
-i-Fun動漫台,P2p://135.148.104.228:19806/636f9bc9fd1e4caeae7cfbf6f37247c2
-韓國娛樂台,P2p://135.148.104.228:19806/2308916d34af47218293ea1ed318ed61
-星衛娛樂台,P2p://135.148.104.228:19806/1946d09cd5994b9ab5ee0b0735eca5b9
-ROCK Extreme,P2p://135.148.104.228:19806/39360186c23447c994dd090a9b585535
-中視新聞台,P2p://135.148.104.228:19806/2a1602ea48c14bca864aef59f46bb641
-美亞電影台HD,P2p://135.148.104.228:19806/68d0b9b4084c49779ccb4fb415309319
-龍華電影,P2p://135.148.104.228:19806/643357e017d04a9a8b85a3837e0d796a
-星衛HD電影台,P2p://135.148.104.228:19806/0513b0a4b6ef4024828b7e310e4eb089
-靖天映畫,P2p://135.148.104.228:19806/ac4f041fe15e4e38b2a604825adc4d01
-靖天電影台,P2p://135.148.104.228:19806/74330eb1c8894f5ea4c0801e0f3ae324
-WARNER TV,P2p://135.148.104.228:19806/f83fcc6c405a4059a1ab3dc667829c79
-AMC最愛電影,P2p://135.148.104.228:19806/58687b9b7daf4540bf1ac962cb803e33
-HBO Family,P2p://135.148.104.228:19806/b5fd15fabf5f496c8aeb1169debdecb0
-CatchPlay電影台,P2p://135.148.104.228:19806/da94bd47a3c74402a581c064600d3d47
-CinemaWorld,P2p://135.148.104.228:19806/5084c28d85eb4e7a90f0211396fb2aa0
-壹電視電影台,P2p://135.148.104.228:19806/558c65c88e2a4d938164246119e6431a
-采昌影劇台,P2p://135.148.104.228:19806/cff514773d624d19b402dc4f860fb0e5
-佛衛慈悲台,P2p://135.148.104.228:19806/1f9ca513d6fd409e9921b4117ebb6a96
-TV5Monde,P2p://135.148.104.228:19806/a63c41e7f4da418e87a70513b95e00e8
-Cbeebies,P2p://135.148.104.228:19806/1bf057865e234c498ba12f270f2cebd3
-EYE TV戲劇台,P2p://135.148.104.228:19806/f7c71d2d40d541c69d1a77d5919a2bc3
-台視新聞台,P2p://135.148.104.228:19806/aae532a4f32f4bbb907b889c9d5caa31
-愛爾達影劇台,P2p://135.148.104.228:19806/095d744496e642f990c22cd6a72574be
-ROCK Entertainment,P2p://135.148.104.228:19806/8657d9cc8900447d9814560be3beac66
-
-Dreamworks,P2p://135.148.104.228:19806/abcd6f0a152f49ce9800e78bbd08f104
-TV5MONDE Style 生活時尚,P2p://135.148.104.228:19806/866598fa22ac4b94b3ca40729051b356
-Travel Channel,P2p://135.148.104.228:19806/7fa24c1035c74a01a705cfb24d89bfa6
-影迷數位電影台,P2p://135.148.104.228:19806/98099ff3f98747dbbf27c6e12be8e282
-愛爾達體育1台,P2p://135.148.104.228:19806/bc61a6164c2b437ab56f50fbc44db5a2
-愛爾達體育3台,P2p://135.148.104.228:19806/a27543cb594747e3a76728e2a370d458
-
-Al Jazeera English,mitv://generationnexxxt.com:19806/1bd9840bd91540d682d5e94d2da57f55
-Bloomberg TV,mitv://generationnexxxt.com:19806/eb00b74578e34430ba1e3482285c1d02
-HITS,mitv://generationnexxxt.com:19806/afa7df13dc6e49cdbbecacc7c2d3e19c
-
-MTV,mitv://generationnexxxt.com:19806/15683e7c18794b389ca5f5e6df4059bf
-三立iNEWS,mitv://generationnexxxt.com:19806/8ad88e1601684711bca7066a36b95f9c
-龍華偶像,mitv://generationnexxxt.com:19806/91eeeca8bc114cd8a3f8e5e6de7ae401
-tvN,mitv://generationnexxxt.com:19806/645fb9b800079c5f77c2572e6a78418d
-DW,mitv://generationnexxxt.com:19806/236ba136b30942dc963815730ec88fb9
-France24,mitv://generationnexxxt.com:19806/f7646941a7574725a19b7111006528eb
-大愛2台,mitv://generationnexxxt.com:19806/fe77def03df64069a90a690858db8181
-ELTV生活英語台,mitv://generationnexxxt.com:19806/f8150395f48842caaf9c44cc4d5f0702
-靖洋卡通Nice Bingo,mitv://generationnexxxt.com:19806/57fac4cc4f7746fa8e7aed9aea2e4ac3
-靖天卡通台,mitv://generationnexxxt.com:19806/b78a2d5eb184420397507fc2784fa07d
-達文西頻道,mitv://generationnexxxt.com:19806/a02121e6a0a9415ab023ef9d59a03b39
-Nick Jr.,mitv://generationnexxxt.com:19806/ea098f61e18044b2937609a676372ce6
-國會頻道1,mitv://generationnexxxt.com:19806/1d24d4b506aa401ca9c29d585cef29c4
-國會頻道2,mitv://generationnexxxt.com:19806/29166c52af854fa98a7c79206981026d
-Mezzo Live,mitv://generationnexxxt.com:19806/96296c5aed6d415fbe251b2d5fe370d2
-CLASSICA 古典樂,mitv://generationnexxxt.com:19806/c6b481ccfb6848c188560c36db161459
-CMusic,mitv://generationnexxxt.com:19806/0ccbd0856dc9424482006936e2f4c9ee
-愛爾達體育1台(備),mitv://generationnexxxt.com:19806/5ad4198386b34e83b6db62c0a8287d23
-愛爾達體育2台,mitv://generationnexxxt.com:19806/c3b7b20e52f34205bc8be96f6ec3316f
-TRACE Sport Stars,mitv://generationnexxxt.com:19806/7e2a39192fb948aabae9d91cbef76e8f
-博斯高球,mitv://generationnexxxt.com:19806/84dd19d1e22941558b5141dc6877df7b
-博斯高球二台,mitv://generationnexxxt.com:19806/72a66f6fbf454d9f8f62370a7de1ca5a
-博斯網球台,mitv://generationnexxxt.com:19806/f465787c1c7a4a4f941eeb51e403158d
-博斯魅力網,mitv://generationnexxxt.com:19806/41d2a93b79ad40e5acd0529d09507f2e
-博斯無限台,mitv://generationnexxxt.com:19806/b45d5fc75e4d47acbe5cf29069ecb009
-博斯無限二台,mitv://generationnexxxt.com:19806/e24b92e7de4e4c449a4203cfcf0769a8
-博斯運動,mitv://generationnexxxt.com:19806/06ca5bd0fd7c4867a18bab40d0627ef3
-ELEVEN體育2台,mitv://generationnexxxt.com:19806/ce3f17a872da4096a41e45f1773d2572
-智林體育台,mitv://generationnexxxt.com:19806/664ce6990ba74ffa91184c64be00ee3e
-博斯運動二台,mitv://generationnexxxt.com:19806/f8e393c4348a45c7a4c641e2c637c54f
-OUTDOOR,mitv://generationnexxxt.com:19806/a9057d3e926c44ef91b5b75884c73e70
-HBO強檔巨獻,mitv://generationnexxxt.com:19806/1bb473a5fe3c4feda0eb06c69eed600d
-HBO原創巨獻,mitv://generationnexxxt.com:19806/204ee05399b54af1bdd27f54ee46d5b9
-國家地理高畫質野生頻道,mitv://generationnexxxt.com:19806/5099b463795b4265901031002e189049
-BBC Earth,mitv://generationnexxxt.com:19806/be61544499f94e32b3052b523a3c0b3e
-Discovery Asia,mitv://generationnexxxt.com:19806/0a60bdafa66643b5a1693da50c79cd53
-Discovery科學頻道,mitv://generationnexxxt.com:19806/3c3a7e1cf1f24a97bcbe79da20432832
-DMAX,mitv://generationnexxxt.com:19806/749facbf28b04e099be04bbd7bf1b80c
-EVE,mitv://generationnexxxt.com:19806/628211263c7544b99a48ed7d3ae397cf
-滾動力rollor,mitv://generationnexxxt.com:19806/a8852f53102e46a68a3cc03a5484884d
-歷史頻道,mitv://generationnexxxt.com:19806/4777ed86fd274b21915cc1d9c8229768
-罪案偵緝頻道,mitv://generationnexxxt.com:19806/29ea5b6d68e2471bbf0226fec27fbc05
-BBC Lifestyle,mitv://generationnexxxt.com:19806/973d4ba08d4a413f98e23fdc7f6bd2d6
-LUXE TV,mitv://generationnexxxt.com:19806/8875b6eeac9041068c2b5f5de569e15c
-Lifetime,mitv://generationnexxxt.com:19806/97c15c6e7e0c47ffacd00baf47d3e149
-KLT-靖天國際台,mitv://generationnexxxt.com:19806/7978930f97864b1491bcb0ea2b5cfd9a
-HGTV居家樂活頻道,mitv://generationnexxxt.com:19806/d5dbff4cecc84a6f909fa8aae713ed0a
-Love Nature,mitv://generationnexxxt.com:19806/5760ad42761742608f77a8020865de23
-美食星球,mitv://generationnexxxt.com:19806/ad1f3f1d51ee49e59abe423d8866128d
-亞洲美食頻道,mitv://generationnexxxt.com:19806/d4f6a15a97564eb68d060e3643289e9f
-亞洲旅遊台,mitv://generationnexxxt.com:19806/c3393337eb67420790a26e98cc94285a
-EYE TV旅遊台,mitv://generationnexxxt.com:19806/e5e48850b34b4582ae053896b6981b5a
-時尚頻道,mitv://generationnexxxt.com:19806/825e634c5ed74b1a9ea3a696ac222448
-好消息2台,mitv://generationnexxxt.com:19806/11851fe5876d4ca6ae3c6b559e7390cc
-三立綜合台,mitv://generationnexxxt.com:19806/0b983265d9f44f46a546651e5128eb0e
-靖天資訊台,mitv://generationnexxxt.com:19806/46aeb6aa957b48f38632fedc3cb8362b
-靖天綜合台,mitv://generationnexxxt.com:19806/faaed82c64ed487fbdb77f3385cbbcd4
-靖天育樂台,mitv://generationnexxxt.com:19806/120914924a77484c837e277b8fe9e5a8
-中視經典台,mitv://generationnexxxt.com:19806/12b3fc27ddbc4d018a05cde0d94c8df5
-中視菁采台,mitv://generationnexxxt.com:19806/0f7054731cfe44628f72221763a9c732
-TVBS精采台,mitv://generationnexxxt.com:19806/b19a6e53c8c24714a0047fd82b4d1cd4
-壹電視綜合,mitv://generationnexxxt.com:19806/0d99f87e87b44d5cb99bbafa5c6a44b3
-緯來精采,mitv://generationnexxxt.com:19806/2dc1db7be6974fa1b9eb567265aff2ef
-ETtoday綜合台,mitv://generationnexxxt.com:19806/b444a90a92a1466cb09f4d6621386720
-民視第一台,mitv://generationnexxxt.com:19806/c5a28104048744eca9019b6f0464a77d
-民視台灣台,mitv://generationnexxxt.com:19806/dfbfafe7d7164f6fbb4234ac46f02138
-Nice TV靖天歡樂台,mitv://generationnexxxt.com:19806/5c5b6ec64d3b40c69f8cb895c32d617b
-八大優頻道,mitv://generationnexxxt.com:19806/cd389c8cd32a43a7aed97ddb5ec52318
-三立戲劇台,mitv://generationnexxxt.com:19806/c3d511e039594042a40dc3b27543bdb2
-龍華戲劇,mitv://generationnexxxt.com:19806/9c9df54f618340b68cc0a6859400a3e8
-靖天戲劇台,mitv://generationnexxxt.com:19806/58b85b035785444880827f90bfb34738
-靖洋戲劇台,mitv://generationnexxxt.com:19806/c262dd7ce8864c33bcbb74a196ad4383
-靖天日本台,mitv://generationnexxxt.com:19806/0971e01083e346bc86e3820cd7bb8d27
-i-Fun動漫台,mitv://generationnexxxt.com:19806/636f9bc9fd1e4caeae7cfbf6f37247c2
-韓國娛樂台,mitv://generationnexxxt.com:19806/2308916d34af47218293ea1ed318ed61
-星衛娛樂台,mitv://generationnexxxt.com:19806/1946d09cd5994b9ab5ee0b0735eca5b9
-ROCK Extreme,mitv://generationnexxxt.com:19806/39360186c23447c994dd090a9b585535
-中視新聞台,mitv://generationnexxxt.com:19806/2a1602ea48c14bca864aef59f46bb641
-寰宇新聞台,mitv://generationnexxxt.com:19806/61bd2b78579a497eb8031bd9936aefd8
-華視新聞,mitv://generationnexxxt.com:19806/010e5852399b4cd3b2d81cc41642ca2b
-NHK新聞資訊台,mitv://generationnexxxt.com:19806/c166b27a227c4a60aeeec3853f0dd019
-美亞電影台HD,mitv://generationnexxxt.com:19806/68d0b9b4084c49779ccb4fb415309319
-龍華電影,mitv://generationnexxxt.com:19806/643357e017d04a9a8b85a3837e0d796a
-星衛HD電影台,mitv://generationnexxxt.com:19806/0513b0a4b6ef4024828b7e310e4eb089
-靖天映畫,mitv://generationnexxxt.com:19806/ac4f041fe15e4e38b2a604825adc4d01
-靖天電影台,mitv://generationnexxxt.com:19806/74330eb1c8894f5ea4c0801e0f3ae324
-WARNER TV,mitv://generationnexxxt.com:19806/f83fcc6c405a4059a1ab3dc667829c79
-Star Movies HD,mitv://generationnexxxt.com:19806/b4683609ce064f889d29bf6299737c7b
-AMC最愛電影,mitv://generationnexxxt.com:19806/58687b9b7daf4540bf1ac962cb803e33
-HBO Family,mitv://generationnexxxt.com:19806/b5fd15fabf5f496c8aeb1169debdecb0
-CatchPlay電影台,mitv://generationnexxxt.com:19806/da94bd47a3c74402a581c064600d3d47
-CinemaWorld,mitv://generationnexxxt.com:19806/5084c28d85eb4e7a90f0211396fb2aa0
-壹電視電影台,mitv://generationnexxxt.com:19806/558c65c88e2a4d938164246119e6431a
-采昌影劇台,mitv://generationnexxxt.com:19806/cff514773d624d19b402dc4f860fb0e5
-佛衛慈悲台,mitv://generationnexxxt.com:19806/1f9ca513d6fd409e9921b4117ebb6a96
-TV5Monde,mitv://generationnexxxt.com:19806/a63c41e7f4da418e87a70513b95e00e8
-Cbeebies,mitv://generationnexxxt.com:19806/1bf057865e234c498ba12f270f2cebd3
-EYE TV戲劇台,mitv://generationnexxxt.com:19806/f7c71d2d40d541c69d1a77d5919a2bc3
-台視新聞台,mitv://generationnexxxt.com:19806/aae532a4f32f4bbb907b889c9d5caa31
-寰宇新聞台灣台,mitv://generationnexxxt.com:19806/11bfa49d6ec94cf9922daf33888c089b
-台視財經台,mitv://generationnexxxt.com:19806/17ca8e1711914b0ca9aa1d6972807238
-緯來日本,mitv://generationnexxxt.com:19806/e8864b74e1144a2d94b694329d462f60
-愛爾達影劇台,mitv://generationnexxxt.com:19806/095d744496e642f990c22cd6a72574be
-ROCK Entertainment,mitv://generationnexxxt.com:19806/8657d9cc8900447d9814560be3beac66
-民視(備),mitv://generationnexxxt.com:19806/716968c1dfc9436297a959fbf34f7b57
-三立台灣台(備),mitv://generationnexxxt.com:19806/64f55b462f084cc0973cc5a19fc1a9a8
-Dreamworks,mitv://generationnexxxt.com:19806/abcd6f0a152f49ce9800e78bbd08f104
-TV5MONDE Style 生活時尚,mitv://generationnexxxt.com:19806/866598fa22ac4b94b3ca40729051b356
-Travel Channel,mitv://generationnexxxt.com:19806/7fa24c1035c74a01a705cfb24d89bfa6
-影迷數位電影台,mitv://generationnexxxt.com:19806/98099ff3f98747dbbf27c6e12be8e282
-衛視中文台,mitv://generationnexxxt.com:19806/9201e4f8759b419dbbd5f4ae6543f179
-愛爾達體育1台,mitv://generationnexxxt.com:19806/bc61a6164c2b437ab56f50fbc44db5a2
-
-愛爾達體育3台,mitv://generationnexxxt.com:19806/a27543cb594747e3a76728e2a370d458
-台視(備),mitv://generationnexxxt.com:19806/df8daf3ef8c84373850b48f6bc26ba0c
-大愛(備),mitv://generationnexxxt.com:19806/e440b926b5da435897ec5fbe9a9e68b6
-中視(備),mitv://generationnexxxt.com:19806/a14ad73712dc4949a38debd5a54df714
-華視(備),mitv://generationnexxxt.com:19806/df79640dd3f74716a14f32aaafa8c8ac
-公視(備),mitv://generationnexxxt.com:19806/a3fce8812e6046e0b9f797b5f4552804
-東森新聞台(備),mitv://generationnexxxt.com:19806/d5512d0b33214f15b8e2e0a0307d4460
-鏡新聞,mitv://generationnexxxt.com:19806/bf64f32bc62b443387be87fc95dd5e50
-Taiwan+,mitv://generationnexxxt.com:19806/5b6ee93571324f81959ee26532b3e6d9
-東森購物2台,mitv://generationnexxxt.com:19806/36b73761bad9455c88c53c842ae4e404
-東森購物1台,mitv://generationnexxxt.com:19806/74869fed4efd4b0684ec1e0a6dd9f3ee
-
-
-
 購物台🛒,#genre#
 東森購物1台,https://www.youtube.com/live/ViJ3XiN6Q3M
 東森購物1台,P2p://135.148.104.228:19806/74869fed4efd4b0684ec1e0a6dd9f3ee
@@ -1213,3 +910,174 @@ Star Movies Gold,mitv://generationnexxxt.com:19806/eb4484443220443988dee0facb910
 Taiwan+,mitv://generationnexxxt.com:19806/5b6ee93571324f81959ee26532b3e6d9
 東森購物2台,mitv://generationnexxxt.com:19806/36b73761bad9455c88c53c842ae4e404
 東森購物1台,mitv://generationnexxxt.com:19806/74869fed4efd4b0684ec1e0a6dd9f3ee
+
+待整理,#genre#
+ELTA體育1,http://50.7.238.114:8278/eltasport_twn/playlist.m3u8?tid=md3567b35401611916221&ct=17874&tsum=be2a069324faa7f0737ca0d396d43745
+ELTA體育1,rtmp://219.80.97.77/sat/md051
+ELTA體育1,rtmp://219.80.97.77/sat/md041
+ELTA體育1,rtmp://219.80.97.77/sat/md031
+ELTA體育2,rtmp://219.80.97.77/sat/md041
+ELTA體育2,rtmp://219.80.97.77/sat/md051
+ELTA體育3,rtmp://219.80.97.77/sat/md031
+
+HBO強檔鉅獻,http://50.7.238.114:8278/hbohead_twn/playlist.m3u8?tid=MCDC6663932966639329&ct=19193&tsum=6999a99699b097f3af2ef550e5c81f93
+HBO原創鉅獻,http://198.16.100.90:8278/hbosignature_twn/playlist.m3u8?tid=m48ee99a5dacb15948906&ct=17874&tsum=3d127801d49fa098b4118400117b4fbb
+HBO原創鉅獻,http://198.16.100.90:8278/hbosignature_twn/playlist.m3u8?tid=MD6D5767423357674233&ct=18392&tsum=995709f1100cf1b07964790160bfb4ee
+HBO原創鉅獻,http://198.16.100.90:8278/hbosignature_twn/playlist.m3u8?tid=MC5C5754321157543211&ct=19225&tsum=2b86077147813534b4cae6dd85bb3c4a
+HBO原創鉅獻,http://50.7.238.114:8278/hbosignature_twn/playlist.m3u8?tid=m48ee99a5dacb15948906&ct=17874&tsum=3d127801d49fa098b4118400117b4fbb
+HBO原創鉅獻,http://50.7.238.114:8278/hbosignature_twn/playlist.m3u8?tid=MD6D5767423357674233&ct=18392&tsum=995709f1100cf1b07964790160bfb4ee
+HBO原創鉅獻,http://50.7.238.114:8278/hbosignature_twn/playlist.m3u8?tid=MC5C5754321157543211&ct=19225&tsum=2b86077147813534b4cae6dd85bb3c4a
+HBO溫馨家庭,http://198.16.100.90:8278/fyi_twn/playlist.m3u8?tid=18186902&ct=17988&&tsum=7a21abab0a5912afb0ebc01db111e59f
+HBO溫馨家庭,http://198.16.100.90:8278/fyi_twn/playlist.m3u8?tid=MFCF7312728573127285&ct=18393&tsum=bc4d3db9ca83c3765cc75512a1bbbbe3
+HBO溫馨家庭,http://198.16.100.90:8278/fyi_twn/playlist.m3u8?tid=m99b80124e3b4&ct=18337&tsum=73f6f540497de9a5615b9bd55bec8853
+HBO溫馨家庭,http://50.7.238.114:8278/fyi_twn/playlist.m3u8?tid=18186902&ct=17988&&tsum=7a21abab0a5912afb0ebc01db111e59f
+HBO溫馨家庭,http://50.7.238.114:8278/fyi_twn/playlist.m3u8?tid=MFCF7312728573127285&ct=18393&tsum=bc4d3db9ca83c3765cc75512a1bbbbe3
+HBO溫馨家庭,http://50.7.238.114:8278/fyi_twn/playlist.m3u8?tid=m99b80124e3b4&ct=18337&tsum=73f6f540497de9a5615b9bd55bec8853
+
+TVBS-Asia,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
+TVBS-Asia,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
+
+Nick Jr.,P2p://135.148.104.228:19806/ea098f61e18044b2937609a676372ce6
+
+龍華洋片,http://198.16.100.90:8278/lunghuawestern_twn/playlist.m3u8?tid=MF2F4784718547847185&ct=19249&tsum=55fdf18d765f2692c0553d316b671326
+龍華洋片,http://50.7.238.114:8278/lunghuawestern_twn/playlist.m3u8?tid=MF2F4784718547847185&ct=19249&tsum=55fdf18d765f2692c0553d316b671326
+
+美亞電影,http://198.16.100.90:8278/meiyamovie_twn/playlist.m3u8?tid=ME9E6301165163011651&ct=19249&tsum=c2c246af848b424b68e94e4b35cfa337
+美亞電影,http://198.16.100.90:8278/meiyamovie_twn/playlist.m3u8?tid=mcfe3e109029013892155&ct=17874&tsum=164baeda6ab6c4160f2775128cfc6f4e
+美亞電影,http://198.16.100.90:8278/meiyamovie_twn/playlist.m3u8?tid=MD3D6323299363232993&ct=18392&tsum=3f73f541d33abe71140d28ada99a071b
+美亞電影,http://50.7.238.114:8278/meiyamovie_twn/playlist.m3u8?tid=MD3D6323299363232993&ct=18392&tsum=3f73f541d33abe71140d28ada99a071b
+美亞電影,http://50.7.238.114:8278/meiyamovie_twn/playlist.m3u8?tid=mcfe3e109029013892155&ct=17874&tsum=164baeda6ab6c4160f2775128cfc6f4e
+美亞電影,http://50.7.238.114:8278/meiyamovie_twn/playlist.m3u8?tid=ME9E6301165163011651&ct=19249&tsum=c2c246af848b424b68e94e4b35cfa337
+天映經典,http://120.84.96.87:808/hls/85/index.m3u8
+天映經典[854*480],http://198.16.100.90:8278/Celestialindo/playlist.m3u8?tid=MA5A2795215627952156&ct=19254&tsum=5af1cfa380a0d40379beb469d60702ab
+
+
+民視影劇台,http://seb.sason.top/ptv/ftv.php?id=yj
+民視旅遊台,http://seb.sason.top/ptv/ftv.php?id=ly
+民視綜藝台,http://seb.sason.top/ptv/ftv.php?id=zy
+
+龍翔時代,http://120.84.96.115:808/hls/35/index.m3u8
+
+GoodTV 真情部落,https://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch3-2.m3u8
+GoodTV 經典音樂,https://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch6-2.m3u8
+GoodTV 愛旅行台,https://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch11-2.m3u8
+東森美洲衛視,http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
+台視新聞,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
+
+
+東森美洲,http://38.64.72.148:80/hls/modn/list/2015/chunklist1.m3u8
+
+
+亞洲旅遊,http://211.23.114.106:8507/http/61.221.81.94:8088/hls/76/818/ch61.m3u8?token=
+
+環球地理,http://211.23.114.106:8520/http/61.221.81.94:8088/hls/61/803/ch01.m3u8?token=
+
+
+TVBS歡樂,http://211.23.114.106:8520/http/61.221.81.94:8088/hls/65/807/ch17.m3u8?token=
+
+Al Jazeera English,P2p://135.148.104.228:19806/1bd9840bd91540d682d5e94d2da57f55
+
+BC,P2p://135.148.104.228:19806/7c858e8249604ace88dc07ec5411bb5b
+Bloomberg TV,P2p://135.148.104.228:19806/eb00b74578e34430ba1e3482285c1d02
+HITS,P2p://135.148.104.228:19806/afa7df13dc6e49cdbbecacc7c2d3e19c
+中天新聞台,P2p://135.148.104.228:19806/91ccadc82fbf468bbc4a566ded05854e
+好萊塢電影台,P2p://135.148.104.228:19806/05cb694ba11848af8f7084217ddeb9cb
+
+MTV,P2p://135.148.104.228:19806/15683e7c18794b389ca5f5e6df4059bf
+龍華偶像,P2p://135.148.104.228:19806/91eeeca8bc114cd8a3f8e5e6de7ae401
+tvN,P2p://135.148.104.228:19806/645fb9b800079c5f77c2572e6a78418d
+DW,P2p://135.148.104.228:19806/236ba136b30942dc963815730ec88fb9
+France24,P2p://135.148.104.228:19806/f7646941a7574725a19b7111006528eb
+
+ELTV生活英語台,P2p://135.148.104.228:19806/f8150395f48842caaf9c44cc4d5f0702
+靖洋卡通Nice Bingo,P2p://135.148.104.228:19806/57fac4cc4f7746fa8e7aed9aea2e4ac3
+靖天卡通台,P2p://135.148.104.228:19806/b78a2d5eb184420397507fc2784fa07d
+達文西頻道,P2p://135.148.104.228:19806/a02121e6a0a9415ab023ef9d59a03b39
+Nick Jr.,P2p://135.148.104.228:19806/ea098f61e18044b2937609a676372ce6
+
+Mezzo Live,P2p://135.148.104.228:19806/96296c5aed6d415fbe251b2d5fe370d2
+CLASSICA 古典樂,P2p://135.148.104.228:19806/c6b481ccfb6848c188560c36db161459
+CMusic,P2p://135.148.104.228:19806/0ccbd0856dc9424482006936e2f4c9ee
+愛爾達體育1台(備),P2p://135.148.104.228:19806/5ad4198386b34e83b6db62c0a8287d23
+愛爾達體育2台,P2p://135.148.104.228:19806/c3b7b20e52f34205bc8be96f6ec3316f
+TRACE Sport Stars,P2p://135.148.104.228:19806/7e2a39192fb948aabae9d91cbef76e8f
+博斯高球,P2p://135.148.104.228:19806/84dd19d1e22941558b5141dc6877df7b
+博斯高球二台,P2p://135.148.104.228:19806/72a66f6fbf454d9f8f62370a7de1ca5a
+博斯網球台,P2p://135.148.104.228:19806/f465787c1c7a4a4f941eeb51e403158d
+博斯魅力網,P2p://135.148.104.228:19806/41d2a93b79ad40e5acd0529d09507f2e
+博斯無限台,P2p://135.148.104.228:19806/b45d5fc75e4d47acbe5cf29069ecb009
+博斯無限二台,P2p://135.148.104.228:19806/e24b92e7de4e4c449a4203cfcf0769a8
+
+智林體育台,P2p://135.148.104.228:19806/664ce6990ba74ffa91184c64be00ee3e
+博斯運動二台,P2p://135.148.104.228:19806/f8e393c4348a45c7a4c641e2c637c54f
+OUTDOOR,P2p://135.148.104.228:19806/a9057d3e926c44ef91b5b75884c73e70
+HBO強檔巨獻,P2p://135.148.104.228:19806/1bb473a5fe3c4feda0eb06c69eed600d
+HBO原創巨獻,P2p://135.148.104.228:19806/204ee05399b54af1bdd27f54ee46d5b9
+
+BBC Earth,P2p://135.148.104.228:19806/be61544499f94e32b3052b523a3c0b3e
+Discovery Asia,P2p://135.148.104.228:19806/0a60bdafa66643b5a1693da50c79cd53
+Discovery科學頻道,P2p://135.148.104.228:19806/3c3a7e1cf1f24a97bcbe79da20432832
+DMAX,P2p://135.148.104.228:19806/749facbf28b04e099be04bbd7bf1b80c
+EVE,P2p://135.148.104.228:19806/628211263c7544b99a48ed7d3ae397cf
+滾動力rollor,P2p://135.148.104.228:19806/a8852f53102e46a68a3cc03a5484884d
+歷史頻道,P2p://135.148.104.228:19806/4777ed86fd274b21915cc1d9c8229768
+罪案偵緝頻道,P2p://135.148.104.228:19806/29ea5b6d68e2471bbf0226fec27fbc05
+BBC Lifestyle,P2p://135.148.104.228:19806/973d4ba08d4a413f98e23fdc7f6bd2d6
+LUXE TV,P2p://135.148.104.228:19806/8875b6eeac9041068c2b5f5de569e15c
+Lifetime,P2p://135.148.104.228:19806/97c15c6e7e0c47ffacd00baf47d3e149
+KLT-靖天國際台,P2p://135.148.104.228:19806/7978930f97864b1491bcb0ea2b5cfd9a
+HGTV居家樂活頻道,P2p://135.148.104.228:19806/d5dbff4cecc84a6f909fa8aae713ed0a
+Love Nature,P2p://135.148.104.228:19806/5760ad42761742608f77a8020865de23
+美食星球,P2p://135.148.104.228:19806/ad1f3f1d51ee49e59abe423d8866128d
+亞洲美食頻道,P2p://135.148.104.228:19806/d4f6a15a97564eb68d060e3643289e9f
+亞洲旅遊台,P2p://135.148.104.228:19806/c3393337eb67420790a26e98cc94285a
+EYE TV旅遊台,P2p://135.148.104.228:19806/e5e48850b34b4582ae053896b6981b5a
+時尚頻道,P2p://135.148.104.228:19806/825e634c5ed74b1a9ea3a696ac222448
+
+三立綜合台,P2p://135.148.104.228:19806/0b983265d9f44f46a546651e5128eb0e
+靖天資訊台,P2p://135.148.104.228:19806/46aeb6aa957b48f38632fedc3cb8362b
+靖天綜合台,P2p://135.148.104.228:19806/faaed82c64ed487fbdb77f3385cbbcd4
+靖天育樂台,P2p://135.148.104.228:19806/120914924a77484c837e277b8fe9e5a8
+中視經典台,P2p://135.148.104.228:19806/12b3fc27ddbc4d018a05cde0d94c8df5
+TVBS精采台,P2p://135.148.104.228:19806/b19a6e53c8c24714a0047fd82b4d1cd4
+壹電視綜合,P2p://135.148.104.228:19806/0d99f87e87b44d5cb99bbafa5c6a44b3
+緯來精采,P2p://135.148.104.228:19806/2dc1db7be6974fa1b9eb567265aff2ef
+民視第一台,P2p://135.148.104.228:19806/c5a28104048744eca9019b6f0464a77d
+民視台灣台,P2p://135.148.104.228:19806/dfbfafe7d7164f6fbb4234ac46f02138
+Nice TV靖天歡樂台,P2p://135.148.104.228:19806/5c5b6ec64d3b40c69f8cb895c32d617b
+八大優頻道,P2p://135.148.104.228:19806/cd389c8cd32a43a7aed97ddb5ec52318
+三立戲劇台,P2p://135.148.104.228:19806/c3d511e039594042a40dc3b27543bdb2
+龍華戲劇,P2p://135.148.104.228:19806/9c9df54f618340b68cc0a6859400a3e8
+靖天戲劇台,P2p://135.148.104.228:19806/58b85b035785444880827f90bfb34738
+靖洋戲劇台,P2p://135.148.104.228:19806/c262dd7ce8864c33bcbb74a196ad4383
+靖天日本台,P2p://135.148.104.228:19806/0971e01083e346bc86e3820cd7bb8d27
+i-Fun動漫台,P2p://135.148.104.228:19806/636f9bc9fd1e4caeae7cfbf6f37247c2
+韓國娛樂台,P2p://135.148.104.228:19806/2308916d34af47218293ea1ed318ed61
+星衛娛樂台,P2p://135.148.104.228:19806/1946d09cd5994b9ab5ee0b0735eca5b9
+ROCK Extreme,P2p://135.148.104.228:19806/39360186c23447c994dd090a9b585535
+中視新聞台,P2p://135.148.104.228:19806/2a1602ea48c14bca864aef59f46bb641
+美亞電影台HD,P2p://135.148.104.228:19806/68d0b9b4084c49779ccb4fb415309319
+龍華電影,P2p://135.148.104.228:19806/643357e017d04a9a8b85a3837e0d796a
+星衛HD電影台,P2p://135.148.104.228:19806/0513b0a4b6ef4024828b7e310e4eb089
+靖天映畫,P2p://135.148.104.228:19806/ac4f041fe15e4e38b2a604825adc4d01
+靖天電影台,P2p://135.148.104.228:19806/74330eb1c8894f5ea4c0801e0f3ae324
+WARNER TV,P2p://135.148.104.228:19806/f83fcc6c405a4059a1ab3dc667829c79
+AMC最愛電影,P2p://135.148.104.228:19806/58687b9b7daf4540bf1ac962cb803e33
+HBO Family,P2p://135.148.104.228:19806/b5fd15fabf5f496c8aeb1169debdecb0
+CatchPlay電影台,P2p://135.148.104.228:19806/da94bd47a3c74402a581c064600d3d47
+CinemaWorld,P2p://135.148.104.228:19806/5084c28d85eb4e7a90f0211396fb2aa0
+壹電視電影台,P2p://135.148.104.228:19806/558c65c88e2a4d938164246119e6431a
+采昌影劇台,P2p://135.148.104.228:19806/cff514773d624d19b402dc4f860fb0e5
+佛衛慈悲台,P2p://135.148.104.228:19806/1f9ca513d6fd409e9921b4117ebb6a96
+TV5Monde,P2p://135.148.104.228:19806/a63c41e7f4da418e87a70513b95e00e8
+Cbeebies,P2p://135.148.104.228:19806/1bf057865e234c498ba12f270f2cebd3
+EYE TV戲劇台,P2p://135.148.104.228:19806/f7c71d2d40d541c69d1a77d5919a2bc3
+台視新聞台,P2p://135.148.104.228:19806/aae532a4f32f4bbb907b889c9d5caa31
+愛爾達影劇台,P2p://135.148.104.228:19806/095d744496e642f990c22cd6a72574be
+ROCK Entertainment,P2p://135.148.104.228:19806/8657d9cc8900447d9814560be3beac66
+Dreamworks,P2p://135.148.104.228:19806/abcd6f0a152f49ce9800e78bbd08f104
+TV5MONDE Style 生活時尚,P2p://135.148.104.228:19806/866598fa22ac4b94b3ca40729051b356
+Travel Channel,P2p://135.148.104.228:19806/7fa24c1035c74a01a705cfb24d89bfa6
+影迷數位電影台,P2p://135.148.104.228:19806/98099ff3f98747dbbf27c6e12be8e282
+愛爾達體育1台,P2p://135.148.104.228:19806/bc61a6164c2b437ab56f50fbc44db5a2
+愛爾達體育3台,P2p://135.148.104.228:19806/a27543cb594747e3a76728e2a370d458
