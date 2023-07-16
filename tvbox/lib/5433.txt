@@ -822,5 +822,5 @@ momo購物1台,https://www.youtube.com/live/_pZQ1Lk0xMA
 momo購物1台,http://139.180.210.242/php/youtube.php?id=pZQ1Lk0xMA
 momo購物2台,https://www.youtube.com/live/xbNWkUyxQGM
 viva購物1台,https://www.youtube.com/live/yuhgIlXwPh8
-viva購物2台https://www.youtube.com/live/LEOat38Iuao
+viva購物2台,https://www.youtube.com/live/LEOat38Iuao
 美麗人生購物台,http://58.99.33.16:1935/liveedge17/live_070_3.stream/chunklist.m3u8
