@@ -349,7 +349,7 @@ AXN,mitv://generationnexxxt.com:19806/a61594ab252e4daea32355a520d2bca4
 好萊塢電影,http://211.23.114.106:8505/http/61.221.81.94:8088/hls/74/816/ch55.m3u8?token=
 好萊塢電影,mitv://generationnexxxt.com:19806/05cb694ba11848af8f7084217ddeb9cb
 69
-Star Movies Gold,mitv://generationnexxxt.com:19806/eb4484443220443988dee0facb910084
+StarMoviesGold,mitv://generationnexxxt.com:19806/eb4484443220443988dee0facb910084
 70
 CINEMAX,http://198.16.100.90:8278/cinemax_twn/playlist.m3u8?tid=MCEC1614519816145198&ct=19193&tsum=e635ddeeb683b5cbcda1319d0cc18f84
 CINEMAX,http://50.7.238.114:8278/cinemax_twn/playlist.m3u8?tid=MCEC1614519816145198&ct=19193&tsum=e635ddeeb683b5cbcda1319d0cc18f84
