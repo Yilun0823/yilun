@@ -192,6 +192,7 @@ TVBS歡樂台,mitv://generationnexxxt.com:19806/6972f045bcf341a2a7913e56616f0e4c
 43
 緯來戲劇台,P2p://135.148.104.228:19806/8bf6b92bd45d4f749747950b386a1c03
 緯來戲劇台,mitv://generationnexxxt.com:19806/8bf6b92bd45d4f749747950b386a1c03
+44
 高點綜合台,mitv://generationnexxxt.com:19806/1d82ed001f424ae6bf3e683c3faf2f91
 45
 東森購物1台,https://www.youtube.com/live/ViJ3XiN6Q3M
@@ -209,9 +210,9 @@ momo購物1台,http://139.180.210.242/php/youtube.php?id=pZQ1Lk0xMA
 三立iNEWS,P2p://135.148.104.228:19806/8ad88e1601684711bca7066a36b95f9c
 三立iNEWS,http://139.180.210.242/php/youtube.php?id=CKjSm5ZeehE
 49
-壹電視新聞,http://60.251.59.180:8501/.m3u8
-壹電視新聞,P2p://135.148.104.228:19806/f17f02c60650410fbecf35ee817228aa
-壹電視新聞,http://211.23.114.106:8520/http/61.221.81.94:8088/hls/66/808/ch24.m3u8?token=
+壹電視新聞台,http://60.251.59.180:8501/.m3u8
+壹電視新聞台,P2p://135.148.104.228:19806/f17f02c60650410fbecf35ee817228aa
+壹電視新聞台,http://211.23.114.106:8520/http/61.221.81.94:8088/hls/66/808/ch24.m3u8?token=
 壹電視新聞台,mitv://generationnexxxt.com:19806/f17f02c60650410fbecf35ee817228aa
 50
 年代新聞,http://211.23.114.106:8517/http/60.251.39.91:8081/hls/67/809/ch27.m3u8
@@ -286,6 +287,7 @@ TVBS,mitv://generationnexxxt.com:19806/323a98aa30f845d0acc574b160cf90ef
 58
 非凡新聞台,P2p://135.148.104.228:19806/13b84b10435d457f9f0e1166854074b1
 非凡新聞台,mitv://generationnexxxt.com:19806/13b84b10435d457f9f0e1166854074b1
+59
 viva購物1台,https://www.youtube.com/live/yuhgIlXwPh8
 60
 東森購物5台,https://www.youtube.com/live/u0NYyH3ZesE
@@ -345,7 +347,7 @@ AXN,mitv://generationnexxxt.com:19806/a61594ab252e4daea32355a520d2bca4
 好萊塢電影,http://50.7.238.114:8278/hollywoodmovies_twn/playlist.m3u8?tid=m39bfcd99239617992917&ct=17874&tsum=774ffa7546c934dc27e743c5bbb454d3
 好萊塢電影,http://211.23.114.106:8505/http/61.221.81.94:8088/hls/74/816/ch54.m3u8?token=
 好萊塢電影,http://211.23.114.106:8505/http/61.221.81.94:8088/hls/74/816/ch55.m3u8?token=
-好萊塢電影台,mitv://generationnexxxt.com:19806/05cb694ba11848af8f7084217ddeb9cb
+好萊塢電影,mitv://generationnexxxt.com:19806/05cb694ba11848af8f7084217ddeb9cb
 69
 Star Movies Gold,mitv://generationnexxxt.com:19806/eb4484443220443988dee0facb910084
 70
@@ -394,7 +396,7 @@ STAR World,mitv://generationnexxxt.com:19806/e8cba7e768be46e4b259ca2c05d24585
 Animax,P2p://135.148.104.228:19806/6160b2115a0e4edb81ae6d1518335ca4
 Animax,mitv://generationnexxxt.com:19806/6160b2115a0e4edb81ae6d1518335ca4
 82
-新唐人,http://139.180.210.242/php/youtube.php?id=WIhgU_mc05A
+新唐人電視台,http://139.180.210.242/php/youtube.php?id=WIhgU_mc05A
 83
 JET綜合,P2p://135.148.104.228:19806/366e7db9d45a4f9181754b4859ee5a37
 JET綜合,mitv://generationnexxxt.com:19806/366e7db9d45a4f9181754b4859ee5a37
