@@ -810,3 +810,18 @@ Taiwan+,mitv://generationnexxxt.com:19806/5b6ee93571324f81959ee26532b3e6d9
 
 晴天TV☀️,#genre#
 
+購物台🛒,#genre#
+東森購物1台,https://www.youtube.com/live/ViJ3XiN6Q3M
+東森購物1台,P2p://135.148.104.228:19806/74869fed4efd4b0684ec1e0a6dd9f3ee
+東森購物1台,mitv://generationnexxxt.com:19806/74869fed4efd4b0684ec1e0a6dd9f3ee
+東森購物2台,https://www.youtube.com/live/u0NYyH3ZesE
+東森購物2台,mitv://generationnexxxt.com:19806/36b73761bad9455c88c53c842ae4e404
+東森購物2台,P2p://135.148.104.228:19806/36b73761bad9455c88c53c842ae4e404
+東森購物3台,https://www.youtube.com/live/Z50JFuNgvB0
+東森購物5台,https://www.youtube.com/live/u0NYyH3ZesE
+momo購物1台,https://www.youtube.com/live/_pZQ1Lk0xMA
+momo購物1台,http://139.180.210.242/php/youtube.php?id=pZQ1Lk0xMA
+momo購物2台,https://www.youtube.com/live/xbNWkUyxQGM
+viva購物1台,https://www.youtube.com/live/yuhgIlXwPh8
+viva購物2台https://www.youtube.com/live/LEOat38Iuao
+美麗人生購物台,http://58.99.33.16:1935/liveedge17/live_070_3.stream/chunklist.m3u8
