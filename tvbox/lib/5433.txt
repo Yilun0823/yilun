@@ -1,8 +1,9 @@
 🇹🇼台灣,#genre#
 1
-Taiwan+,P2p://135.148.104.228:19806/5b6ee93571324f81959ee26532b3e6d9
-2頻道待定,http://1.m3u8
-3頻道待定,http://1.m3u8
+Taiwan+,https://www.youtube.com/live/dZp87qnWelE
+2
+台灣地震監視,https://www.youtube.com/live/Owke6Quk7T0
+3頻道待定,https://p-hebe.svc.litv.tv/hi/vod/dFTc2eFZ-p0/litv-others-vod38009-000524M001-video_eng=2189835-audio_eng=129458.m3u8
 4頻道待定,http://1.m3u8
 5
 CNN,mitv://generationnexxxt.com:19806/1b1d8846c6a24bd5bef1f0264abffe34
@@ -63,13 +64,14 @@ CNN,https://cnn-cnninternational-1-eu.rakuten.wurl.tv/206849c7acd1570962df1ad525
 華視,P2p://135.148.104.228:19806/5bc402a16f884a238406166eb8dc44e6
 華視,P2p://135.148.104.228:19806/df79640dd3f74716a14f32aaafa8c8ac
 13
+公視,https://www.youtube.com/live/4Uc00FPs27M
 公視,http://218.32.47.179:18505/http/116.50.42.18:8081/hls/73/815/ch50.m3u8
 公視,http://218.32.47.179:18505/.m3u8
 公視,http://211.23.114.106:8505/http/61.221.81.94:8088/hls/73/815/ch50.m3u8
 公視,mitv://generationnexxxt.com:19806/3b16ed84e7734f61a700ebce64fabba4
 公視,P2p://135.148.104.228:19806/3b16ed84e7734f61a700ebce64fabba4
 公視,P2p://135.148.104.228:19806/a3fce8812e6046e0b9f797b5f4552804
-14頻道待定,http://1.m3u8
+公視台語台,https://www.youtube.com/live/6KlRR_DGhmI
 15
 好消息,http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch1-1.m3u8
 好消息,P2p://135.148.104.228:19806/d197e581956b40c8bfb9204fee60fc6a
@@ -503,13 +505,12 @@ ETtoday綜合台,P2p://135.148.104.228:19806/b444a90a92a1466cb09f4d6621386720
 314 德國之聲,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live071&nid=226
 
 待整理,#genre#
-溫網,https://today.line.me/tw/v2/article/rmnxrNj
+ELTA體育1,http://50.7.238.114:8278/eltasport_twn/playlist.m3u8?tid=md3567b35401611916221&ct=17874&tsum=be2a069324faa7f0737ca0d396d43745
 ELTA體育1,rtmp://219.80.97.77/sat/md051
 ELTA體育1,rtmp://219.80.97.77/sat/md041
 ELTA體育1,rtmp://219.80.97.77/sat/md031
 ELTA體育2,rtmp://219.80.97.77/sat/md041
 ELTA體育2,rtmp://219.80.97.77/sat/md051
-ELTA體育2,http://50.7.238.114:8278/eltasport_twn/playlist.m3u8?tid=md3567b35401611916221&ct=17874&tsum=be2a069324faa7f0737ca0d396d43745
 ELTA體育3,rtmp://219.80.97.77/sat/md031
 
 HBO強檔鉅獻,http://50.7.238.114:8278/hbohead_twn/playlist.m3u8?tid=MCDC6663932966639329&ct=19193&tsum=6999a99699b097f3af2ef550e5c81f93
