@@ -912,6 +912,11 @@ Taiwan+,mitv://generationnexxxt.com:19806/5b6ee93571324f81959ee26532b3e6d9
 東森購物1台,mitv://generationnexxxt.com:19806/74869fed4efd4b0684ec1e0a6dd9f3ee
 
 待整理,#genre#
+4g民視新聞台,https://884d105e334d4dbb98ee584bb97542cd.mediatailor.ap-southeast-1.amazonaws.com/v1/manifest/50bc07a2b4601aa7bb1dac8f09af1d7078560ccf/4gtv_freemobileweb/a3db4060-66d3-432e-8aa2-2c7642c2f949/2.m3u8
+4g東森購物一台,https://884d105e334d4dbb98ee584bb97542cd.mediatailor.ap-southeast-1.amazonaws.com/v1/manifest/50bc07a2b4601aa7bb1dac8f09af1d7078560ccf/4gtv_freemobileweb/f5679d44-aa88-4eb3-8a4e-01414e9b1f1d/2.m3u8
+4g東森新聞,https://884d105e334d4dbb98ee584bb97542cd.mediatailor.ap-southeast-1.amazonaws.com/v1/manifest/50bc07a2b4601aa7bb1dac8f09af1d7078560ccf/4gtv_freemobileweb/0530a30f-4061-4061-8b01-4bf3e8a94b50/2.m3u8
+of中視,https://ocean.ofiii.com/hls/v1/playlist/y4gDy2rM_sc/4gtv-4gtv040-avc1_6000000=1-mp4a_143000_zho=2.m3u8
+iptvtvbs56,https://t66.iptv200.com/live/tvbs/index.m3u8?session=rja7lhps2a0735p7xf26pcgk00n1ghy8
 東森新聞,https://www.youtube.com/live/R2iMq5LKXco
 三立新聞,https://www.youtube.com/live/FoBfXvlOR6I
 TVBS新聞,https://www.youtube.com/live/2mCSYvcfhtc
