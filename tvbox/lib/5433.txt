@@ -549,10 +549,10 @@ momo購物2台,https://www.youtube.com/live/xbNWkUyxQGM
 viva購物1台,https://www.youtube.com/live/yuhgIlXwPh8
 viva購物2台,https://www.youtube.com/live/LEOat38Iuao
 美麗人生購物台,http://58.99.33.16:1935/liveedge17/live_070_3.stream/chunklist.m3u8
-日本購物1,http://stream1.shopch.jp/HLS/out1/prog_index.m3u8
-日本購物2,http://stream1.shopch.jp/HLS/out2/prog_index.m3u8
-日本購物3,http://stream1.shopch.jp/HLS/out3/prog_index.m3u8
-日本購物4,http://stream1.shopch.jp/HLS/out4/prog_index.m3u8
+日本購物,http://stream1.shopch.jp/HLS/out1/prog_index.m3u8
+日本購物,http://stream1.shopch.jp/HLS/out2/prog_index.m3u8
+日本購物,http://stream1.shopch.jp/HLS/out3/prog_index.m3u8
+日本購物,http://stream1.shopch.jp/HLS/out4/prog_index.m3u8
 晴天TV☀️,#genre#
 CNN,P2p://135.148.104.228:19806/1b1d8846c6a24bd5bef1f0264abffe34
 民視,P2p://135.148.104.228:19806/656d6e5a09064068a68e037d3a1a6af8
