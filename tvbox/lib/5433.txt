@@ -163,8 +163,8 @@ MOMO親子台,mitv://generationnexxxt.com:19806/907144e34cfe44629881f993618ab652
 東森超視,P2p://135.148.104.228:19806/0a1d8edcc02348b3918422f6a0f78715
 東森超視,mitv://generationnexxxt.com:19806/0a1d8edcc02348b3918422f6a0f78715
 34
-東森購物2台,P2p://135.148.104.228:19806/36b73761bad9455c88c53c842ae4e404
-東森購物2台,https://www.youtube.com/live/u0NYyH3ZesE
+東森購物2台,https://broadcast-ettoday.cdn.hinet.net/ettoday-broadcast/smil:etmall3.smil/playlist.m3u8
+東森購物2台,https://www.youtube.com/live/_Vlzn9qAHD4
 35
 momo購物2台,https://www.youtube.com/live/xbNWkUyxQGM
 36
@@ -195,9 +195,11 @@ TVBS歡樂台,mitv://generationnexxxt.com:19806/6972f045bcf341a2a7913e56616f0e4c
 44
 高點綜合台,mitv://generationnexxxt.com:19806/1d82ed001f424ae6bf3e683c3faf2f91
 45
+東森購物1台,https://broadcast-ettoday.cdn.hinet.net/ettoday-broadcast/smil:etmall4.smil/playlist.m3u8
 東森購物1台,https://www.youtube.com/live/ViJ3XiN6Q3M
 東森購物1台,P2p://135.148.104.228:19806/74869fed4efd4b0684ec1e0a6dd9f3ee
 46
+東森購物3台,https://broadcast-ettoday.cdn.hinet.net/ettoday-broadcast/smil:etmall1.smil/playlist.m3u8
 東森購物3台,https://www.youtube.com/live/Z50JFuNgvB0
 47
 momo購物1台,https://www.youtube.com/live/_pZQ1Lk0xMA
@@ -290,6 +292,7 @@ TVBS,http://211.23.114.106:8520/http/61.221.81.94:8088/hls/64/806/ch15.m3u8?toke
 59
 viva購物1台,https://www.youtube.com/live/yuhgIlXwPh8
 60
+東森購物5台,https://broadcast-ettoday.cdn.hinet.net/ettoday-broadcast/smil:etmall2.smil/playlist.m3u8
 東森購物5台,https://www.youtube.com/live/u0NYyH3ZesE
 61
 衛視電影台,http://23.237.10.66:16010Star%20Movies%20Gold
@@ -506,14 +509,18 @@ ETtoday綜合台,P2p://135.148.104.228:19806/b444a90a92a1466cb09f4d6621386720
 313 Arirang,P2p://135.148.104.228:19806/645d0a5a00075deb6d454fee5aa940d7
 314 德國之聲,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live071&nid=226
 
-購物台🛒,#genre#
+購物台🛍️,#genre#
+東森購物1台,https://broadcast-ettoday.cdn.hinet.net/ettoday-broadcast/smil:etmall4.smil/playlist.m3u8
 東森購物1台,https://www.youtube.com/live/ViJ3XiN6Q3M
 東森購物1台,P2p://135.148.104.228:19806/74869fed4efd4b0684ec1e0a6dd9f3ee
 東森購物1台,mitv://generationnexxxt.com:19806/74869fed4efd4b0684ec1e0a6dd9f3ee
-東森購物2台,https://www.youtube.com/live/u0NYyH3ZesE
+東森購物2台,https://broadcast-ettoday.cdn.hinet.net/ettoday-broadcast/smil:etmall3.smil/playlist.m3u8
+東森購物2台,https://www.youtube.com/live/_Vlzn9qAHD4
 東森購物2台,mitv://generationnexxxt.com:19806/36b73761bad9455c88c53c842ae4e404
 東森購物2台,P2p://135.148.104.228:19806/36b73761bad9455c88c53c842ae4e404
+東森購物3台,https://broadcast-ettoday.cdn.hinet.net/ettoday-broadcast/smil:etmall1.smil/playlist.m3u8
 東森購物3台,https://www.youtube.com/live/Z50JFuNgvB0
+東森購物5台,https://broadcast-ettoday.cdn.hinet.net/ettoday-broadcast/smil:etmall2.smil/playlist.m3u8
 東森購物5台,https://www.youtube.com/live/u0NYyH3ZesE
 momo購物1台,https://www.youtube.com/live/_pZQ1Lk0xMA
 momo購物1台,http://139.180.210.242/php/youtube.php?id=pZQ1Lk0xMA
