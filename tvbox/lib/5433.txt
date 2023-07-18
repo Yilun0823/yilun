@@ -66,7 +66,7 @@ CNN,P2p://135.148.104.228:19806/1b1d8846c6a24bd5bef1f0264abffe34
 13
 公視,https://www.youtube.com/live/4Uc00FPs27M
 公視,http://218.32.47.179:18505/http/116.50.42.18:8081/hls/73/815/ch50.m3u8
-公視,
+公視,http://218.32.47.179:18505/http/192.168.1.9:8081/hls/73/815/ch50.m3u8
 公視,http://211.23.114.106:8505/http/61.221.81.94:8088/hls/73/815/ch50.m3u8
 公視,mitv://generationnexxxt.com:19806/3b16ed84e7734f61a700ebce64fabba4
 公視,P2p://135.148.104.228:19806/3b16ed84e7734f61a700ebce64fabba4
@@ -943,7 +943,6 @@ TVBS-Asia,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
 TVBS-Asia,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 華語電視2,http://38.64.72.148:80/hls/modn/list/4002/chunklist0.m3u8
 華語電視3,http://38.64.72.148:80/hls/modn/list/4003/chunklist0.m3u8
-韓綜-Runningman,http://epg.112114.xyz/douyu/7298973
 紅牛REDBULL TV,https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 ELTA體育1,http://50.7.238.114:8278/eltasport_twn/playlist.m3u8?tid=md3567b35401611916221&ct=17874&tsum=be2a069324faa7f0737ca0d396d43745
 ELTA體育1,rtmp://219.80.97.77/sat/md051
@@ -974,8 +973,6 @@ HBO溫馨家庭,http://50.7.238.114:8278/fyi_twn/playlist.m3u8?tid=m99b80124e3b4
 美亞電影,http://50.7.238.114:8278/meiyamovie_twn/playlist.m3u8?tid=MD3D6323299363232993&ct=18392&tsum=3f73f541d33abe71140d28ada99a071b
 美亞電影,http://50.7.238.114:8278/meiyamovie_twn/playlist.m3u8?tid=mcfe3e109029013892155&ct=17874&tsum=164baeda6ab6c4160f2775128cfc6f4e
 美亞電影,http://50.7.238.114:8278/meiyamovie_twn/playlist.m3u8?tid=ME9E6301165163011651&ct=19249&tsum=c2c246af848b424b68e94e4b35cfa337
-天映經典,http://120.84.96.87:808/hls/85/index.m3u8
-天映經典[854*480],http://198.16.100.90:8278/Celestialindo/playlist.m3u8?tid=MA5A2795215627952156&ct=19254&tsum=5af1cfa380a0d40379beb469d60702ab
 龍翔時代,http://120.84.96.115:808/hls/35/index.m3u8
 民視影劇台,http://seb.sason.top/ptv/ftv.php?id=yj
 民視旅遊台,http://seb.sason.top/ptv/ftv.php?id=ly
@@ -993,5 +990,26 @@ TVBS歡樂,http://211.23.114.106:8520/http/61.221.81.94:8088/hls/65/807/ch17.m3u
 孝廉電視台,http://cdn257.ccdntech.com/live-http/_definst_/vod257_Live/live/playlist.m3u8
 唯心電視,http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
 大立電視,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
-美麗人生,http://58.99.33.16:1935/liveedge17/live_070_3.stream/chunklist.m3u8
 創世電視,https://cdn.deepcore.online/hlsme/ctv_hk_720.m3u8
+
+TVBS新聞[Geo-blocked],http://seb.sason.top/sc/tvbsxw_fhd.m3u8
+生命台,http://211.73.19.201/live/AB167E56-808C-81D4-6471-76DC400D5192.m3u8?fmt=x264_1200K_ts&cpid=admin&size=1920X1080
+羣馬テレビ,https://movie.mcas.jp/switcher/smil:mcas8.smil/chunklist_b1800000.m3u8
+ウェザーニュース,https://movie.mcas.jp/mcas/wn1_2/master.m3u8
+Tokyo MX 1,https://movie.mcas.jp/mcas/mx1_2/chunklist.m3u8
+Tokyo MX 2,https://movie.mcas.jp/mcas/mx2_2/chunklist.m3u8
+MX Live,https://movie.mcas.jp/mcas/mx_live_2/master.m3u8
+Weather News,http://movie.mcas.jp/mcas/smil:wn1.smil/master.m3u8
+Weather News,https://movie.mcas.jp/mcas/smil:wn1.smil/master.m3u8
+WeatherNews,https://movie.mcas.jp/mcas/smil:wn1.smil/chunklist_b1800000.m3u8
+BBS_TV(불교),http://bbstv.clouducs.com:1935/bbstv-live/livestream/playlist.m3u8
+BloombergTVEurope,https://liveprodeuwest.akamaized.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-1000-1_live.m3u8
+CanalMacau,http://live4.tdm.com.mo/ch2/_definst_/ch2.live/playlist.m3u8
+FOX-FS1,http://stream.fs1.tv:8080/hls/webstream.m3u8
+GunmaTV,https://movie.mcas.jp/switcher/smil:mcas8.smil/master.m3u8
+Italia2,http://wms.shared.streamshow.it/italia2/mp4:italia2/playlist.m3u8?fluxustv.m3u8
+Rai3,http://wzstreaming.rai.it/TVlive/liveStream/chunklist_w823540263.m3u8
+RTHK31★,https://www.rthk.hk/feeds/dtt/rthktv31_https.m3u8
+RTHK32★,https://www.rthk.hk/feeds/dtt/rthktv32_https.m3u8
+TDMHDMacau(Opt-1),http://live4.tdm.com.mo:80/ch6/_definst_/hd_ch6.live/playlist.m3u8
+TDMMacau(Opt-1),http://live4.tdm.com.mo:80/ch1/_definst_/ch1.live/playlist.m3u8
