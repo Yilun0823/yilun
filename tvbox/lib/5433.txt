@@ -3,8 +3,8 @@
 TAIWAN+,https://www.youtube.com/live/dZp87qnWelE
 2
 台灣地震監視,https://www.youtube.com/live/Owke6Quk7T0
-3頻道待定,https://p-hebe.svc.litv.tv/hi/vod/dFTc2eFZ-p0/litv-others-vod38009-000524M001-video_eng=2189835-audio_eng=129458.m3u8
-4頻道待定,http://1.m3u8
+3頻道待定,https://raw.githubusercontent.com/a7959067/yilun/main/MP4/%E9%A0%BB%E9%81%93%E5%BE%85%E5%AE%9A.mp4
+4頻道待定,https://raw.githubusercontent.com/a7959067/yilun/main/MP4/%E9%A0%BB%E9%81%93%E5%BE%85%E5%AE%9A.mp4
 5
 CNN,P2p://135.148.104.228:19806/564e581a7f674269a396e75c0f7070f7
 CNN,https://cnn-cnninternational-1-eu.rakuten.wurl.tv/206849c7acd1570962df1ad525fa8688.m3u8?blog.ntnas.top
