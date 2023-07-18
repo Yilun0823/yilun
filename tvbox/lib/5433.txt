@@ -983,3 +983,130 @@ GoodTV 愛旅行台,https://live-350k.streamingfast.net/hls-live/goodtv/_definst
 環球地理,http://211.23.114.106:8520/http/61.221.81.94:8088/hls/61/803/ch01.m3u8?token=
 TVBS歡樂,http://211.23.114.106:8520/http/61.221.81.94:8088/hls/65/807/ch17.m3u8?token=
 Al Jazeera English,P2p://135.148.104.228:19806/1bd9840bd91540d682d5e94d2da57f55
+四季线上,#genre#
+民视第一台,http://192.168.190.225/4gtv.php?fid=4gtv-4gtv003&nid=1
+民视台湾台,http://192.168.190.225/4gtv.php?fid=4gtv-4gtv001&nid=2
+民视,http://192.168.190.225/4gtv.php?fid=4gtv-4gtv002&nid=3
+大爱电视,http://192.168.190.225/4gtv.php?fid=4gtv-live007&nid=209
+中视,http://192.168.190.225/4gtv.php?fid=4gtv-4gtv040&nid=4
+中视经典台,http://192.168.190.225/4gtv.php?fid=4gtv-4gtv080&nid=124
+华视,http://192.168.190.225/4gtv.php?fid=4gtv-4gtv041&nid=6
+三立综合台,http://192.168.190.225/4gtv.php?fid=4gtv-live207&nid=169
+客家电视台,http://192.168.190.225/4gtv.php?fid=4gtv-4gtv043&nid=107
+中视菁采台,http://192.168.190.225/4gtv.php?fid=4gtv-4gtv064&nid=123
+新唐人亚太台,http://192.168.190.225/4gtv.php?fid=4gtv-live050&nid=223
+ARIRANG阿里郎频道,http://192.168.190.225/4gtv.php?fid=4gtv-4gtv079&nid=189
+原住民族電視台,http://192.168.190.225/4gtv.php?fid=4gtv-live014&nid=273
+LiveABC互动英语频道,http://192.168.190.225/4gtv.php?fid=4gtv-live030&nid=188
+ELTV生活英语台,http://192.168.190.225/4gtv.php?fid=litv-longturn20&nid=106
+MOMO亲子台,http://192.168.190.225/4gtv.php?fid=4gtv-live107&nid=231
+东森购物一台,http://192.168.190.225/4gtv.php?fid=4gtv-live047&nid=173
+镜电视新闻台,http://192.168.190.225/4gtv.php?fid=4gtv-4gtv075&nid=268
+东森新闻台,http://192.168.190.225/4gtv.php?fid=4gtv-live114&nid=234
+华视新闻,http://192.168.190.225/4gtv.php?fid=4gtv-4gtv052&nid=34
+民视新闻台,http://192.168.190.225/4gtv.php?fid=litv-ftv13&nid=31
+三立新聞iNEWS,http://192.168.190.225/4gtv.php?fid=4gtv-live089&nid=229
+TVBS新闻,http://192.168.190.225/4gtv.php?fid=4gtv-live072&nid=129
+东森财经新闻台,http://192.168.190.225/4gtv.php?fid=4gtv-live019&nid=211
+中视新闻台,http://192.168.190.225/4gtv.php?fid=4gtv-4gtv074&nid=33
+中天新闻台,http://192.168.190.225/4gtv.php?fid=4gtv-4gtv009&nid=30
+寰宇新闻台,http://192.168.190.225/4gtv.php?fid=litv-longturn14&nid=36
+寰宇新聞台灣台,http://192.168.190.225/4gtv.php?fid=litv-longturn15&nid=280
+SBN全球财经台,http://192.168.190.225/4gtv.php?fid=4gtv-live060&nid=224
+寰宇財經台,http://192.168.190.225/4gtv.php?fid=litv-longturn23&nid=281
+东森购物二台,http://192.168.190.225/4gtv.php?fid=4gtv-live046&nid=174
+民视综艺台,http://192.168.190.225/4gtv.php?fid=4gtv-4gtv004&nid=16
+猪哥亮歌厅秀,http://192.168.190.225/4gtv.php?fid=4gtv-4gtv006&nid=113
+中天全民最大党,http://192.168.190.225/4gtv.php?fid=4gtv-live076&nid=248
+智林体育台,http://192.168.190.225/4gtv.php?fid=4gtv-4gtv101&nid=58
+时尚运动X,http://192.168.190.225/4gtv.php?fid=4gtv-4gtv014&nid=69
+车迷TV,http://192.168.190.225/4gtv.php?fid=4gtv-live201&nid=160
+民视旅游台,http://192.168.190.225/4gtv.php?fid=litv-ftv07&nid=61
+滚动力rollor,http://192.168.190.225/4gtv.php?fid=4gtv-live012&nid=249
+亚洲旅游台,http://192.168.190.225/4gtv.php?fid=litv-longturn17&nid=250
+爱尔达生活旅游台,http://192.168.190.225/4gtv.php?fid=4gtv-live120&nid=237
+LUXE TV Channel,http://192.168.190.225/4gtv.php?fid=4gtv-live121&nid=175
+TV5MONDE STYLE HD 生活时尚,http://192.168.190.225/4gtv.php?fid=4gtv-live122&nid=178
+中天美食旅游,http://192.168.190.225/4gtv.php?fid=4gtv-live123&nid=251
+公视戏剧,http://192.168.190.225/4gtv.php?fid=4gtv-4gtv042&nid=7
+民视影剧台,http://192.168.190.225/4gtv.php?fid=litv-ftv09&nid=24
+金光布袋戏,http://192.168.190.225/4gtv.php?fid=4gtv-live144&nid=236
+My Cinema Europe HD 我的欧洲电影,http://192.168.190.225/4gtv.php?fid=4gtv-live157&nid=176
+好消息2台,http://192.168.190.225/4gtv.php?fid=litv-ftv17&nid=8
+人间卫视,http://192.168.190.225/4gtv.php?fid=4gtv-live008&nid=210
+半岛国际新闻台,http://192.168.190.225/4gtv.php?fid=litv-ftv10&nid=85
+VOA美国之音,http://192.168.190.225/4gtv.php?fid=litv-ftv03&nid=86
+DW德国之声,http://192.168.190.225/4gtv.php?fid=4gtv-live071&nid=226
+国会频道1,http://192.168.190.225/4gtv.php?fid=4gtv-4gtv084&nid=170
+国会频道2,http://192.168.190.225/4gtv.php?fid=4gtv-4gtv085&nid=171
+经典电影台,http://192.168.190.225/4gtv.php?fid=4gtv-live021&nid=201
+经典卡通台,http://192.168.190.225/4gtv.php?fid=4gtv-live022&nid=202
+儿童卡通台,http://192.168.190.225/4gtv.php?fid=4gtv-live009&nid=269
+精选动漫台,http://192.168.190.225/4gtv.php?fid=4gtv-live024&nid=204
+华语戏剧台,http://192.168.190.225/4gtv.php?fid=4gtv-live005&nid=244
+华语综艺台,http://192.168.190.225/4gtv.php?fid=4gtv-live006&nid=245
+戏剧免费看,http://192.168.190.225/4gtv.php?fid=4gtv-live010&nid=270
+电影免费看,http://192.168.190.225/4gtv.php?fid=4gtv-live013&nid=272
+超人力霸王整套看,http://192.168.190.225/4gtv.php?fid=4gtv-live015&nid=278
+花系列 經典劇場,http://192.168.190.225/4gtv.php?fid=4gtv-live016&nid=279
+八大综艺台,http://192.168.190.225/4gtv.php?fid=4gtv-4gtv039&nid=114
+TVBS精采台,http://192.168.190.225/4gtv.php?fid=4gtv-live086&nid=227
+爱尔达娱乐台,http://192.168.190.225/4gtv.php?fid=4gtv-4gtv070&nid=19
+靖天综合台,http://192.168.190.225/4gtv.php?fid=4gtv-4gtv046&nid=21
+靖天日本台,http://192.168.190.225/4gtv.php?fid=4gtv-4gtv047&nid=22
+中天综合台,http://192.168.190.225/4gtv.php?fid=4gtv-live033&nid=220
+Global Trekker,http://192.168.190.225/4gtv.php?fid=4gtv-live112&nid=252
+达芬奇频道,http://192.168.190.225/4gtv.php?fid=4gtv-4gtv018&nid=11
+Nick Jr. 儿童频道,http://192.168.190.225/4gtv.php?fid=4gtv-live032&nid=219
+尼克儿童频道,http://192.168.190.225/4gtv.php?fid=4gtv-live105&nid=185
+靖天卡通台,http://192.168.190.225/4gtv.php?fid=4gtv-4gtv044&nid=15
+靖洋卡通Nice Bingo,http://192.168.190.225/4gtv.php?fid=4gtv-4gtv057&nid=59
+i-Fun动漫台,http://192.168.190.225/4gtv.php?fid=litv-ftv15&nid=60
+TVBS,http://192.168.190.225/4gtv.php?fid=4gtv-4gtv073&nid=183
+靖天育乐台,http://192.168.190.225/4gtv.php?fid=4gtv-4gtv062&nid=83
+KLT-靖天国际台,http://192.168.190.225/4gtv.php?fid=4gtv-4gtv063&nid=84
+Nice TV 靖天欢乐台,http://192.168.190.225/4gtv.php?fid=4gtv-4gtv054&nid=119
+靖天资讯台,http://192.168.190.225/4gtv.php?fid=4gtv-4gtv065&nid=88
+TVBS欢乐台,http://192.168.190.225/4gtv.php?fid=4gtv-4gtv068&nid=184
+韩国娱乐台 KMTV,http://192.168.190.225/4gtv.php?fid=4gtv-4gtv016&nid=76
+ROCK Entertainment,http://192.168.190.225/4gtv.php?fid=4gtv-live080&nid=275
+Lifetime 娱乐频道,http://192.168.190.225/4gtv.php?fid=4gtv-live029&nid=217
+电影原声台CMusic,http://192.168.190.225/4gtv.php?fid=4gtv-live031&nid=218
+TRACE Urban,http://192.168.190.225/4gtv.php?fid=4gtv-4gtv082&nid=78
+MTV Live HD 音乐频道,http://192.168.190.225/4gtv.php?fid=4gtv-live025&nid=213
+MEZZO LIVE HD,http://192.168.190.225/4gtv.php?fid=4gtv-4gtv083&nid=79
+CLASSICA 古典乐,http://192.168.190.225/4gtv.php?fid=4gtv-4gtv059&nid=80
+博斯高球台,http://192.168.190.225/4gtv.php?fid=litv-longturn05&nid=48
+博斯运动一台,http://192.168.190.225/4gtv.php?fid=litv-longturn07&nid=50
+博斯无限台,http://192.168.190.225/4gtv.php?fid=litv-longturn10&nid=51
+博斯网球台,http://192.168.190.225/4gtv.php?fid=litv-longturn09&nid=52
+TRACE Sport Stars,http://192.168.190.225/4gtv.php?fid=4gtv-4gtv077&nid=57
+GINX Esports TV,http://192.168.190.225/4gtv.php?fid=4gtv-4gtv053&nid=179
+TechStorm,http://192.168.190.225/4gtv.php?fid=4gtv-live109&nid=181
+Pet Club TV,http://192.168.190.225/4gtv.php?fid=4gtv-live110&nid=182
+fun探索娛樂台,http://192.168.190.225/4gtv.php?fid=4gtv-live011&nid=274
+幸福空间居家台,http://192.168.190.225/4gtv.php?fid=4gtv-live206&nid=168
+Love Nature,http://192.168.190.225/4gtv.php?fid=4gtv-live208&nid=139
+History 历史频道,http://192.168.190.225/4gtv.php?fid=4gtv-live026&nid=214
+龙华戏剧台,http://192.168.190.225/4gtv.php?fid=litv-longturn18&nid=23
+HITS频道,http://192.168.190.225/4gtv.php?fid=4gtv-live620&nid=186
+龙华日韩台,http://192.168.190.225/4gtv.php?fid=litv-longturn11&nid=28
+八大精彩台,http://192.168.190.225/4gtv.php?fid=4gtv-4gtv034&nid=172
+靖天戏剧台,http://192.168.190.225/4gtv.php?fid=4gtv-4gtv058&nid=116
+靖洋戏剧台,http://192.168.190.225/4gtv.php?fid=4gtv-4gtv045&nid=118
+CI 罪案侦查频道,http://192.168.190.225/4gtv.php?fid=4gtv-live027&nid=215
+视纳华仁纪实频道,http://192.168.190.225/4gtv.php?fid=4gtv-4gtv013&nid=38
+影迷数位纪实台,http://192.168.190.225/4gtv.php?fid=4gtv-live023&nid=212
+ROCK Action,http://192.168.190.225/4gtv.php?fid=4gtv-live138&nid=180
+采昌影剧台,http://192.168.190.225/4gtv.php?fid=4gtv-4gtv049&nid=25
+靖天映画,http://192.168.190.225/4gtv.php?fid=4gtv-4gtv055&nid=42
+靖天电影台,http://192.168.190.225/4gtv.php?fid=4gtv-4gtv061&nid=82
+龙华电影台,http://192.168.190.225/4gtv.php?fid=litv-longturn03&nid=121
+影迷数位电影台,http://192.168.190.225/4gtv.php?fid=4gtv-4gtv011&nid=40
+amc最爱电影,http://192.168.190.225/4gtv.php?fid=4gtv-4gtv017&nid=39
+cinemaworld,http://192.168.190.225/4gtv.php?fid=4gtv-live069&nid=225
+CATCHPLAY Beyond,http://192.168.190.225/4gtv.php?fid=4gtv-live155&nid=200
+CatchPlay电影台,http://192.168.190.225/4gtv.php?fid=4gtv-4gtv076&nid=177
+好消息,http://192.168.190.225/4gtv.php?fid=litv-ftv16&nid=9
+大爱二台,http://192.168.190.225/4gtv.php?fid=4gtv-live106&nid=230
+CNBC Asia 财经台,http://192.168.190.225/4gtv.php?fid=4gtv-live130&nid=235
