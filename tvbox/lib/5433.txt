@@ -3,8 +3,8 @@
 MOD電影推薦,https://modfree-hamivideo.cdn.hinet.net/out/u/live/gop4/cht/hamitv-event024/hls-ae-tv/index.m3u8
 2
 台灣地震監視,https://www.youtube.com/live/Owke6Quk7T0
-3頻道待定,https://raw.githubusercontent.com/a7959067/yilun/main/MP4/%E9%A0%BB%E9%81%93%E5%BE%85%E5%AE%9A.mp4
-4頻道待定,https://raw.githubusercontent.com/a7959067/yilun/main/MP4/%E9%A0%BB%E9%81%93%E5%BE%85%E5%AE%9A.mp4
+3頻道待定,https://raw.githubusercontent.com/a7959067/yilun/main/M3U8/Channel%20Pending.m3u8
+4頻道待定,https://raw.githubusercontent.com/a7959067/yilun/main/M3U8/Channel%20Pending.m3u8
 5
 CNN,P2p://135.148.104.228:19806/564e581a7f674269a396e75c0f7070f7
 CNN,https://cnn-cnninternational-1-eu.rakuten.wurl.tv/206849c7acd1570962df1ad525fa8688.m3u8?blog.ntnas.top
@@ -169,8 +169,8 @@ momo購物2台,https://www.youtube.com/live/xbNWkUyxQGM
 36
 中天綜合台,P2p://135.148.104.228:19806/a2710ce85e43422e951233f8b51880ea
 中天綜合台,mitv://generationnexxxt.com:19806/a2710ce85e43422e951233f8b51880ea
-37頻道待定,https://raw.githubusercontent.com/a7959067/yilun/main/MP4/%E9%A0%BB%E9%81%93%E5%BE%85%E5%AE%9A.mp4
-38頻道待定,https://raw.githubusercontent.com/a7959067/yilun/main/MP4/%E9%A0%BB%E9%81%93%E5%BE%85%E5%AE%9A.mp4
+37頻道待定,https://raw.githubusercontent.com/a7959067/yilun/main/M3U8/Channel%20Pending.m3u8
+38頻道待定,https://raw.githubusercontent.com/a7959067/yilun/main/M3U8/Channel%20Pending.m3u8
 39
 中天娛樂台,P2p://135.148.104.228:19806/c9008e7272b24832a218c2767236cc06
 中天娛樂台,mitv://generationnexxxt.com:19806/c9008e7272b24832a218c2767236cc06
@@ -383,7 +383,7 @@ ELEVEN體育2台,rtmp://219.80.97.77/sat/tv741
 ELEVEN體育2台,rtmp://119.81.124.89/sat/tv741
 ELEVEN體育2台,http://61.221.81.93:8078/hls/26/80/esport2.m3u8
 ELEVEN體育2台,P2p://135.148.104.228:19806/ce3f17a872da4096a41e45f1773d2572
-75頻道待定,https://raw.githubusercontent.com/a7959067/yilun/main/MP4/%E9%A0%BB%E9%81%93%E5%BE%85%E5%AE%9A.mp4
+75頻道待定,https://raw.githubusercontent.com/a7959067/yilun/main/M3U8/Channel%20Pending.m3u8
 76
 博斯運動,P2p://135.148.104.228:19806/06ca5bd0fd7c4867a18bab40d0627ef3
 77
@@ -397,7 +397,7 @@ ELEVEN體育2台,P2p://135.148.104.228:19806/ce3f17a872da4096a41e45f1773d2572
 79
 STAR World,P2p://135.148.104.228:19806/e8cba7e768be46e4b259ca2c05d24585
 STAR World,mitv://generationnexxxt.com:19806/e8cba7e768be46e4b259ca2c05d24585
-80頻道待定,https://raw.githubusercontent.com/a7959067/yilun/main/MP4/%E9%A0%BB%E9%81%93%E5%BE%85%E5%AE%9A.mp4
+80頻道待定,https://raw.githubusercontent.com/a7959067/yilun/main/M3U8/Channel%20Pending.m3u8
 81
 Animax,P2p://135.148.104.228:19806/6160b2115a0e4edb81ae6d1518335ca4
 Animax,mitv://generationnexxxt.com:19806/6160b2115a0e4edb81ae6d1518335ca4
@@ -440,30 +440,30 @@ ETtoday綜合台,P2p://135.148.104.228:19806/b444a90a92a1466cb09f4d6621386720
 95
 南投電視台,http://58.99.33.16:1935/liveedge17/live_853_3.stream/chunklist.m3u8
 南投電視台,http://58.99.33.16:1935/liveedge17/live_854_3.stream/chunklist.m3u8
-96頻道待定,https://raw.githubusercontent.com/a7959067/yilun/main/MP4/%E9%A0%BB%E9%81%93%E5%BE%85%E5%AE%9A.mp4
-97頻道待定,https://raw.githubusercontent.com/a7959067/yilun/main/MP4/%E9%A0%BB%E9%81%93%E5%BE%85%E5%AE%9A.mp4
+96頻道待定,https://raw.githubusercontent.com/a7959067/yilun/main/M3U8/Channel%20Pending.m3u8
+97頻道待定,https://raw.githubusercontent.com/a7959067/yilun/main/M3U8/Channel%20Pending.m3u8
 98
 海豚綜合台,https://www.youtube.com/live/0jS0tyzaMLE
 海豚綜合台,http://58.99.33.16:1935/liveedge17/live_077_3.stream/chunklist.m3u8
-99頻道待定,https://raw.githubusercontent.com/a7959067/yilun/main/MP4/%E9%A0%BB%E9%81%93%E5%BE%85%E5%AE%9A.mp4
-100頻道待定,https://raw.githubusercontent.com/a7959067/yilun/main/MP4/%E9%A0%BB%E9%81%93%E5%BE%85%E5%AE%9A.mp4
+99頻道待定,https://raw.githubusercontent.com/a7959067/yilun/main/M3U8/Channel%20Pending.m3u8
+100頻道待定,https://raw.githubusercontent.com/a7959067/yilun/main/M3U8/Channel%20Pending.m3u8
 101
 生命台,http://211.73.19.201/live/AB167E56-808C-81D4-6471-76DC400D5192.m3u8?fmt=x264_1200K_ts&cpid=admin&size=1920X1080
 102
 華藏電視台,https://www.youtube.com/live/ypmrwYeLAaQ?feature=share
 103
 十方法界電視台,https://www.youtube.com/live/_goGsf37UpU?feature=share
-104頻道待定,https://raw.githubusercontent.com/a7959067/yilun/main/MP4/%E9%A0%BB%E9%81%93%E5%BE%85%E5%AE%9A.mp4
+104頻道待定,https://raw.githubusercontent.com/a7959067/yilun/main/M3U8/Channel%20Pending.m3u8
 105
 世界電視台,https://www.youtube.com/live/t_NV7dJow1g
 106
 信大電視台,https://www.youtube.com/live/AQymzwl3uSk
-107頻道待定,https://raw.githubusercontent.com/a7959067/yilun/main/MP4/%E9%A0%BB%E9%81%93%E5%BE%85%E5%AE%9A.mp4
+107頻道待定,https://raw.githubusercontent.com/a7959067/yilun/main/M3U8/Channel%20Pending.m3u8
 108
 美麗人生購物台,http://58.99.33.16:1935/liveedge17/live_070_3.stream/chunklist.m3u8
 109
 正德電視台,https://www.youtube.com/live/CHDb5D0DCkw
-110頻道待定,https://raw.githubusercontent.com/a7959067/yilun/main/MP4/%E9%A0%BB%E9%81%93%E5%BE%85%E5%AE%9A.mp4
+110頻道待定,https://raw.githubusercontent.com/a7959067/yilun/main/M3U8/Channel%20Pending.m3u8
 台灣番薯台,http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
 以下頻道未照編號,http://1.m3u8
 116 三聖電視台,https://www.youtube.com/live/txzNUKmuaA0
