@@ -942,6 +942,11 @@ Taiwan+,mitv://generationnexxxt.com:19806/5b6ee93571324f81959ee26532b3e6d9
 東森購物1台,mitv://generationnexxxt.com:19806/74869fed4efd4b0684ec1e0a6dd9f3ee
 
 測試,#genre#
+litv1080,https://p-hebe.svc.litv.tv/hi/vod/oSpPub0LBjU/4gtv-4gtv052-avc1_6000000=1-mp4a_127000_zho=7.m3u8
+litvmaster,https://p-hebe.svc.litv.tv/hi/vod/oSpPub0LBjU/master.m3u8
+中視1080,https://ocean.ofiii.com/hls/v1/playlist/nKYMXgu3jFU/4gtv-4gtv040-avc1_6000000=1-mp4a_143000_zho=2.m3u8
+中視master,https://ocean.ofiii.com/hls/v1/playlist/nKYMXgu3jFU/master.m3u8
+
 東森新聞(海外IP),https://www.youtube.com/live/R2iMq5LKXco
 三立新聞(海外IP),https://www.youtube.com/live/FoBfXvlOR6I
 TVBS新聞(海外IP),https://www.youtube.com/live/2mCSYvcfhtc
