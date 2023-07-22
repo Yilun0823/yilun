@@ -43,8 +43,8 @@ CNN,P2p://135.148.104.228:19806/1b1d8846c6a24bd5bef1f0264abffe34
 大愛,P2p://135.148.104.228:19806/61cfd776658148e5b2ea446dfdf6cef2
 大愛,P2p://135.148.104.228:19806/e440b926b5da435897ec5fbe9a9e68b6
 10
-中視測試1,https://raw.githubusercontent.com/a7959067/yilun/main/M3U8/%E4%B8%AD%E8%A6%96.m3u8
-中視測試2,https://a7959067.github.io/yilun/main/M3U8/%E4%B8%AD%E8%A6%96.m3u8
+中視測試1,https://raw.githubusercontent.com/a7959067/yilun/main/M3U8/%E4%B8%AD%E8%A6%96.m3u
+中視測試2,https://a7959067.github.io/yilun/main/M3U8/%E4%B8%AD%E8%A6%96.m3u
 中視,https://pkj99.github.io/ofiii/中視.m3u8
 中視,rtmp://119.81.124.89/sat/tv091
 中視,rtmp://219.80.97.77/sat/tv091
