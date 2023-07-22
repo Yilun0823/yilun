@@ -1,6 +1,3 @@
 #EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-TARGETDURATION:4
-#EXT-X-MEDIA-SEQUENCE:67493641
-#EXT-X-INDEPENDENT-SEGMENTS
-#EXTINF:4,https://p-hebe.svc.litv.tv/hi/vod/focoUX5PVNg/master.m3u8
+https://p-hebe.svc.litv.tv/hi/vod/focoUX5PVNg/master.m3u8
+https://p-hebe.svc.litv.tv/hi/vod/focoUX5PVNg/master.m3u8
