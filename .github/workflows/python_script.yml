@@ -6,28 +6,40 @@ on:
 
 jobs:
   run_script:
+    name: Run Python Script
     runs-on: ubuntu-latest
 
     steps:
-      - name: 檢出程式庫
-        uses: actions/checkout@v2
+      - name: Checkout code
+        uses: actions/checkout@v2.4.3
 
-      - name: 設定Python
+      - name: Set up Python
         uses: actions/setup-python@v2
         with:
-          python-version: 3.x # 使用所需的Python版本
+          python-version: 3.x
 
-      - name: 安裝相依套件
-        run: |
-          pip install requests
+      - name: Install dependencies
+        run: pip install -r requirements.txt
 
-      - name: 執行Python腳本
+      - name: Execute Python script
+        run: python main.py
+        
+      - name : Upload artifact
+        uses: actions/upload-artifact@master
+        with:
+          name: channel m3u
+          path: .
+
+      - name: commit files
         run: |
-          python main.py
-      - name: 提交變更
-        run: |
+          git init
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add .
-          git commit -m "更新電視頻道資料 [skip ci]"
-          git push
+          git add -A
+          git diff-index --quiet HEAD || (git commit -a -m "update m3u8" --allow-empty)
+          
+      - name: push changes
+        uses: ad-m/github-push-action@v0.6.0
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: main
