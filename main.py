@@ -32,8 +32,9 @@ response = requests.post(url, json=data, cookies=cookies)
 if response.status_code == 200:
     try:
         # 請求成功，處理回應資料
-        result = response.json().get("result")
-        if result is not None:
+        data = response.json()
+        if "result" in data:
+            result = data["result"]
             asset_urls = result.get("AssetURLs", [])
             if len(asset_urls) > 0:
                 m3u8_url_with_params = asset_urls[0]
@@ -51,6 +52,9 @@ if response.status_code == 200:
             print("回應資料中沒有 'result' 鍵")
     except ValueError as e:
         print("回應資料解析錯誤:", e)
+    except KeyError as e:
+        print("回應資料中找不到 'result' 鍵")
+        print("完整回應內容:\n", data)
 else:
     # 請求失敗，處理錯誤訊息
     print("請求失敗，狀態碼：", response.status_code)
