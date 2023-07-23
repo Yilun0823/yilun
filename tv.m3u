@@ -1,1 +1,15 @@
-#EXTM3U
+#EXTM3U url-tvg="http://epg.51zmt.top:8000/e.xml"
+#EXTINF:0 tvg-id="10" tvg-logo="https://cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv066_tv.png" tvg-name="台視" group-title="歐飛頻道",台視
+https://ocean.ofiii.com/hls/v1/playlist/zywhWiOd0X0/master.m3u8
+#EXTINF:0 tvg-id="15" tvg-logo="https://cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv040_tv.png" tvg-name="中視" group-title="歐飛頻道",中視
+https://ocean.ofiii.com/hls/v1/playlist/f_N2dGDQv_4/master.m3u8
+#EXTINF:0 tvg-id="5" tvg-logo="https://cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv041_tv.png" tvg-name="華視" group-title="歐飛頻道",華視
+https://ocean.ofiii.com/hls/v1/playlist/38oeVGgjEJQ/master.m3u8
+#EXTINF:0 tvg-id="6" tvg-logo="https://cdnstatic.svc.litv.tv/pics/logo_litv_litv-ftv17_tv.png" tvg-name="好消息2台" group-title="歐飛頻道",好消息2台
+https://ocean.ofiii.com/hls/v1/playlist/tQ4nvKshfnU/master.m3u8
+#EXTINF:0 tvg-id="1" tvg-logo="https://cdnstatic.svc.litv.tv/pics/logo_litv_litv-ftv16_tv.png" tvg-name="好消息" group-title="歐飛頻道",好消息
+https://ocean.ofiii.com/hls/v1/playlist/j3CM8XaQ1TY/master.m3u8
+#EXTINF:0 tvg-id="30" tvg-logo="https://cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn20_tv.png" tvg-name="ELTV生活英語台" group-title="歐飛頻道",ELTV生活英語台
+https://ocean.ofiii.com/hls/v1/playlist/17PAwYGu3Ts/master.m3u8
+#EXTINF:p tvg-id="3" tvg-logo="https://cdnstatic.svc.litv.tv/pics/logo_4gtv_litv-longturn01_tv.png" tvg-name="龍華卡通台" group-title="歐飛頻道",龍華卡通台
+https://ocean.ofiii.com/hls/v1/playlist/y4cHQZ7WF7Y/master.m3u
