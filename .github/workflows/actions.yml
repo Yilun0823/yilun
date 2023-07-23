@@ -2,7 +2,7 @@ name: run main.py
 
 on:
   schedule:
-    - cron: "0 */1 * * * "
+    - cron: "0 */1 * * *"
 
 jobs:
   run_script:
@@ -43,19 +43,3 @@ jobs:
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           branch: main 
-
-
-
-
-      # - name: Git push assets to "channel" branch
-      #   run: |
-      #     git init
-      #     git config --local user.name "actions"
-      #     git config --local user.email "action@github.com"
-      #     git checkout -b channel
-      #     git add .
-      #     git commit -m "update channel info"
-      #     git push --set-upstream origin channel
-
-      #     # git remote add origin "https://${{ github.actor }}:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}"
-      #     # git push -f -u origin channel
