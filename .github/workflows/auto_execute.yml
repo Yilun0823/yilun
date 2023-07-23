@@ -1,8 +1,8 @@
-name: Auto Execute Script
+name: channels.py
 
 on:
   schedule:
-    - cron: "0 */1 * * *"
+    - cron: "0 */2 * * *"
 
 jobs:
   execute_script:
