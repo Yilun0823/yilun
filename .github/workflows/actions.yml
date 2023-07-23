@@ -23,21 +23,21 @@ jobs:
 
       - name: Execute Python script
         run: python main.py
-        
+
       - name: Upload artifact
-        uses: actions/upload-artifact@v2  # 使用 @v2 版本
+        uses: actions/upload-artifact@v2
         with:
-          name: channel_m3u  # 不能有空格
-          path: .  # 這表示將整個目錄上傳，如果只想上傳特定文件可以指定路徑
+          name: channel_m3u
+          path: .  # Replace this with the specific path to your artifact if necessary
 
       - name: Commit files
         run: |
           git init
-          git config user.email "action@github.com"  # 移除 --local，否則後續 push 會失敗
-          git config user.name "GitHub Action"  # 移除 --local，否則後續 push 會失敗
+          git config user.email "action@github.com"
+          git config user.name "GitHub Action"
           git add -A
           git diff-index --quiet HEAD || (git commit -a -m "update m3u8" --allow-empty)
-          
+
       - name: Push changes
         uses: ad-m/github-push-action@v0.6.0
         with:
