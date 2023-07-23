@@ -1,5 +1,6 @@
 import json
 import requests
+import time
 
 def get_m3u8_url(channel_id):
     url = "https://m.litv.tv/api/urls"
@@ -101,5 +102,4 @@ with open("tv.txt", 'r', encoding='utf-8') as f:
 # 將 tv.txt 內容加入 5433.txt 內
 with open("5433.txt", 'a', encoding='utf-8') as f:
     f.write(tv_content)
-# 每抓完一個頻道，暫停 1 秒
-time.sleep(1)
+
