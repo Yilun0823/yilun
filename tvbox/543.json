@@ -5,7 +5,7 @@
     {
       "name": "live",
       "type": 0,
-      "url": "./lib/5433.txt",
+      "url": "https://raw.githubusercontent.com/a7959067/yilun/main/.github/workflows/5433.txt",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     }
