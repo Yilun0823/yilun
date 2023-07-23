@@ -1,9 +1,3 @@
-# 先刪除 output.txt 檔案
-import os
-
-if os.path.exists("output.txt"):
-    os.remove("output.txt")
-
 import json
 import requests
 import time  # 匯入 time 模組
