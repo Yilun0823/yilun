@@ -1,4 +1,4 @@
-name: Auto Execute Python Script
+name: run main.py
 
 on:
   schedule:
