@@ -19,6 +19,9 @@ jobs:
 
     - name: Install Dependencies
       run: pip install requests
+      
+    - name: Set Execute Permission
+      run: chmod +x channels.py  # 在這裡設定權限
 
     - name: Execute Python Script
       run: python channels.py
