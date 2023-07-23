@@ -33,14 +33,18 @@ def get_m3u8_url(channel_id):
 
     if response.status_code == 200:
         # 請求成功，處理回應資料
-        result = response.json()["result"]
-        asset_urls = result["AssetURLs"]
-        if len(asset_urls) > 0:
-            m3u8_url_with_params = asset_urls[0]
-            # 使用 split() 函數分割字串，只取得 .m3u8 檔案本身的網址
-            m3u8_url = m3u8_url_with_params.split("?")[0]
-            return m3u8_url
-        else:
+        try:
+            result = response.json()["result"]
+            asset_urls = result["AssetURLs"]
+            if len(asset_urls) > 0:
+                m3u8_url_with_params = asset_urls[0]
+                # 使用 split() 函數分割字串，只取得 .m3u8 檔案本身的網址
+                m3u8_url = m3u8_url_with_params.split("?")[0]
+                return m3u8_url
+            else:
+                return None
+        except KeyError:
+            print("回應資料中缺少必要的欄位 'result' 或 'AssetURLs'")
             return None
     else:
         # 請求失敗，處理錯誤訊息
