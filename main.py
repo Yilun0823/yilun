@@ -26,24 +26,31 @@ cookies = {
     "_ga_73WWD84D3P": "GS1.1.1689984923.2.1.1689985877.32.0.0",
     "_ga_F72R6P7EZK": "GS1.1.1689984958.2.1.1689985883.55.0.0"
 }
+
 response = requests.post(url, json=data, cookies=cookies)
 
 if response.status_code == 200:
-    # 請求成功，處理回應資料
-    result = response.json()["result"]
-    asset_urls = result["AssetURLs"]
-    if len(asset_urls) > 0:
-        m3u8_url_with_params = asset_urls[0]
-        # 使用 split() 函數分割字串，只取得 .m3u8 檔案本身的網址
-        m3u8_url = m3u8_url_with_params.split("?")[0]
-        # 印出 .m3u8 檔案的網址
-        print("中視,", m3u8_url)
+    try:
+        # 請求成功，處理回應資料
+        result = response.json().get("result")
+        if result is not None:
+            asset_urls = result.get("AssetURLs", [])
+            if len(asset_urls) > 0:
+                m3u8_url_with_params = asset_urls[0]
+                # 使用 split() 函數分割字串，只取得 .m3u8 檔案本身的網址
+                m3u8_url = m3u8_url_with_params.split("?")[0]
+                # 印出 .m3u8 檔案的網址
+                print("中視,", m3u8_url)
 
-        # 將 .m3u8 檔案的網址寫入 litv.txt 檔案中
-        with open("litv.txt", "w") as file:
-            file.write(f"中視, {m3u8_url}")
-    else:
-        print("沒有找到 .m3u8 檔案的網址")
+                # 將 .m3u8 檔案的網址寫入 litv.txt 檔案中
+                with open("litv.txt", "w") as file:
+                    file.write(f"中視, {m3u8_url}")
+            else:
+                print("沒有找到 .m3u8 檔案的網址")
+        else:
+            print("回應資料中沒有 'result' 鍵")
+    except ValueError as e:
+        print("回應資料解析錯誤:", e)
 else:
     # 請求失敗，處理錯誤訊息
     print("請求失敗，狀態碼：", response.status_code)
