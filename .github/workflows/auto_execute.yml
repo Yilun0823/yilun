@@ -21,4 +21,4 @@ jobs:
       run: pip install requests
 
     - name: Execute Python Script
-      run: python channels.py
+      run: python yilun/channels.py
