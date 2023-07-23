@@ -23,8 +23,7 @@ jobs:
 
       - name: 執行Python腳本
         run: |
-          python 你的腳本檔案名稱.py # 用實際的腳本檔案名稱替換'你的腳本檔案名稱.py'
-
+          python main.py
       - name: 提交變更
         run: |
           git config --local user.email "action@github.com"
