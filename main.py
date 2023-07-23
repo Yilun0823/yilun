@@ -88,14 +88,3 @@ with open("tv.txt", 'w', encoding='utf-8') as f:
 # 寫入 tv.m3u
 with open("tv.m3u", 'w', encoding='utf-8') as f:
     f.write(m3u_content)
-
-# 先將 5433.txt 內第 732 行後的資料都刪除
-remove_lines_after("5433.txt", 732)
-
-# 讀取 tv.txt 內所有內容
-with open("tv.txt", 'r', encoding='utf-8') as f:
-    tv_content = f.read()
-
-# 將 tv.txt 內容加入 5433.txt 內
-with open("5433.txt", 'a', encoding='utf-8') as f:
-    f.write(tv_content)
