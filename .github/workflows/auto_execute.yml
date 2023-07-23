@@ -2,7 +2,7 @@ name: Auto Execute Script
 
 on:
   schedule:
-    - cron: "0 */2 * * *"
+    - cron: "0 */1 * * *"
 
 jobs:
   execute_script:
@@ -15,16 +15,11 @@ jobs:
     - name: List Repository Contents
       run: ls -R
 
-    - name: Setup Python
-      uses: actions/setup-python@v2
-      with:
-        python-version: 3.x
-
-    - name: Install Dependencies
-      run: pip install requests
-
     - name: Set Execute Permission
       run: chmod +x channels.py
+
+    - name: Change Working Directory
+      run: cd yilun  # 如果 channels.py 在 yilun 資料夾內，請將 yilun 改為正確的子資料夾名稱
 
     - name: Execute Python Script
       run: python channels.py
