@@ -1,29 +1,33 @@
-name: run main.py
+name: main.py
 
 on:
   schedule:
-    - cron: "*/5 * * * *"
+    - cron: '0 */2 * * *'
+  workflow_dispatch:
 
 jobs:
-  run_script:
-    name: Run Python Script
+  build:
     runs-on: ubuntu-latest
-
     steps:
-      - name: Checkout code
-        uses: actions/checkout@v2.4.3
 
-      - name: Set up Python
-        uses: actions/setup-python@v2
+      - name: checkout repo content
+        uses: actions/checkout@v2 # checkout the repository content to github runner
+
+      - name: setup python
+        uses: actions/setup-python@v4
         with:
-          python-version: 3.x
-
-      - name: Install dependencies
-        run: pip install -r requirements.txt
-
-      - name: Execute Python script
+          python-version: '3.10' # install the python version needed
+          
+      - name: install python packages
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+          
+      - name: execute py script # run main.py
+        # env:
+        #   SOME_SECRET: ${{ secrets.SOME_SECRET }}
         run: python main.py
-        
+
       - name : Upload artifact
         uses: actions/upload-artifact@master
         with:
@@ -42,4 +46,20 @@ jobs:
         uses: ad-m/github-push-action@v0.6.0
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: main
+          branch: main 
+
+
+
+
+      # - name: Git push assets to "channel" branch
+      #   run: |
+      #     git init
+      #     git config --local user.name "actions"
+      #     git config --local user.email "action@github.com"
+      #     git checkout -b channel
+      #     git add .
+      #     git commit -m "update channel info"
+      #     git push --set-upstream origin channel
+
+      #     # git remote add origin "https://${{ github.actor }}:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}"
+      #     # git push -f -u origin channel
