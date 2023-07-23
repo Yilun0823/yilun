@@ -1,0 +1,34 @@
+name: 執行Python腳本
+
+on:
+  schedule:
+    - cron: "*/5 * * * *"
+
+jobs:
+  run_script:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: 檢出程式庫
+        uses: actions/checkout@v2
+
+      - name: 設定Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: 3.x # 使用所需的Python版本
+
+      - name: 安裝相依套件
+        run: |
+          pip install requests
+
+      - name: 執行Python腳本
+        run: |
+          python 你的腳本檔案名稱.py # 用實際的腳本檔案名稱替換'你的腳本檔案名稱.py'
+
+      - name: 提交變更
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add .
+          git commit -m "更新電視頻道資料 [skip ci]"
+          git push
