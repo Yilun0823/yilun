@@ -11,7 +11,7 @@ jobs:
 
     steps:
       - name: Checkout code
-        uses: actions/checkout@
+        uses: actions/checkout@v2
 
       - name: Set up Python
         uses: actions/setup-python@v2
@@ -24,21 +24,21 @@ jobs:
       - name: Execute Python script
         run: python main.py
         
-      - name : Upload artifact
-        uses: actions/upload-artifact@master
+      - name: Upload artifact
+        uses: actions/upload-artifact@v2  # 使用 @v2 版本
         with:
-          name: channel m3u
-          path: .
+          name: channel_m3u  # 不能有空格
+          path: .  # 這表示將整個目錄上傳，如果只想上傳特定文件可以指定路徑
 
-      - name: commit files
+      - name: Commit files
         run: |
           git init
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
+          git config user.email "action@github.com"  # 移除 --local，否則後續 push 會失敗
+          git config user.name "GitHub Action"  # 移除 --local，否則後續 push 會失敗
           git add -A
           git diff-index --quiet HEAD || (git commit -a -m "update m3u8" --allow-empty)
           
-      - name: push changes
+      - name: Push changes
         uses: ad-m/github-push-action@v0.6.0
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
