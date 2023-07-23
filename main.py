@@ -1,6 +1,6 @@
 import json
 import requests
-import time  # 匯入 time 模組
+import time
 
 def get_m3u8_url(channel_id):
     url = "https://m.litv.tv/api/urls"
@@ -34,14 +34,18 @@ def get_m3u8_url(channel_id):
 
     if response.status_code == 200:
         # 請求成功，處理回應資料
-        result = response.json()["result"]
-        asset_urls = result["AssetURLs"]
-        if len(asset_urls) > 0:
-            m3u8_url_with_params = asset_urls[0]
-            # 使用 split() 函數分割字串，只取得 .m3u8 檔案本身的網址
-            m3u8_url = m3u8_url_with_params.split("?")[0]
-            return m3u8_url
-        else:
+        try:
+            result = response.json().get("result", {})
+            asset_urls = result.get("AssetURLs", [])
+            if len(asset_urls) > 0:
+                m3u8_url_with_params = asset_urls[0]
+                # 使用 split() 函數分割字串，只取得 .m3u8 檔案本身的網址
+                m3u8_url = m3u8_url_with_params.split("?")[0]
+                return m3u8_url
+            else:
+                return None
+        except Exception as e:
+            print("解析回應資料時發生錯誤：", e)
             return None
     else:
         # 請求失敗，處理錯誤訊息
@@ -49,27 +53,52 @@ def get_m3u8_url(channel_id):
         print("錯誤訊息：", response.text)
         return None
 
-# 從 "channels.json" 檔案載入頻道資料
+def remove_lines_after(file_path, line_number):
+    with open(file_path, 'r', encoding='utf-8') as f:
+        lines = f.readlines()
+
+    if line_number < 0 or line_number >= len(lines):
+        return
+
+    with open(file_path, 'w', encoding='utf-8') as f:
+        f.writelines(lines[:line_number+1])
+
+# 從 channels.json 讀取頻道資料
 with open("channels.json", 'r', encoding='utf-8') as f:
     channels = json.loads(f.read())
 
-# 建立新的 .txt 檔案用於輸出
-output_file = open("output.txt", 'w', encoding='utf-8')
+# 變數來存儲 tv.txt 和 tv.m3u 的內容
+txt_content = "LITV頻道,#genre#\n"
+m3u_content = "#EXTM3U\n"
 
 for channel_data in channels:
     asset_id = channel_data["id"]
     m3u8_url = get_m3u8_url(asset_id)
     if m3u8_url:
         title = channel_data["title"]
-        output_line = f"{title},{m3u8_url}\n"
-        print(output_line.strip())
-        # 將輸出寫入 .txt 檔案
-        output_file.write(output_line)
-    else:
-        print(f"沒有找到 {channel_data['title']} 的 .m3u8 檔案的網址")
-
+        
+        # 添加到 tv.txt 的內容
+        txt_content += title + ',' + m3u8_url + '\n'
+        
+        # 添加到 tv.m3u 的內容
+        m3u_content += f'#EXTINF:-1 tvg-logo="{title}" tvg-name="{title}" group-title="LITV頻道",{title}\n{m3u8_url}\n'
     # 每抓完一個頻道，暫停 1 秒
     time.sleep(1)
+# 寫入 tv.txt
+with open("tv.txt", 'w', encoding='utf-8') as f:
+    f.write(txt_content)
 
-# 結束後關閉輸出檔案
-output_file.close()
+# 寫入 tv.m3u
+with open("tv.m3u", 'w', encoding='utf-8') as f:
+    f.write(m3u_content)
+
+# 先將 5433.txt 內第 732 行後的資料都刪除
+remove_lines_after("5433.txt", 732)
+
+# 讀取 tv.txt 內所有內容
+with open("tv.txt", 'r', encoding='utf-8') as f:
+    tv_content = f.read()
+
+# 將 tv.txt 內容加入 5433.txt 內
+with open("5433.txt", 'a', encoding='utf-8') as f:
+    f.write(tv_content)
