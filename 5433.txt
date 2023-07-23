@@ -585,7 +585,7 @@ TVBS-Asia,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 華語電視2,http://38.64.72.148:80/hls/modn/list/4002/chunklist0.m3u8
 華語電視3,http://38.64.72.148:80/hls/modn/list/4003/chunklist0.m3u8
 紅牛REDBULL TV,https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
-綜藝玩很大,https://pkj99.github.io/ofiii/綜藝玩很大.m3u8
+
 ELTA體育1,http://50.7.238.114:8278/eltasport_twn/playlist.m3u8?tid=md3567b35401611916221&ct=17874&tsum=be2a069324faa7f0737ca0d396d43745
 ELTA體育1,rtmp://219.80.97.77/sat/md051
 ELTA體育1,rtmp://219.80.97.77/sat/md041
@@ -728,7 +728,6 @@ Modern Radio,http://play.redefine.ltd/Stream1/FM1058-1.m3u8
 經典FM,http://stream3.hndt.com/now/C5NvUpwy/playlist.m3u8
 民謠 藍調,http://play-radio-stream3.hndt.com/now/XWfN89gh/playlist.m3u8
 民謠音樂台,http://stream3.hndt.com/now/DTK5qc83/playlist.m3u8
-
 
 
 LITV頻道,#genre#
