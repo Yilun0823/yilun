@@ -81,7 +81,8 @@ for channel_data in channels:
         
         # 添加到 tv.m3u 的內容
         m3u_content += f'#EXTINF:-1 tvg-logo="{title}" tvg-name="{title}" group-title="LITV頻道",{title}\n{m3u8_url}\n'
-
+    # 每抓完一個頻道，暫停 1 秒
+    time.sleep(1)
 # 寫入 tv.txt
 with open("tv.txt", 'w', encoding='utf-8') as f:
     f.write(txt_content)
@@ -100,3 +101,5 @@ with open("tv.txt", 'r', encoding='utf-8') as f:
 # 將 tv.txt 內容加入 5433.txt 內
 with open("5433.txt", 'a', encoding='utf-8') as f:
     f.write(tv_content)
+# 每抓完一個頻道，暫停 1 秒
+time.sleep(1)
