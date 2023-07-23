@@ -2,7 +2,7 @@ name: run main.py
 
 on:
   schedule:
-- cron: "*/5 * * * *"
+    - cron: "*/5 * * * *"
 
 jobs:
   run_script:
@@ -23,23 +23,23 @@ jobs:
 
       - name: Execute Python script
         run: python main.py
-        
-      - name : Upload artifact
-        uses: actions/upload-artifact@master
-        with:
-          name: channel m3u
-          path: .
 
-      - name: commit files
+      - name: Upload artifact
+        uses: actions/upload-artifact@v2  # 使用 @v2 版本
+        with:
+          name: channel_m3u  # 修改為不含空格的名稱
+          path: .  # 這表示將整個目錄上傳，如果只想上傳特定文件可以指定路徑
+
+      - name: Commit files
         run: |
           git init
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
+          git config user.email "action@github.com"  # 移除 --local
+          git config user.name "GitHub Action"  # 移除 --local
           git add -A
           git diff-index --quiet HEAD || (git commit -a -m "update m3u8" --allow-empty)
-          
-      - name: push changes
+
+      - name: Push changes
         uses: ad-m/github-push-action@v0.6.0
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: main 
+          branch: main
