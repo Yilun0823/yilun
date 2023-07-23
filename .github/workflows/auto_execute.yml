@@ -1,65 +1,25 @@
-name: run main.py
+name: Auto Execute Python Script
 
 on:
   schedule:
-    - cron: '0 */2 * * *'
-  workflow_dispatch:
+    - cron: "0 */2 * * *"
 
 jobs:
-  build:
+  run_script:
+    name: Run Python Script
     runs-on: ubuntu-latest
+
     steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
 
-      - name: checkout repo content
-        uses: actions/checkout@v2 # checkout the repository content to github runner
-
-      - name: setup python
-        uses: actions/setup-python@v4
+      - name: Set up Python
+        uses: actions/setup-python@v2
         with:
-          python-version: '3.10' # install the python version needed
-          
-      - name: install python packages
-        run: |
-          python -m pip install --upgrade pip
-          pip install -r requirements.txt
-          
-      - name: execute py script # run main.py
-        # env:
-        #   SOME_SECRET: ${{ secrets.SOME_SECRET }}
+          python-version: 3.x
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Execute Python script
         run: python main.py
-
-      - name : Upload artifact
-        uses: actions/upload-artifact@master
-        with:
-          name: channel m3u
-          path: .
-
-      - name: commit files
-        run: |
-          git init
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
-          git add -A
-          git diff-index --quiet HEAD || (git commit -a -m "update m3u8" --allow-empty)
-          
-      - name: push changes
-        uses: ad-m/github-push-action@v0.6.0
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: main 
-
-
-
-
-      # - name: Git push assets to "channel" branch
-      #   run: |
-      #     git init
-      #     git config --local user.name "actions"
-      #     git config --local user.email "action@github.com"
-      #     git checkout -b channel
-      #     git add .
-      #     git commit -m "update channel info"
-      #     git push --set-upstream origin channel
-
-      #     # git remote add origin "https://${{ github.actor }}:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}"
-      #     # git push -f -u origin channel
