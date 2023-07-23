@@ -1,4 +1,4 @@
-name: 執行Python腳本
+name: run main.py
 
 on:
   schedule:
