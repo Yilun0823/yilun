@@ -6,7 +6,7 @@
       "name": "live",
       "boot": true,
       "type": 0,
-      "url": "https://raw.githubusercontent.com/a7959067/yilun/main/tv.m3u",
+      "url": "http://122.116.119.235:8000/tv.m3u",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     }
