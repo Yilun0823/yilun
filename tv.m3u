@@ -1,179 +1,284 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="民視台灣台" tvg-name="民視台灣台" group-title="LITV頻道",民視台灣台
-https://p-hebe.svc.litv.tv/hi/vod/GnVkiD9GQDs/master.m3u8
-#EXTINF:-1 tvg-logo="民視" tvg-name="民視" group-title="LITV頻道",民視
-https://p-hebe.svc.litv.tv/hi/vod/yFjxTFSVHRY/master.m3u8
-#EXTINF:-1 tvg-logo="台視" tvg-name="台視" group-title="LITV頻道",台視
-https://p-hebe.svc.litv.tv/hi/vod/VM4-RvBXVr8/master.m3u8
-#EXTINF:-1 tvg-logo="中視" tvg-name="中視" group-title="LITV頻道",中視
-https://p-hebe.svc.litv.tv/hi/vod/aSe478s4Pos/master.m3u8
-#EXTINF:-1 tvg-logo="華視" tvg-name="華視" group-title="LITV頻道",華視
-https://p-hebe.svc.litv.tv/hi/vod/YyMKXH3Yw5A/master.m3u8
-#EXTINF:-1 tvg-logo="公視戲劇" tvg-name="公視戲劇" group-title="LITV頻道",公視戲劇
-https://p-hebe.svc.litv.tv/hi/vod/icm-xFIRzds/master.m3u8
-#EXTINF:-1 tvg-logo="好消息" tvg-name="好消息" group-title="LITV頻道",好消息
-https://p-hebe.svc.litv.tv/hi/vod/4yFdC2P5DqY/master.m3u8
-#EXTINF:-1 tvg-logo="民視綜藝台" tvg-name="民視綜藝台" group-title="LITV頻道",民視綜藝台
-https://p-hebe.svc.litv.tv/hi/vod/vHZlG-jyhFs/master.m3u8
-#EXTINF:-1 tvg-logo="亞洲旅遊台" tvg-name="亞洲旅遊台" group-title="LITV頻道",亞洲旅遊台
-https://p-hebe.svc.litv.tv/hi/vod/zt4q2LECiz4/master.m3u8
-#EXTINF:-1 tvg-logo="中天亞洲台" tvg-name="中天亞洲台" group-title="LITV頻道",中天亞洲台
-https://p-hebe.svc.litv.tv/hi/vod/ZlyOgNk0d9w/master.m3u8
-#EXTINF:-1 tvg-logo="龍華戲劇台" tvg-name="龍華戲劇台" group-title="LITV頻道",龍華戲劇台
-https://p-hebe.svc.litv.tv/hi/vod/8I8vwdku9Z8/master.m3u8
-#EXTINF:-1 tvg-logo="TVBS精采台" tvg-name="TVBS精采台" group-title="LITV頻道",TVBS精采台
-https://p-hebe.svc.litv.tv/hi/vod/xznFenp6rcU/master.m3u8
-#EXTINF:-1 tvg-logo="TVBS歡樂台" tvg-name="TVBS歡樂台" group-title="LITV頻道",TVBS歡樂台
-https://p-hebe.svc.litv.tv/hi/vod/O4k22gW_02A/master.m3u8
-#EXTINF:-1 tvg-logo="東森購物1台" tvg-name="東森購物1台" group-title="LITV頻道",東森購物1台
-https://p-hebe.svc.litv.tv/hi/vod/eNdfKskMGu8/master.m3u8
-#EXTINF:-1 tvg-logo="民視影劇台" tvg-name="民視影劇台" group-title="LITV頻道",民視影劇台
-https://p-hebe.svc.litv.tv/hi/vod/Jqhm1DccTuw/master.m3u8
-#EXTINF:-1 tvg-logo="龍華偶像台" tvg-name="龍華偶像台" group-title="LITV頻道",龍華偶像台
-https://p-hebe.svc.litv.tv/hi/vod/9Eh_Alo10lY/master.m3u8
-#EXTINF:-1 tvg-logo="龍華日韓台" tvg-name="龍華日韓台" group-title="LITV頻道",龍華日韓台
-https://p-hebe.svc.litv.tv/hi/vod/lsROP2ML6_Q/master.m3u8
-#EXTINF:-1 tvg-logo="東森購物2台" tvg-name="東森購物2台" group-title="LITV頻道",東森購物2台
-https://p-hebe.svc.litv.tv/hi/vod/vVQBU4K4SP0/master.m3u8
-#EXTINF:-1 tvg-logo="東森新聞台" tvg-name="東森新聞台" group-title="LITV頻道",東森新聞台
-https://p-hebe.svc.litv.tv/hi/vod/l2kqJmq2VR0/master.m3u8
-#EXTINF:-1 tvg-logo="華視新聞" tvg-name="華視新聞" group-title="LITV頻道",華視新聞
-https://p-hebe.svc.litv.tv/hi/vod/-FPGjEM16Jw/master.m3u8
-#EXTINF:-1 tvg-logo="民視新聞台" tvg-name="民視新聞台" group-title="LITV頻道",民視新聞台
-https://p-hebe.svc.litv.tv/hi/vod/FoeNMXyLXF0/master.m3u8
-#EXTINF:-1 tvg-logo="三立新聞iNEWS" tvg-name="三立新聞iNEWS" group-title="LITV頻道",三立新聞iNEWS
-https://p-hebe.svc.litv.tv/hi/vod/Fono17ZSJEA/master.m3u8
-#EXTINF:-1 tvg-logo="TVBS新聞" tvg-name="TVBS新聞" group-title="LITV頻道",TVBS新聞
-https://p-hebe.svc.litv.tv/hi/vod/C46iu0m-h44/master.m3u8
-#EXTINF:-1 tvg-logo="TVBS" tvg-name="TVBS" group-title="LITV頻道",TVBS
-https://p-hebe.svc.litv.tv/hi/vod/9HrOJfuEgf8/master.m3u8
-#EXTINF:-1 tvg-logo="東森財經新聞台" tvg-name="東森財經新聞台" group-title="LITV頻道",東森財經新聞台
-https://p-hebe.svc.litv.tv/hi/vod/mAfLOqgG81k/master.m3u8
-#EXTINF:-1 tvg-logo="非凡新聞台" tvg-name="非凡新聞台" group-title="LITV頻道",非凡新聞台
-https://p-hebe.svc.litv.tv/hi/vod/S-GSEzycBLM/master.m3u8
-#EXTINF:-1 tvg-logo="台視新聞" tvg-name="台視新聞" group-title="LITV頻道",台視新聞
-https://p-hebe.svc.litv.tv/hi/vod/IA8voWYFEVI/master.m3u8
-#EXTINF:-1 tvg-logo="中視新聞" tvg-name="中視新聞" group-title="LITV頻道",中視新聞
-https://p-hebe.svc.litv.tv/hi/vod/RSxw47z869E/master.m3u8
-#EXTINF:-1 tvg-logo="中天新聞台" tvg-name="中天新聞台" group-title="LITV頻道",中天新聞台
-https://p-hebe.svc.litv.tv/hi/vod/7RW7yh7pkso/master.m3u8
-#EXTINF:-1 tvg-logo="寰宇新聞台灣台" tvg-name="寰宇新聞台灣台" group-title="LITV頻道",寰宇新聞台灣台
-https://p-hebe.svc.litv.tv/hi/vod/eVR4L1QmV8k/master.m3u8
-#EXTINF:-1 tvg-logo="寰宇新聞台" tvg-name="寰宇新聞台" group-title="LITV頻道",寰宇新聞台
-https://p-hebe.svc.litv.tv/hi/vod/qN5XBaxkYWE/master.m3u8
-#EXTINF:-1 tvg-logo="龍華經典台" tvg-name="龍華經典台" group-title="LITV頻道",龍華經典台
-https://p-hebe.svc.litv.tv/hi/vod/feC0218bWdU/master.m3u8
-#EXTINF:-1 tvg-logo="影迷數位電影台" tvg-name="影迷數位電影台" group-title="LITV頻道",影迷數位電影台
-https://p-hebe.svc.litv.tv/hi/vod/AuM5K0Cegms/master.m3u8
-#EXTINF:-1 tvg-logo="CATCHPLAY電影台" tvg-name="CATCHPLAY電影台" group-title="LITV頻道",CATCHPLAY電影台
-https://p-hebe.svc.litv.tv/hi/vod/ooNX6UlWEgc/master.m3u8
-#EXTINF:-1 tvg-logo="龍華電影台" tvg-name="龍華電影台" group-title="LITV頻道",龍華電影台
-https://p-hebe.svc.litv.tv/hi/vod/6PcDuQjIJsk/master.m3u8
-#EXTINF:-1 tvg-logo="靖天電影台" tvg-name="靖天電影台" group-title="LITV頻道",靖天電影台
-https://p-hebe.svc.litv.tv/hi/vod/KwFhbEsHuGs/master.m3u8
-#EXTINF:-1 tvg-logo="靖天映畫" tvg-name="靖天映畫" group-title="LITV頻道",靖天映畫
-https://p-hebe.svc.litv.tv/hi/vod/jTQddu5VH_Y/master.m3u8
-#EXTINF:-1 tvg-logo="博斯高球台" tvg-name="博斯高球台" group-title="LITV頻道",博斯高球台
-https://p-hebe.svc.litv.tv/hi/vod/tVImu0rJBB4/master.m3u8
-#EXTINF:-1 tvg-logo="博斯高球二台" tvg-name="博斯高球二台" group-title="LITV頻道",博斯高球二台
-https://p-hebe.svc.litv.tv/hi/vod/cEDd0a1hWVA/master.m3u8
-#EXTINF:-1 tvg-logo="博斯運動一台" tvg-name="博斯運動一台" group-title="LITV頻道",博斯運動一台
-https://p-hebe.svc.litv.tv/hi/vod/jYsY1FwZ3wE/master.m3u8
-#EXTINF:-1 tvg-logo="博斯無限台" tvg-name="博斯無限台" group-title="LITV頻道",博斯無限台
-https://p-hebe.svc.litv.tv/hi/vod/qNH5hjSSSPs/master.m3u8
-#EXTINF:-1 tvg-logo="博斯網球台" tvg-name="博斯網球台" group-title="LITV頻道",博斯網球台
-https://p-hebe.svc.litv.tv/hi/vod/e8jD-_3Cmjs/master.m3u8
-#EXTINF:-1 tvg-logo="博斯運動二台" tvg-name="博斯運動二台" group-title="LITV頻道",博斯運動二台
-https://p-hebe.svc.litv.tv/hi/vod/3bR-vGiOX_s/master.m3u8
-#EXTINF:-1 tvg-logo="博斯魅力台" tvg-name="博斯魅力台" group-title="LITV頻道",博斯魅力台
-https://p-hebe.svc.litv.tv/hi/vod/0ThxB_pRBSY/master.m3u8
-#EXTINF:-1 tvg-logo="博斯無限二台" tvg-name="博斯無限二台" group-title="LITV頻道",博斯無限二台
-https://p-hebe.svc.litv.tv/hi/vod/FrzQsURrIQE/master.m3u8
-#EXTINF:-1 tvg-logo="非凡商業台" tvg-name="非凡商業台" group-title="LITV頻道",非凡商業台
-https://p-hebe.svc.litv.tv/hi/vod/JqK792SweoY/master.m3u8
-#EXTINF:-1 tvg-logo="台視財經" tvg-name="台視財經" group-title="LITV頻道",台視財經
-https://p-hebe.svc.litv.tv/hi/vod/V8oiL1imV14/master.m3u8
-#EXTINF:-1 tvg-logo="寰宇財經台" tvg-name="寰宇財經台" group-title="LITV頻道",寰宇財經台
-https://p-hebe.svc.litv.tv/hi/vod/YkGa1ckBqFs/master.m3u8
-#EXTINF:-1 tvg-logo="豬哥亮歌廳秀" tvg-name="豬哥亮歌廳秀" group-title="LITV頻道",豬哥亮歌廳秀
-https://p-hebe.svc.litv.tv/hi/vod/XbiKDwDUNvg/master.m3u8
-#EXTINF:-1 tvg-logo="台灣戲劇台" tvg-name="台灣戲劇台" group-title="LITV頻道",台灣戲劇台
-https://p-hebe.svc.litv.tv/hi/vod/rOC0UfHJ64E/master.m3u8
-#EXTINF:-1 tvg-logo="視納華仁紀實頻道" tvg-name="視納華仁紀實頻道" group-title="LITV頻道",視納華仁紀實頻道
-https://p-hebe.svc.litv.tv/hi/vod/WjaNoiR2kZo/master.m3u8
-#EXTINF:-1 tvg-logo="八大精彩台" tvg-name="八大精彩台" group-title="LITV頻道",八大精彩台
-https://p-hebe.svc.litv.tv/hi/vod/_5rCFb9VgPw/master.m3u8
-#EXTINF:-1 tvg-logo="采昌影劇台" tvg-name="采昌影劇台" group-title="LITV頻道",采昌影劇台
-https://p-hebe.svc.litv.tv/hi/vod/UOhOAO8F5Nw/master.m3u8
-#EXTINF:-1 tvg-logo="靖天戲劇台" tvg-name="靖天戲劇台" group-title="LITV頻道",靖天戲劇台
-https://p-hebe.svc.litv.tv/hi/vod/sP7RHQN8_Z8/master.m3u8
-#EXTINF:-1 tvg-logo="靖天日本台" tvg-name="靖天日本台" group-title="LITV頻道",靖天日本台
-https://p-hebe.svc.litv.tv/hi/vod/1mxP0xZZlMI/master.m3u8
-#EXTINF:-1 tvg-logo="靖天育樂台" tvg-name="靖天育樂台" group-title="LITV頻道",靖天育樂台
-https://p-hebe.svc.litv.tv/hi/vod/yUQWHHhe7ZM/master.m3u8
-#EXTINF:-1 tvg-logo="KLT-靖天國際台" tvg-name="KLT-靖天國際台" group-title="LITV頻道",KLT-靖天國際台
-https://p-hebe.svc.litv.tv/hi/vod/pql_yJeNdrs/master.m3u8
-#EXTINF:-1 tvg-logo="靖洋戲劇台" tvg-name="靖洋戲劇台" group-title="LITV頻道",靖洋戲劇台
-https://p-hebe.svc.litv.tv/hi/vod/UyivlK21pQw/master.m3u8
-#EXTINF:-1 tvg-logo="靖天綜合台" tvg-name="靖天綜合台" group-title="LITV頻道",靖天綜合台
-https://p-hebe.svc.litv.tv/hi/vod/kQXmQzela1o/master.m3u8
-#EXTINF:-1 tvg-logo="Nice TV靖天歡樂台" tvg-name="Nice TV靖天歡樂台" group-title="LITV頻道",Nice TV靖天歡樂台
-https://p-hebe.svc.litv.tv/hi/vod/NOyiZItvFBY/master.m3u8
-#EXTINF:-1 tvg-logo="靖天資訊台" tvg-name="靖天資訊台" group-title="LITV頻道",靖天資訊台
-https://p-hebe.svc.litv.tv/hi/vod/FTYE6MgrSoM/master.m3u8
-#EXTINF:-1 tvg-logo="民視旅遊台" tvg-name="民視旅遊台" group-title="LITV頻道",民視旅遊台
-https://p-hebe.svc.litv.tv/hi/vod/0eZFEuvrxII/master.m3u8
-#EXTINF:-1 tvg-logo="Smart知識台" tvg-name="Smart知識台" group-title="LITV頻道",Smart知識台
-https://p-hebe.svc.litv.tv/hi/vod/2j9gMWD5w5Q/master.m3u8
-#EXTINF:-1 tvg-logo="愛爾達娛樂台" tvg-name="愛爾達娛樂台" group-title="LITV頻道",愛爾達娛樂台
-https://p-hebe.svc.litv.tv/hi/vod/ggdrjqZ7hMk/master.m3u8
-#EXTINF:-1 tvg-logo="中視菁采台" tvg-name="中視菁采台" group-title="LITV頻道",中視菁采台
-https://p-hebe.svc.litv.tv/hi/vod/5ZdzwjIH-1c/master.m3u8
-#EXTINF:-1 tvg-logo="中視經典台" tvg-name="中視經典台" group-title="LITV頻道",中視經典台
-https://p-hebe.svc.litv.tv/hi/vod/HXnwZwbKoZk/master.m3u8
-#EXTINF:-1 tvg-logo="八大綜藝台" tvg-name="八大綜藝台" group-title="LITV頻道",八大綜藝台
-https://p-hebe.svc.litv.tv/hi/vod/8gcobxE_fQE/master.m3u8
-#EXTINF:-1 tvg-logo="客家電視台" tvg-name="客家電視台" group-title="LITV頻道",客家電視台
-https://p-hebe.svc.litv.tv/hi/vod/q0lbpfl3DUk/master.m3u8
-#EXTINF:-1 tvg-logo="半島國際新聞台" tvg-name="半島國際新聞台" group-title="LITV頻道",半島國際新聞台
-https://p-hebe.svc.litv.tv/hi/vod/S99ITi18w8w/master.m3u8
-#EXTINF:-1 tvg-logo="VOA美國之音" tvg-name="VOA美國之音" group-title="LITV頻道",VOA美國之音
-https://p-hebe.svc.litv.tv/hi/vod/6indQ4275PQ/master.m3u8
-#EXTINF:-1 tvg-logo="第1商業台" tvg-name="第1商業台" group-title="LITV頻道",第1商業台
-https://p-hebe.svc.litv.tv/hi/vod/aX7PBS8a5R0/master.m3u8
-#EXTINF:-1 tvg-logo="國會頻道1台" tvg-name="國會頻道1台" group-title="LITV頻道",國會頻道1台
-https://p-hebe.svc.litv.tv/hi/vod/y3IxYlJQGLA/master.m3u8
-#EXTINF:-1 tvg-logo="國會頻道2台" tvg-name="國會頻道2台" group-title="LITV頻道",國會頻道2台
-https://p-hebe.svc.litv.tv/hi/vod/m76v7EzUETk/master.m3u8
-#EXTINF:-1 tvg-logo="TRACE Sport Stars" tvg-name="TRACE Sport Stars" group-title="LITV頻道",TRACE Sport Stars
-https://p-hebe.svc.litv.tv/hi/vod/jXeWJVqMWSo/master.m3u8
-#EXTINF:-1 tvg-logo="智林體育台" tvg-name="智林體育台" group-title="LITV頻道",智林體育台
-https://p-hebe.svc.litv.tv/hi/vod/B4pCarXW1VQ/master.m3u8
-#EXTINF:-1 tvg-logo="時尚運動X" tvg-name="時尚運動X" group-title="LITV頻道",時尚運動X
-https://p-hebe.svc.litv.tv/hi/vod/8OQi3XK62Kg/master.m3u8
-#EXTINF:-1 tvg-logo="GINX Esports TV" tvg-name="GINX Esports TV" group-title="LITV頻道",GINX Esports TV
-https://p-hebe.svc.litv.tv/hi/vod/V7OPePp_I28/master.m3u8
-#EXTINF:-1 tvg-logo="韓國娛樂台 KMTV" tvg-name="韓國娛樂台 KMTV" group-title="LITV頻道",韓國娛樂台 KMTV
-https://p-hebe.svc.litv.tv/hi/vod/9PXFICm7OGw/master.m3u8
-#EXTINF:-1 tvg-logo="TRACE Urban" tvg-name="TRACE Urban" group-title="LITV頻道",TRACE Urban
-https://p-hebe.svc.litv.tv/hi/vod/SrQPPAyV6tQ/master.m3u8
-#EXTINF:-1 tvg-logo="Mezzo Live HD" tvg-name="Mezzo Live HD" group-title="LITV頻道",Mezzo Live HD
-https://p-hebe.svc.litv.tv/hi/vod/iOQxsVsUYiM/master.m3u8
-#EXTINF:-1 tvg-logo="CLASSICA 古典樂" tvg-name="CLASSICA 古典樂" group-title="LITV頻道",CLASSICA 古典樂
-https://p-hebe.svc.litv.tv/hi/vod/MGA-Zauqa00/master.m3u8
-#EXTINF:-1 tvg-logo="ARIRANG阿里郎頻道" tvg-name="ARIRANG阿里郎頻道" group-title="LITV頻道",ARIRANG阿里郎頻道
-https://p-hebe.svc.litv.tv/hi/vod/f4JUYW3ar7Q/master.m3u8
-#EXTINF:-1 tvg-logo="達文西頻道" tvg-name="達文西頻道" group-title="LITV頻道",達文西頻道
-https://p-hebe.svc.litv.tv/hi/vod/wjCs3-mw65Y/master.m3u8
-#EXTINF:-1 tvg-logo="ELTV生活英語台" tvg-name="ELTV生活英語台" group-title="LITV頻道",ELTV生活英語台
-https://p-hebe.svc.litv.tv/hi/vod/n2GGBlOEYPo/master.m3u8
-#EXTINF:-1 tvg-logo="靖洋卡通Nice Bingo" tvg-name="靖洋卡通Nice Bingo" group-title="LITV頻道",靖洋卡通Nice Bingo
-https://p-hebe.svc.litv.tv/hi/vod/w2VAfd_LCzg/master.m3u8
-#EXTINF:-1 tvg-logo="靖天卡通台" tvg-name="靖天卡通台" group-title="LITV頻道",靖天卡通台
-https://p-hebe.svc.litv.tv/hi/vod/ndE9g2o02ak/master.m3u8
-#EXTINF:-1 tvg-logo="龍華卡通台" tvg-name="龍華卡通台" group-title="LITV頻道",龍華卡通台
-https://p-hebe.svc.litv.tv/hi/vod/pAMg_qTOMnQ/master.m3u8
-#EXTINF:-1 tvg-logo="i-Fun動漫台" tvg-name="i-Fun動漫台" group-title="LITV頻道",i-Fun動漫台
-https://p-hebe.svc.litv.tv/hi/vod/1BVEwvTFV-0/master.m3u8
-#EXTINF:-1 tvg-logo="好消息2台" tvg-name="好消息2台" group-title="LITV頻道",好消息2台
-https://p-hebe.svc.litv.tv/hi/vod/hPuLdipppCo/master.m3u8
+#EXTINF:-1 tvg-logo="https://cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv155_tv.png" tvg-name="民視" group-title="熱門收視",民視
+https://p-hebe.svc.litv.tv/hi/vod/gt1SrMtcxCM/master.m3u8
+#EXTINF:-1 tvg-logo="https://cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv066_tv.png" tvg-name="台視" group-title="熱門收視",台視
+https://p-hebe.svc.litv.tv/hi/vod/o2_ReGdsALs/master.m3u8
+#EXTINF:-1 tvg-logo="https://cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv040_tv.png" tvg-name="中視" group-title="熱門收視",中視
+https://p-hebe.svc.litv.tv/hi/vod/_ax1LYeCKl8/master.m3u8
+#EXTINF:-1 tvg-logo="https://cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv041_tv.png" tvg-name="華視" group-title="熱門收視",華視
+https://p-hebe.svc.litv.tv/hi/vod/MpVIOcgnNGk/master.m3u8
+#EXTINF:-1 tvg-logo="https://cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv004_tv.png" tvg-name="民視綜藝台" group-title="熱門收視",民視綜藝台
+https://p-hebe.svc.litv.tv/hi/vod/yB-9YOJxUEU/master.m3u8
+#EXTINF:-1 tvg-logo="https://cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn17_tv.png" tvg-name="亞洲旅遊台" group-title="熱門收視",亞洲旅遊台
+https://p-hebe.svc.litv.tv/hi/vod/VPWBOJe-Aag/master.m3u8
+#EXTINF:-1 tvg-logo="https://cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv109_tv.png" tvg-name="中天亞洲台" group-title="熱門收視",中天亞洲台
+https://p-hebe.svc.litv.tv/hi/vod/DbnJ6LPBE2Y/master.m3u8
+#EXTINF:-1 tvg-logo="https://cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn18_tv.png" tvg-name="龍華戲劇台" group-title="熱門收視",龍華戲劇台
+https://p-hebe.svc.litv.tv/hi/vod/pVzybIvjhm8/master.m3u8
+#EXTINF:-1 tvg-logo="https://cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv067_tv.png" tvg-name="TVBS精采台" group-title="熱門收視",TVBS精采台
+https://p-hebe.svc.litv.tv/hi/vod/bOu27G45G0M/master.m3u8
+#EXTINF:-1 tvg-logo="https://cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv068_tv.png" tvg-name="TVBS歡樂台" group-title="熱門收視",TVBS歡樂台
+https://p-hebe.svc.litv.tv/hi/vod/b2W--JG0J9c/master.m3u8
+#EXTINF:-1 tvg-logo="https://cdnstatic.svc.litv.tv/pics/logo_litv_litv-ftv09_tv.png" tvg-name="民視影劇台" group-title="熱門收視",民視影劇台
+https://p-hebe.svc.litv.tv/hi/vod/BlkeWQ1g9Wo/master.m3u8
+#EXTINF:-1 tvg-logo="https://cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn12_tv.png" tvg-name="龍華偶像台" group-title="熱門收視",龍華偶像台
+https://p-hebe.svc.litv.tv/hi/vod/4rw0lmKq5Xc/master.m3u8
+#EXTINF:-1 tvg-logo="https://cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn11_tv.png" tvg-name="龍華日韓台" group-title="熱門收視",龍華日韓台
+https://p-hebe.svc.litv.tv/hi/vod/L9v9Yo0ZALQ/master.m3u8
+#EXTINF:-1 tvg-logo="https://cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv152_tv.png" tvg-name="東森新聞台" group-title="熱門收視",東森新聞台
+https://p-hebe.svc.litv.tv/hi/vod/iRUZ_zHDCws/master.m3u8
+#EXTINF:-1 tvg-logo="https://cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv009_tv.png" tvg-name="中天新聞台" group-title="熱門收視",中天新聞台
+https://p-hebe.svc.litv.tv/hi/vod/4zbGIDI9Qo0/master.m3u8
+#EXTINF:-1 tvg-logo="https://cdnstatic.svc.litv.tv/pics/logo_litv_litv-ftv13_tv.png" tvg-name="民視新聞台" group-title="熱門收視",民視新聞台
+https://p-hebe.svc.litv.tv/hi/vod/M5j0guDDLfw/master.m3u8
+#EXTINF:-1 tvg-logo="https://cdnstatic.svc.litv.tv/pics/logo_litv_iNEWS_tv.png" tvg-name="三立新聞iNEWS" group-title="熱門收視",三立新聞iNEWS
+https://p-hebe.svc.litv.tv/hi/vod/1o3Q6px6Gqs/master.m3u8
+#EXTINF:-1 tvg-logo="https://cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv072_tv.png" tvg-name="TVBS新聞" group-title="熱門收視",TVBS新聞
+https://p-hebe.svc.litv.tv/hi/vod/B-QwxRUTS-0/master.m3u8
+#EXTINF:-1 tvg-logo="https://cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv073_tv.png" tvg-name="TVBS" group-title="熱門收視",TVBS
+https://p-hebe.svc.litv.tv/hi/vod/MQtLaK9byMU/master.m3u8
+#EXTINF:-1 tvg-logo="https://cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv153_tv.png" tvg-name="東森財經新聞台" group-title="熱門收視",東森財經新聞台
+https://p-hebe.svc.litv.tv/hi/vod/Td1qhCibmAE/master.m3u8
+#EXTINF:-1 tvg-logo="https://cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv010_tv.png" tvg-name="非凡新聞台" group-title="熱門收視",非凡新聞台
+https://p-hebe.svc.litv.tv/hi/vod/ZatZ7u3z-OM/master.m3u8
+#EXTINF:-1 tvg-logo="https://cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv051_tv.png" tvg-name="台視新聞" group-title="熱門收視",台視新聞
+https://p-hebe.svc.litv.tv/hi/vod/cES98U0cANA/master.m3u8
+#EXTINF:-1 tvg-logo="https://cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv074_tv.png" tvg-name="中視新聞" group-title="熱門收視",中視新聞
+https://p-hebe.svc.litv.tv/hi/vod/3OzQj2MpTrI/master.m3u8
+#EXTINF:-1 tvg-logo="https://cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv052_tv.png" tvg-name="華視新聞" group-title="熱門收視",華視新聞
+https://p-hebe.svc.litv.tv/hi/vod/qLSmEiYPk8M/master.m3u8
+#EXTINF:-1 tvg-logo="https://cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn15_tv.png" tvg-name="寰宇新聞台灣台" group-title="熱門收視",寰宇新聞台灣台
+https://p-hebe.svc.litv.tv/hi/vod/XOMgVtaBvfk/master.m3u8
+#EXTINF:-1 tvg-logo="https://cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn14_tv.png" tvg-name="寰宇新聞台" group-title="熱門收視",寰宇新聞台
+https://p-hebe.svc.litv.tv/hi/vod/zm1u_m4EEI4/master.m3u8
+#EXTINF:-1 tvg-logo="https://cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn21_tv.png" tvg-name="龍華經典台" group-title="熱門收視",龍華經典台
+https://p-hebe.svc.litv.tv/hi/vod/TUXbA0wrTDg/master.m3u8
+#EXTINF:-1 tvg-logo="https://cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv011_tv.png" tvg-name="影迷數位電影台" group-title="熱門收視",影迷數位電影台
+https://p-hebe.svc.litv.tv/hi/vod/ix6s4hu0adE/master.m3u8
+#EXTINF:-1 tvg-logo="https://cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv076_tv.png" tvg-name="CATCHPLAY電影台" group-title="熱門收視",CATCHPLAY電影台
+https://p-hebe.svc.litv.tv/hi/vod/rotuTeSLeZ0/master.m3u8
+#EXTINF:-1 tvg-logo="https://cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn03_tv.png" tvg-name="龍華電影台" group-title="熱門收視",龍華電影台
+https://p-hebe.svc.litv.tv/hi/vod/o0qoQE9AQys/master.m3u8
+#EXTINF:-1 tvg-logo="https://cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv061_tv.png" tvg-name="靖天電影台" group-title="熱門收視",靖天電影台
+https://p-hebe.svc.litv.tv/hi/vod/7wRJwcZ872I/master.m3u8
+#EXTINF:-1 tvg-logo="https://cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv055_tv.png" tvg-name="靖天映畫" group-title="熱門收視",靖天映畫
+https://p-hebe.svc.litv.tv/hi/vod/RAjd_qHxPi0/master.m3u8
+#EXTINF:-1 tvg-logo="https://cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv048_tv.png" tvg-name="非凡商業台" group-title="熱門收視",非凡商業台
+https://p-hebe.svc.litv.tv/hi/vod/fKq29xM0z00/master.m3u8
+#EXTINF:-1 tvg-logo="https://cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv056_tv.png" tvg-name="台視財經" group-title="熱門收視",台視財經
+https://p-hebe.svc.litv.tv/hi/vod/T5O5O8XkwcE/master.m3u8
+#EXTINF:-1 tvg-logo="https://cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn23_tv.png" tvg-name="寰宇財經台" group-title="熱門收視",寰宇財經台
+https://p-hebe.svc.litv.tv/hi/vod/0WOlGuXg0y4/master.m3u8
+#EXTINF:-1 tvg-logo="https://cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn22_tv.png" tvg-name="台灣戲劇台" group-title="熱門收視",台灣戲劇台
+https://p-hebe.svc.litv.tv/hi/vod/AYoKEy-DmIM/master.m3u8
+#EXTINF:-1 tvg-logo="https://cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv013_tv.png" tvg-name="視納華仁紀實頻道" group-title="熱門收視",視納華仁紀實頻道
+https://p-hebe.svc.litv.tv/hi/vod/Epkr5_1ahOE/master.m3u8
+#EXTINF:-1 tvg-logo="https://cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv045_tv.png" tvg-name="靖洋戲劇台" group-title="熱門收視",靖洋戲劇台
+https://p-hebe.svc.litv.tv/hi/vod/JzSHFNq8VsQ/master.m3u8
+#EXTINF:-1 tvg-logo="https://cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv152_tv.png" tvg-name="東森新聞台" group-title="新聞‧財經📰",東森新聞台
+https://p-hebe.svc.litv.tv/hi/vod/ZqmVLHFn37o/master.m3u8
+#EXTINF:-1 tvg-logo="https://cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv009_tv.png" tvg-name="中天新聞台" group-title="新聞‧財經📰",中天新聞台
+https://p-hebe.svc.litv.tv/hi/vod/bNYxdLojFks/master.m3u8
+#EXTINF:-1 tvg-logo="https://cdnstatic.svc.litv.tv/pics/logo_litv_litv-ftv13_tv.png" tvg-name="民視新聞台" group-title="新聞‧財經📰",民視新聞台
+https://p-hebe.svc.litv.tv/hi/vod/MteoH6mOj7I/master.m3u8
+#EXTINF:-1 tvg-logo="https://cdnstatic.svc.litv.tv/pics/logo_litv_iNEWS_tv.png" tvg-name="三立新聞iNEWS" group-title="新聞‧財經📰",三立新聞iNEWS
+https://p-hebe.svc.litv.tv/hi/vod/uZh7OxTUuVM/master.m3u8
+#EXTINF:-1 tvg-logo="https://cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv072_tv.png" tvg-name="TVBS新聞" group-title="新聞‧財經📰",TVBS新聞
+https://p-hebe.svc.litv.tv/hi/vod/hgIYGkKVVrc/master.m3u8
+#EXTINF:-1 tvg-logo="https://cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv073_tv.png" tvg-name="TVBS" group-title="新聞‧財經📰",TVBS
+https://p-hebe.svc.litv.tv/hi/vod/_tyiUpC79AQ/master.m3u8
+#EXTINF:-1 tvg-logo="https://cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv153_tv.png" tvg-name="東森財經新聞台" group-title="新聞‧財經📰",東森財經新聞台
+https://p-hebe.svc.litv.tv/hi/vod/xSogIHtmTxk/master.m3u8
+#EXTINF:-1 tvg-logo="https://cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv010_tv.png" tvg-name="非凡新聞台" group-title="新聞‧財經📰",非凡新聞台
+https://p-hebe.svc.litv.tv/hi/vod/ALG17dckwzY/master.m3u8
+#EXTINF:-1 tvg-logo="https://cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv051_tv.png" tvg-name="台視新聞" group-title="新聞‧財經📰",台視新聞
+https://p-hebe.svc.litv.tv/hi/vod/H1444MKFKv0/master.m3u8
+#EXTINF:-1 tvg-logo="https://cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv074_tv.png" tvg-name="中視新聞" group-title="新聞‧財經📰",中視新聞
+https://p-hebe.svc.litv.tv/hi/vod/A5lbu3_b-mo/master.m3u8
+#EXTINF:-1 tvg-logo="https://cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv052_tv.png" tvg-name="華視新聞" group-title="新聞‧財經📰",華視新聞
+https://p-hebe.svc.litv.tv/hi/vod/HDKXClHtCBI/master.m3u8
+#EXTINF:-1 tvg-logo="https://cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn15_tv.png" tvg-name="寰宇新聞台灣台" group-title="新聞‧財經📰",寰宇新聞台灣台
+https://p-hebe.svc.litv.tv/hi/vod/XgSd6Qh2Oc4/master.m3u8
+#EXTINF:-1 tvg-logo="https://cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn14_tv.png" tvg-name="寰宇新聞台" group-title="新聞‧財經📰",寰宇新聞台
+https://p-hebe.svc.litv.tv/hi/vod/Ykg5JtiyixM/master.m3u8
+#EXTINF:-1 tvg-logo="https://cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv048_tv.png" tvg-name="非凡商業台" group-title="新聞‧財經📰",非凡商業台
+https://p-hebe.svc.litv.tv/hi/vod/2eim62zTPT8/master.m3u8
+#EXTINF:-1 tvg-logo="https://cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv056_tv.png" tvg-name="台視財經" group-title="新聞‧財經📰",台視財經
+https://p-hebe.svc.litv.tv/hi/vod/aTIBTe1DITc/master.m3u8
+#EXTINF:-1 tvg-logo="https://cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn23_tv.png" tvg-name="寰宇財經台" group-title="新聞‧財經📰",寰宇財經台
+https://p-hebe.svc.litv.tv/hi/vod/ZFrsv7b-on8/master.m3u8
+#EXTINF:-1 tvg-logo="https://cdnstatic.svc.litv.tv/pics/logo_litv_litv-ftv10_tv.png" tvg-name="半島國際新聞台" group-title="新聞‧財經📰",半島國際新聞台
+https://p-hebe.svc.litv.tv/hi/vod/1Wj1pkNq87Y/master.m3u8
+#EXTINF:-1 tvg-logo="https://cdnstatic.svc.litv.tv/pics/logo_litv_litv-ftv03_tv.png" tvg-name="VOA美國之音" group-title="新聞‧財經📰",VOA美國之音
+https://p-hebe.svc.litv.tv/hi/vod/WFqt6BF_0XQ/master.m3u8
+#EXTINF:-1 tvg-logo="https://cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv104_tv.png" tvg-name="第1商業台" group-title="新聞‧財經📰",第1商業台
+https://p-hebe.svc.litv.tv/hi/vod/EBL3Xd_8n3Q/master.m3u8
+#EXTINF:-1 tvg-logo="https://cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv084_tv.png" tvg-name="國會頻道1台" group-title="新聞‧財經📰",國會頻道1台
+https://p-hebe.svc.litv.tv/hi/vod/86Rt_B8IEwk/master.m3u8
+#EXTINF:-1 tvg-logo="https://cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv085_tv.png" tvg-name="國會頻道2台" group-title="新聞‧財經📰",國會頻道2台
+https://p-hebe.svc.litv.tv/hi/vod/ZGCqFJHOeaA/master.m3u8
+#EXTINF:-1 tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv003_tv.png" tvg-name="民視第一台" group-title="綜合",民視第一台
+https://p-hebe.svc.litv.tv/hi/vod/nID5CSj_wxw/master.m3u8
+#EXTINF:-1 tvg-logo="https://p-cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv001_tv.png" tvg-name="民視台灣台" group-title="綜合",民視台灣台
+https://p-hebe.svc.litv.tv/hi/vod/C7y2nCNLT-A/master.m3u8
+#EXTINF:-1 tvg-logo="https://cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv155_tv.png" tvg-name="民視" group-title="綜合",民視
+https://p-hebe.svc.litv.tv/hi/vod/YshpnrUynXk/master.m3u8
+#EXTINF:-1 tvg-logo="https://cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv066_tv.png" tvg-name="台視" group-title="綜合",台視
+https://p-hebe.svc.litv.tv/hi/vod/PxPRRuX1CkA/master.m3u8
+#EXTINF:-1 tvg-logo="https://cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv040_tv.png" tvg-name="中視" group-title="綜合",中視
+https://p-hebe.svc.litv.tv/hi/vod/0VmXsiCJIvo/master.m3u8
+#EXTINF:-1 tvg-logo="https://cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv041_tv.png" tvg-name="華視" group-title="綜合",華視
+https://p-hebe.svc.litv.tv/hi/vod/sdfoauDuLu8/master.m3u8
+#EXTINF:-1 tvg-logo="https://cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn17_tv.png" tvg-name="亞洲旅遊台" group-title="綜合",亞洲旅遊台
+https://p-hebe.svc.litv.tv/hi/vod/FVB4JXRk_MI/master.m3u8
+#EXTINF:-1 tvg-logo="https://cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv109_tv.png" tvg-name="中天亞洲台" group-title="綜合",中天亞洲台
+https://p-hebe.svc.litv.tv/hi/vod/I5tDbixrUXs/master.m3u8
+#EXTINF:-1 tvg-logo="https://cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv067_tv.png" tvg-name="TVBS精采台" group-title="綜合",TVBS精采台
+https://p-hebe.svc.litv.tv/hi/vod/j1khu6p_8UI/master.m3u8
+#EXTINF:-1 tvg-logo="https://cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv068_tv.png" tvg-name="TVBS歡樂台" group-title="綜合",TVBS歡樂台
+https://p-hebe.svc.litv.tv/hi/vod/wB-I1HDyfI0/master.m3u8
+#EXTINF:-1 tvg-logo="https://cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv047_tv.png" tvg-name="靖天日本台" group-title="綜合",靖天日本台
+https://p-hebe.svc.litv.tv/hi/vod/GoRFlzpfCc0/master.m3u8
+#EXTINF:-1 tvg-logo="https://cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv046_tv.png" tvg-name="靖天綜合台" group-title="綜合",靖天綜合台
+https://p-hebe.svc.litv.tv/hi/vod/Tme-0l2U7ZM/master.m3u8
+#EXTINF:-1 tvg-logo="https://cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv054_tv.png" tvg-name="Nice TV靖天歡樂台" group-title="綜合",Nice TV靖天歡樂台
+https://p-hebe.svc.litv.tv/hi/vod/QFFM3Oh0-M4/master.m3u8
+#EXTINF:-1 tvg-logo="https://cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv065_tv.png" tvg-name="靖天資訊台" group-title="綜合",靖天資訊台
+https://p-hebe.svc.litv.tv/hi/vod/GB0IxsdXmkc/master.m3u8
+#EXTINF:-1 tvg-logo="https://cdnstatic.svc.litv.tv/pics/logo_litv_litv-ftv07_tv.png" tvg-name="民視旅遊台" group-title="綜合",民視旅遊台
+https://p-hebe.svc.litv.tv/hi/vod/Je-SD0Okg8U/master.m3u8
+#EXTINF:-1 tvg-logo="https://cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn19_tv.png" tvg-name="Smart知識台" group-title="綜合",Smart知識台
+https://p-hebe.svc.litv.tv/hi/vod/Z-DG87_1e1E/master.m3u8
+#EXTINF:-1 tvg-logo="https://cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv064_tv.png" tvg-name="中視菁采台" group-title="綜合",中視菁采台
+https://p-hebe.svc.litv.tv/hi/vod/QpX-Tp7zLUw/master.m3u8
+#EXTINF:-1 tvg-logo="https://cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv080_tv.png" tvg-name="中視經典台" group-title="綜合",中視經典台
+https://p-hebe.svc.litv.tv/hi/vod/mabz1zIzXq8/master.m3u8
+#EXTINF:-1 tvg-logo="https://cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv043_tv.png" tvg-name="客家電視台" group-title="綜合",客家電視台
+https://p-hebe.svc.litv.tv/hi/vod/RfekEz5BN0E/master.m3u8
+#EXTINF:-1 tvg-logo="https://cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv101_tv.png" tvg-name="TRACE Urban" group-title="綜合",TRACE Urban
+https://p-hebe.svc.litv.tv/hi/vod/SAduzjPNnLM/master.m3u8
+#EXTINF:-1 tvg-logo="https://cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv083_tv.png" tvg-name="Mezzo Live HD" group-title="綜合",Mezzo Live HD
+https://p-hebe.svc.litv.tv/hi/vod/wKU2MMx_y-U/master.m3u8
+#EXTINF:-1 tvg-logo="https://cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv083_tv.png" tvg-name="CLASSICA 古典樂" group-title="綜合",CLASSICA 古典樂
+https://p-hebe.svc.litv.tv/hi/vod/KcgL-rxXADs/master.m3u8
+#EXTINF:-1 tvg-logo="https://cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv079_tv.png" tvg-name="ARIRANG阿里郎頻道" group-title="綜合",ARIRANG阿里郎頻道
+https://p-hebe.svc.litv.tv/hi/vod/Aj915sN9Dwk/master.m3u8
+#EXTINF:-1 tvg-logo="https://cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn20_tv.png" tvg-name="ELTV生活英語台" group-title="綜合",ELTV生活英語台
+https://p-hebe.svc.litv.tv/hi/vod/ILU9-ZKQQ_w/master.m3u8
+#EXTINF:-1 tvg-logo="https://cdnstatic.svc.litv.tv/pics/logo_litv_litv-ftv16_tv.png" tvg-name="好消息1台" group-title="綜合",好消息1台
+https://p-hebe.svc.litv.tv/hi/vod/U9Rf5KpLZzo/master.m3u8
+#EXTINF:-1 tvg-logo="https://cdnstatic.svc.litv.tv/pics/logo_litv_litv-ftv17_tv.png" tvg-name="好消息2台" group-title="綜合",好消息2台
+https://p-hebe.svc.litv.tv/hi/vod/dfNva1MIoRY/master.m3u8
+#EXTINF:-1 tvg-logo="https://cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn21_tv.png" tvg-name="龍華經典台" group-title="電影.戲劇🎞",龍華經典台
+https://p-hebe.svc.litv.tv/hi/vod/pw0gbsYRd-I/master.m3u8
+#EXTINF:-1 tvg-logo="https://cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv011_tv.png" tvg-name="影迷數位電影台" group-title="電影.戲劇🎞",影迷數位電影台
+https://p-hebe.svc.litv.tv/hi/vod/72c29GMzyF8/master.m3u8
+#EXTINF:-1 tvg-logo="https://cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv076_tv.png" tvg-name="CATCHPLAY電影台" group-title="電影.戲劇🎞",CATCHPLAY電影台
+https://p-hebe.svc.litv.tv/hi/vod/qFfpRbbLEHc/master.m3u8
+#EXTINF:-1 tvg-logo="https://cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn03_tv.png" tvg-name="龍華電影台" group-title="電影.戲劇🎞",龍華電影台
+https://p-hebe.svc.litv.tv/hi/vod/5bD19mnUc3k/master.m3u8
+#EXTINF:-1 tvg-logo="https://cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv061_tv.png" tvg-name="靖天電影台" group-title="電影.戲劇🎞",靖天電影台
+https://p-hebe.svc.litv.tv/hi/vod/WY-Salatl2Q/master.m3u8
+#EXTINF:-1 tvg-logo="https://cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv055_tv.png" tvg-name="靖天映畫" group-title="電影.戲劇🎞",靖天映畫
+https://p-hebe.svc.litv.tv/hi/vod/L7sHl6O485I/master.m3u8
+#EXTINF:-1 tvg-logo="https://cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv013_tv.png" tvg-name="視納華仁紀實頻道" group-title="電影.戲劇🎞",視納華仁紀實頻道
+https://p-hebe.svc.litv.tv/hi/vod/i-1KBm3LHa8/master.m3u8
+#EXTINF:-1 tvg-logo="https://cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv042_tv.png" tvg-name="公視戲劇" group-title="電影.戲劇🎞",公視戲劇
+https://p-hebe.svc.litv.tv/hi/vod/mlwqDtPQnjU/master.m3u8
+#EXTINF:-1 tvg-logo="https://cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn18_tv.png" tvg-name="龍華戲劇台" group-title="電影.戲劇🎞",龍華戲劇台
+https://p-hebe.svc.litv.tv/hi/vod/Imga6uT-JzM/master.m3u8
+#EXTINF:-1 tvg-logo="https://cdnstatic.svc.litv.tv/pics/logo_litv_litv-ftv09_tv.png" tvg-name="民視影劇台" group-title="電影.戲劇🎞",民視影劇台
+https://p-hebe.svc.litv.tv/hi/vod/H-6MpmNXgaQ/master.m3u8
+#EXTINF:-1 tvg-logo="https://cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn12_tv.png" tvg-name="龍華偶像台" group-title="電影.戲劇🎞",龍華偶像台
+https://p-hebe.svc.litv.tv/hi/vod/fOtDLISA9q0/master.m3u8
+#EXTINF:-1 tvg-logo="https://cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn11_tv.png" tvg-name="龍華日韓台" group-title="電影.戲劇🎞",龍華日韓台
+https://p-hebe.svc.litv.tv/hi/vod/jMpC05WyvgQ/master.m3u8
+#EXTINF:-1 tvg-logo="https://cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn22_tv.png" tvg-name="台灣戲劇台" group-title="電影.戲劇🎞",台灣戲劇台
+https://p-hebe.svc.litv.tv/hi/vod/I9NWhF2Ra-s/master.m3u8
+#EXTINF:-1 tvg-logo="https://cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv034_tv.png" tvg-name="八大精彩台" group-title="電影.戲劇🎞",八大精彩台
+https://p-hebe.svc.litv.tv/hi/vod/aeLuFyGXxxA/master.m3u8
+#EXTINF:-1 tvg-logo="https://cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv049_tv.png" tvg-name="采昌影劇台" group-title="電影.戲劇🎞",采昌影劇台
+https://p-hebe.svc.litv.tv/hi/vod/DeKCCFRk7ww/master.m3u8
+#EXTINF:-1 tvg-logo="https://cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv058_tv.png" tvg-name="靖天戲劇台" group-title="電影.戲劇🎞",靖天戲劇台
+https://p-hebe.svc.litv.tv/hi/vod/l5yIGn1-NB8/master.m3u8
+#EXTINF:-1 tvg-logo="https://cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv045_tv.png" tvg-name="靖洋戲劇台" group-title="電影.戲劇🎞",靖洋戲劇台
+https://p-hebe.svc.litv.tv/hi/vod/i6J-w6atOM4/master.m3u8
+#EXTINF:-1 tvg-logo="https://cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv004_tv.png" tvg-name="民視綜藝台" group-title="綜藝",民視綜藝台
+https://p-hebe.svc.litv.tv/hi/vod/x-AAHeChj_k/master.m3u8
+#EXTINF:-1 tvg-logo="https://cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv006_tv.png" tvg-name="豬哥亮歌廳秀" group-title="綜藝",豬哥亮歌廳秀
+https://p-hebe.svc.litv.tv/hi/vod/hvyXbBMMvQ8/master.m3u8
+#EXTINF:-1 tvg-logo="https://cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv062_tv.png" tvg-name="靖天育樂台" group-title="綜藝",靖天育樂台
+https://p-hebe.svc.litv.tv/hi/vod/9gyqsqQcUwE/master.m3u8
+#EXTINF:-1 tvg-logo="https://cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv063_tv.png" tvg-name="KLT-靖天國際台" group-title="綜藝",KLT-靖天國際台
+https://p-hebe.svc.litv.tv/hi/vod/sETsHN4GzEA/master.m3u8
+#EXTINF:-1 tvg-logo="https://cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv070_tv.png" tvg-name="愛爾達娛樂台" group-title="綜藝",愛爾達娛樂台
+https://p-hebe.svc.litv.tv/hi/vod/Nqo-KasMyJk/master.m3u8
+#EXTINF:-1 tvg-logo="https://cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv039_tv.png" tvg-name="八大綜藝台" group-title="綜藝",八大綜藝台
+https://p-hebe.svc.litv.tv/hi/vod/29dHWu8Z0hA/master.m3u8
+#EXTINF:-1 tvg-logo="https://cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv016_tv.png" tvg-name="韓國娛樂台 KMTV" group-title="綜藝",韓國娛樂台 KMTV
+https://p-hebe.svc.litv.tv/hi/vod/fC52G6ei5OM/master.m3u8
+#EXTINF:-1 tvg-logo="https://cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn05_tv.png" tvg-name="博斯高球一台" group-title="體育🎾",博斯高球一台
+https://p-hebe.svc.litv.tv/hi/vod/RHVvW0cM0rI/master.m3u8
+#EXTINF:-1 tvg-logo="https://cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn06_tv.png" tvg-name="博斯高球二台" group-title="體育🎾",博斯高球二台
+https://p-hebe.svc.litv.tv/hi/vod/khJlOuaizOU/master.m3u8
+#EXTINF:-1 tvg-logo="https://cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn07_tv.png" tvg-name="博斯運動一台" group-title="體育🎾",博斯運動一台
+https://p-hebe.svc.litv.tv/hi/vod/tL67W2t_A2k/master.m3u8
+#EXTINF:-1 tvg-logo="https://cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn08_tv.png" tvg-name="博斯運動二台" group-title="體育🎾",博斯運動二台
+https://p-hebe.svc.litv.tv/hi/vod/XyEeeUIRYFE/master.m3u8
+#EXTINF:-1 tvg-logo="https://cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn10_tv.png" tvg-name="博斯無限一台" group-title="體育🎾",博斯無限一台
+https://p-hebe.svc.litv.tv/hi/vod/vLtbWQanWsU/master.m3u8
+#EXTINF:-1 tvg-logo="https://cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn13_tv.png" tvg-name="博斯無限二台" group-title="體育🎾",博斯無限二台
+https://p-hebe.svc.litv.tv/hi/vod/L4jOUT5B7D0/master.m3u8
+#EXTINF:-1 tvg-logo="https://cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn09_tv.png" tvg-name="博斯網球台" group-title="體育🎾",博斯網球台
+https://p-hebe.svc.litv.tv/hi/vod/hAjjkovb9ic/master.m3u8
+#EXTINF:-1 tvg-logo="https://cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn04_tv.png" tvg-name="博斯魅力台" group-title="體育🎾",博斯魅力台
+https://p-hebe.svc.litv.tv/hi/vod/3DjXSpB0mlg/master.m3u8
+#EXTINF:-1 tvg-logo="https://cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv077_tv.png" tvg-name="TRACE Sport Stars" group-title="體育🎾",TRACE Sport Stars
+https://p-hebe.svc.litv.tv/hi/vod/s3rX8TCoIDU/master.m3u8
+#EXTINF:-1 tvg-logo="https://cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv101_tv.png" tvg-name="智林體育台" group-title="體育🎾",智林體育台
+https://p-hebe.svc.litv.tv/hi/vod/s68DB79w8PU/master.m3u8
+#EXTINF:-1 tvg-logo="https://cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv014_tv.png" tvg-name="時尚運動X" group-title="體育🎾",時尚運動X
+https://p-hebe.svc.litv.tv/hi/vod/9UiTBVgOI5M/master.m3u8
+#EXTINF:-1 tvg-logo="https://cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv053_tv.png" tvg-name="GINX Esports TV" group-title="體育🎾",GINX Esports TV
+https://p-hebe.svc.litv.tv/hi/vod/LW3X4WTPcwY/master.m3u8
+#EXTINF:-1 tvg-logo="https://cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv079_tv.png" tvg-name="達文西頻道" group-title="卡通‧兒童🛝",達文西頻道
+https://p-hebe.svc.litv.tv/hi/vod/Kqjg2Wah0p8/master.m3u8
+#EXTINF:-1 tvg-logo="https://cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn20_tv.png" tvg-name="ELTV生活英語台" group-title="卡通‧兒童🛝",ELTV生活英語台
+https://p-hebe.svc.litv.tv/hi/vod/uR0PElc-LWs/master.m3u8
+#EXTINF:-1 tvg-logo="https://cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv057_tv.png" tvg-name="靖洋卡通Nice Bingo" group-title="卡通‧兒童🛝",靖洋卡通Nice Bingo
+https://p-hebe.svc.litv.tv/hi/vod/hgpFgQ2H_5E/master.m3u8
+#EXTINF:-1 tvg-logo="https://cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv044_tv.png" tvg-name="靖天卡通台" group-title="卡通‧兒童🛝",靖天卡通台
+https://p-hebe.svc.litv.tv/hi/vod/uG3IebH7F9M/master.m3u8
+#EXTINF:-1 tvg-logo="https://cdnstatic.svc.litv.tv/pics/logo_litv_litv-longturn01_tv.png" tvg-name="龍華卡通台" group-title="卡通‧兒童🛝",龍華卡通台
+https://p-hebe.svc.litv.tv/hi/vod/D0rNiLxA2uo/master.m3u8
+#EXTINF:-1 tvg-logo="https://cdnstatic.svc.litv.tv/pics/logo_litv_litv-ftv15_tv.png" tvg-name="i-Fun動漫台" group-title="卡通‧兒童🛝",i-Fun動漫台
+https://p-hebe.svc.litv.tv/hi/vod/XodHExIz7_4/master.m3u8
+#EXTINF:-1 tvg-logo="https://cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv102_tv.png" tvg-name="東森購物1台" group-title="購物台🛍️",東森購物1台
+https://p-hebe.svc.litv.tv/hi/vod/d3jufKsPrKU/master.m3u8
+#EXTINF:-1 tvg-logo="https://cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv103_tv.png" tvg-name="東森購物2台" group-title="購物台🛍️",東森購物2台
+https://p-hebe.svc.litv.tv/hi/vod/I__z15Zj494/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv103_tv.png" tvg-name="東森購物2台" group-title="購物台🛍️",東森購物2台
+https://broadcast-ettoday.cdn.hinet.net/ettoday-broadcast/smil:etmall3.smil/playlist.m3u8
+https://www.youtube.com/live/_Vlzn9qAHD4
+#EXTINF:-1 tvg-logo="https://cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv103_tv.png" tvg-name="東森購物3台" group-title="購物台🛍️",東森購物3台
+https://broadcast-ettoday.cdn.hinet.net/ettoday-broadcast/smil:etmall1.smil/playlist.m3u8
+https://www.youtube.com/live/Z50JFuNgvB0
+#EXTINF:-1 tvg-logo="https://cdnstatic.svc.litv.tv/pics/logo_litv_4gtv-4gtv103_tv.png" tvg-name="東森購物5台" group-title="購物台🛍️",東森購物5台
+https://broadcast-ettoday.cdn.hinet.net/ettoday-broadcast/smil:etmall2.smil/playlist.m3u8
+https://www.youtube.com/live/u0NYyH3ZesE
+#EXTINF:-1 tvg-logo="https://upload.112114.xyz/logo/MOMO%E8%B3%BC%E7%89%A91%E5%8F%B0.png" tvg-name="momo購物1台" group-title="購物台🛍️",momo購物1台
+https://www.youtube.com/live/_pZQ1Lk0xMA
+#EXTINF:-1 tvg-logo="https://upload.112114.xyz/logo/MOMO%E8%B3%BC%E7%89%A91%E5%8F%B0.png" tvg-name="momo購物2台" group-title="購物台🛍️",momo購物2台
+https://www.youtube.com/live/xbNWkUyxQGM
+#EXTINF:-1 tvg-logo="https://upload.112114.xyz/logo/VIVA%E8%B3%BC%E7%89%A91%E5%8F%B0.png" tvg-name="viva購物1台" group-title="購物台🛍️",viva購物1台
+https://www.youtube.com/live/yuhgIlXwPh8
+#EXTINF:-1 tvg-logo="https://upload.112114.xyz/logo/VIVA%E8%B3%BC%E7%89%A91%E5%8F%B0.png" tvg-name="viva購物2台" group-title="購物台🛍️",viva購物2台
+https://www.youtube.com/live/LEOat38Iuao
+#EXTINF:-1 tvg-logo="https://upload.112114.xyz/logo/%E7%BE%8E%E9%BA%97%E4%BA%BA%E7%94%9F%E8%B3%BC%E7%89%A9%E5%8F%B0.png" tvg-name="美麗人生購物台" group-title="購物台🛍️",美麗人生購物台
+http://58.99.33.16:1935/liveedge17/live_070_3.stream/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.112114.xyz/logo/SHOPCHANNEL.png" tvg-name="日本購物" group-title="購物台🛍️",日本購物台
+http://stream1.shopch.jp/HLS/out1/prog_index.m3u8
+http://stream1.shopch.jp/HLS/out2/prog_index.m3u8
+http://stream1.shopch.jp/HLS/out3/prog_index.m3u8
+http://stream1.shopch.jp/HLS/out4/prog_index.m3u8
