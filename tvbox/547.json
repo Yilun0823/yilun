@@ -213,7 +213,7 @@
     {
       "host": "v.douyin.com",
       "rule": ["playwm/?video_id="]
-    }
+    },
   ]
 }
 
