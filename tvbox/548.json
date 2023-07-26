@@ -194,19 +194,16 @@
 		"url": "https://okjx.cc/?url="
 	}],
 	
-{
-  "rules": [
-    {
-      "host": "www.iesdouyin.com",
-      "rule": ["playwm/?video_id="]
-    },
-    {
-      "host": "v.douyin.com",
-      "rule": ["playwm/?video_id="]
-    },
-  ]
-}
-
+    "rules":[
+        {
+        "host":"www.iesdouyin.com",
+        "rule":["playwm/?video_id="]
+        },
+        {
+        "host":"v.douyin.com",
+        "rule":["playwm/?video_id="]
+        }
+    ],
     "ijk": [
         {
             "group": "软解码",
