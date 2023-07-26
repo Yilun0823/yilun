@@ -194,26 +194,29 @@
 		"url": "https://okjx.cc/?url="
 	}],
 	
-    "rules":[
-	{
-        "name": "星星",
-        "hosts": [
-          "aws.ulivetv.net"
-        ],
-        "regex": [
-          "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:8,[\\s\\S]*?#EXT-X-DISCONTINUITY",
-          "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:9,[\\s\\S]*?#EXT-X-DISCONTINUITY"
-        ]
-	}
-        {
-        "host":"www.iesdouyin.com",
-        "rule":["playwm/?video_id="]
-        },
-        {
-        "host":"v.douyin.com",
-        "rule":["playwm/?video_id="]
-        }
-    ],
+{
+  "rules": [
+    {
+      "name": "星星",
+      "hosts": [
+        "aws.ulivetv.net"
+      ],
+      "regex": [
+        "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:8,[\\s\\S]*?#EXT-X-DISCONTINUITY",
+        "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:9,[\\s\\S]*?#EXT-X-DISCONTINUITY"
+      ]
+    },
+    {
+      "host": "www.iesdouyin.com",
+      "rule": ["playwm/?video_id="]
+    },
+    {
+      "host": "v.douyin.com",
+      "rule": ["playwm/?video_id="]
+    }
+  ]
+}
+
     "ijk": [
         {
             "group": "软解码",
