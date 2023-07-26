@@ -1,5 +1,5 @@
 {
-	"spider": "./custom_spider.jar",
+	"spider": "./custom_spider.jar","./YSC.jar;md5;488ae0a1f702b8607a5037ee99049c77",
 	"wallpaper": "http://饭太硬.top/深色壁纸/api.php",
 	"lives": [{
 		    "name": "live",
