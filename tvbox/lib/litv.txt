@@ -1,8 +1,0 @@
-litv,#genre#
-頻道表,https://p-hebe.svc.litv.tv/hi/vod/ElDwJI5FO2A/master.m3u8
-LiTV 精采預告,https://p-hebe.svc.litv.tv/hi/vod/Dr7maRr8IIE/master.m3u8
-民視第一台,https://p-hebe.svc.litv.tv/hi/vod/W6nYLg6vO8A/master.m3u8
-民視台灣台,https://p-hebe.svc.litv.tv/hi/vod/4CD8crsnBg0/master.m3u8
-民視,https://p-hebe.svc.litv.tv/hi/vod/4E6JXPNuHFE/master.m3u8
-台視,https://p-hebe.svc.litv.tv/hi/vod/3rFIiqJrer0/master.m3u8
-中視,https://p-hebe.svc.litv.tv/hi/vod/mj9fVss4awY/master.m3u8
