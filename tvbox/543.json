@@ -406,10 +406,10 @@
   "lives": [
     {
       "name": "live",
-      "boot": true,
-      "url": "http://122.116.119.235:8000/tv.m3u",
       "type": 0,
-      "epg": "http://diyp.112114.xyz/?ch={name}&date={date}",
+      "url": "http://122.116.119.235:8000/tv.m3u",
+      "epg": "http://diyp.112114.xyz/?ch={name}&date={date}"
+      "boot": true,
     },
     {
       "group": "redirect",
