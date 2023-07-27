@@ -1,5 +1,5 @@
 {
-  "spider": "./pandaQ230714.jar;md5;620bec58d59eb55110ca4d731ce736ae",
+  "spider": "./pandaQ230714.jar",
   "sites": [
     {
       "key": "csp_Nbys",
