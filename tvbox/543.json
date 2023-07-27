@@ -409,7 +409,7 @@
       "boot": true,
       "url": "http://122.116.119.235:8000/tv.m3u",
       "type": 0,
-      "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"
+      "epg": "http://diyp.112114.xyz/?ch={name}&date={date}",
     },
     {
       "group": "redirect",
