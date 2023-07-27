@@ -1,1 +1,1 @@
-clan://localhost/tvbox/e68f1059-b978-48b0-994f-94b88adb7c1a/543/543.json
+clan://localhost/tvbox/543.json
