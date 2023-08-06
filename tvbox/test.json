@@ -403,14 +403,8 @@
       "ext": "./lib/高中課堂.json?sign=ESNTJf_EMO0ch_J5j-kV35jFLeg1GvG4VJjUqW2DJCc=:0"
     }
   ],
-  "lives": [
-    {
-      "name": "live",
-      "type": 0,
-      "url": "http://122.116.119.235:8000/all.txt",
-      "epg": "http://diyp.112114.xyz/?ch={name}&date={date}",
-      "boot": true
-    },
+  "spider":"./jar/custom_spider.jar",
+"lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=eth"]}]}],
     {
       "group": "redirect",
       "type": 0,
